@@ -1,5 +1,174 @@
 [
   {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "ironheart",
+    "b_title": "Ironheart",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Cold",
+      "Incinerate",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Cold",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Reversed Controls",
+      "Special Lock"
+    ],
+    "complementarity": 7,
+    "union_size": 7
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "iron_man_infamous",
+    "b_title": "Iron Man (Infamous)",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Incinerate",
+      "Shock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Shock",
+      "Special Lock"
+    ],
+    "complementarity": 6,
+    "union_size": 6
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "jack_o_lantern",
+    "b_title": "Jack O'Lantern",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Incinerate",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Reversed Controls",
+      "Special Lock"
+    ],
+    "complementarity": 6,
+    "union_size": 6
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Neuroshock",
+      "Power Drain",
+      "Reversed Controls",
+      "Special Lock"
+    ],
+    "complementarity": 6,
+    "union_size": 6
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "prowler",
+    "b_title": "Prowler",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Bleed",
+      "Falter",
+      "Incinerate"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Falter",
+      "Incinerate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 6
+  },
+  {
+    "a_slug": "abomination",
+    "a_title": "Abomination",
+    "a_class": "Science",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
     "a_slug": "arnim_zola",
     "a_title": "Arnim Zola",
     "a_class": "Tech",
@@ -21,6 +190,786 @@
       "Incinerate",
       "Poison",
       "Reversed Controls"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "black_bolt",
+    "a_title": "Black Bolt",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "captain_marvel",
+    "a_title": "Captain Marvel",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "captain_marvel_classic",
+    "a_title": "Captain Marvel (Classic)",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "corvus_glaive",
+    "a_title": "Corvus Glaive",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Galive's"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Galive's",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "dazzler",
+    "a_title": "Dazzler",
+    "a_class": "Mutant",
+    "a_immunities": [
+      "Nullify"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Nullify",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "hulk",
+    "a_title": "Hulk",
+    "a_class": "Science",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "hulk_ragnarok",
+    "a_title": "Hulk (Ragnarok)",
+    "a_class": "Science",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "medusa",
+    "b_title": "Medusa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "mephisto",
+    "b_title": "Mephisto",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "mole_man",
+    "b_title": "Mole Man",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Shock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Shock",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "moondragon",
+    "b_title": "Moondragon",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Reversed Controls",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "ms_marvel",
+    "b_title": "Ms. Marvel",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "ms_marvel_kamala_khan",
+    "b_title": "Ms. Marvel (Kamala Khan)",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "nico_minoru",
+    "b_title": "Nico Minoru",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Buff"
+    ],
+    "union": [
+      "Bleed",
+      "Buff",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "punisher",
+    "b_title": "Punisher",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Wither"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock",
+      "Wither"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "ronan",
+    "b_title": "Ronan",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "sabretooth",
+    "b_title": "Sabretooth",
+    "b_class": "Mutant",
+    "b_immunities": [
+      "Cold"
+    ],
+    "union": [
+      "Bleed",
+      "Cold",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "she_hulk",
+    "b_title": "She-Hulk",
+    "b_class": "Science",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "she_hulk_deathless",
+    "b_title": "She-Hulk (Deathless)",
+    "b_class": "Science",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "shocker",
+    "b_title": "Shocker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Shock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Shock",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "shuri",
+    "b_title": "Shuri",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Shock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Shock",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "spiral",
+    "b_title": "Spiral",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Falter"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Falter",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "spot",
+    "b_title": "Spot",
+    "b_class": "Science",
+    "b_immunities": [
+      "Buff"
+    ],
+    "union": [
+      "Bleed",
+      "Buff",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "the_leader",
+    "b_title": "The Leader",
+    "b_class": "Science",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "the_serpent",
+    "b_title": "The Serpent",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Coldsnap"
+    ],
+    "union": [
+      "Bleed",
+      "Coldsnap",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "toad",
+    "b_title": "Toad",
+    "b_class": "Mutant",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "void",
+    "b_title": "Void",
+    "b_class": "Science",
+    "b_immunities": [
+      "Incinerate"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "vox",
+    "b_title": "Vox",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "white_tiger",
+    "b_title": "White Tiger",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Nullify"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Nullify",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "yelena_belova",
+    "b_title": "Yelena Belova",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
     ],
     "complementarity": 5,
     "union_size": 5
@@ -49,6 +998,140 @@
       "Shock"
     ],
     "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "prowler",
+    "a_title": "Prowler",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Bleed",
+      "Falter",
+      "Incinerate"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Falter",
+      "Incinerate",
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "complementarity": 5,
+    "union_size": 5
+  },
+  {
+    "a_slug": "arnim_zola",
+    "a_title": "Arnim Zola",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Bleed",
+      "Poison"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Poison",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 4,
+    "union_size": 5
+  },
+  {
+    "a_slug": "cosmic_ghost_rider",
+    "a_title": "Cosmic Ghost Rider",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 4,
+    "union_size": 5
+  },
+  {
+    "a_slug": "ghost_rider",
+    "a_title": "Ghost Rider",
+    "a_class": "Mystic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Incinerate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 4,
+    "union_size": 5
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "terrax",
+    "b_title": "Terrax",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Shock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Shock",
+      "Special Lock"
+    ],
+    "complementarity": 4,
     "union_size": 5
   },
   {
@@ -168,6 +1251,30 @@
     "union": [
       "Bleed",
       "Incinerate",
+      "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "arnim_zola",
+    "a_title": "Arnim Zola",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Bleed",
+      "Poison"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Neuroshock",
       "Poison",
       "Reversed Controls"
     ],
@@ -391,6 +1498,30 @@
     "union_size": 4
   },
   {
+    "a_slug": "cosmic_ghost_rider",
+    "a_title": "Cosmic Ghost Rider",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Incinerate",
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
     "a_slug": "dazzler",
     "a_title": "Dazzler",
     "a_class": "Mutant",
@@ -434,6 +1565,30 @@
       "Falter",
       "Incinerate",
       "Nullify"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "ghost_rider",
+    "a_title": "Ghost Rider",
+    "a_class": "Mystic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Incinerate",
+      "Neuroshock",
+      "Reversed Controls"
     ],
     "complementarity": 4,
     "union_size": 4
@@ -554,6 +1709,30 @@
       "Falter",
       "Incinerate",
       "Poison"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "iron_man_infamous",
+    "a_title": "Iron Man (Infamous)",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Incinerate",
+      "Shock"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Incinerate",
+      "Neuroshock",
+      "Reversed Controls",
+      "Shock"
     ],
     "complementarity": 4,
     "union_size": 4
@@ -721,6 +1900,30 @@
       "Cold",
       "Incinerate",
       "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "ironheart",
+    "a_title": "Ironheart",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Cold",
+      "Incinerate",
+      "Reversed Controls"
+    ],
+    "b_slug": "nico_minoru",
+    "b_title": "Nico Minoru",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Buff"
+    ],
+    "union": [
+      "Buff",
+      "Cold",
+      "Incinerate",
       "Reversed Controls"
     ],
     "complementarity": 4,
@@ -1063,6 +2266,30 @@
     "union_size": 4
   },
   {
+    "a_slug": "ironheart",
+    "a_title": "Ironheart",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Cold",
+      "Incinerate",
+      "Reversed Controls"
+    ],
+    "b_slug": "yelena_belova",
+    "b_title": "Yelena Belova",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Cold",
+      "Incinerate",
+      "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
     "a_slug": "jack_o_lantern",
     "a_title": "Jack O'Lantern",
     "a_class": "Tech",
@@ -1226,6 +2453,30 @@
       "Falter",
       "Incinerate",
       "Poison"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "nico_minoru",
+    "a_title": "Nico Minoru",
+    "a_class": "Mystic",
+    "a_immunities": [
+      "Buff"
+    ],
+    "b_slug": "prowler",
+    "b_title": "Prowler",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Bleed",
+      "Falter",
+      "Incinerate"
+    ],
+    "union": [
+      "Bleed",
+      "Buff",
+      "Falter",
+      "Incinerate"
     ],
     "complementarity": 4,
     "union_size": 4
@@ -1543,6 +2794,54 @@
     "union_size": 4
   },
   {
+    "a_slug": "prowler",
+    "a_title": "Prowler",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Bleed",
+      "Falter",
+      "Incinerate"
+    ],
+    "b_slug": "yelena_belova",
+    "b_title": "Yelena Belova",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Falter",
+      "Incinerate",
+      "Poison"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
+    "a_slug": "terrax",
+    "a_title": "Terrax",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Shock"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Neuroshock",
+      "Reversed Controls",
+      "Shock"
+    ],
+    "complementarity": 4,
+    "union_size": 4
+  },
+  {
     "a_slug": "arnim_zola",
     "a_title": "Arnim Zola",
     "a_class": "Tech",
@@ -1563,6 +2862,31 @@
       "Falter",
       "Incinerate",
       "Poison"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
+    "a_slug": "colossus",
+    "a_title": "Colossus",
+    "a_class": "Mutant",
+    "a_immunities": [
+      "Bleed"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
     ],
     "complementarity": 3,
     "union_size": 4
@@ -1618,6 +2942,106 @@
     "union_size": 4
   },
   {
+    "a_slug": "groot",
+    "a_title": "Groot",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed"
+    ],
+    "b_slug": "imperiosa",
+    "b_title": "Imperiosa",
+    "b_class": "Cosmic",
+    "b_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "luke_cage",
+    "b_title": "Luke Cage",
+    "b_class": "Science",
+    "b_immunities": [
+      "Bleed"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "morningstar",
+    "b_title": "Morningstar",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Bleed"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
+    "a_slug": "imperiosa",
+    "a_title": "Imperiosa",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "b_slug": "unstoppable_colossus",
+    "b_title": "Unstoppable Colossus",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Bleed"
+    ],
+    "union": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
     "a_slug": "iron_man_infamous",
     "a_title": "Iron Man (Infamous)",
     "a_class": "Tech",
@@ -1663,6 +3087,31 @@
       "Falter",
       "Incinerate",
       "Shock"
+    ],
+    "complementarity": 3,
+    "union_size": 4
+  },
+  {
+    "a_slug": "ironheart",
+    "a_title": "Ironheart",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Cold",
+      "Incinerate",
+      "Reversed Controls"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Cold",
+      "Incinerate",
+      "Neuroshock",
+      "Reversed Controls"
     ],
     "complementarity": 3,
     "union_size": 4
@@ -1828,6 +3277,28 @@
     "union_size": 3
   },
   {
+    "a_slug": "abomination",
+    "a_title": "Abomination",
+    "a_class": "Science",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Neuroshock",
+      "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
     "a_slug": "arnim_zola",
     "a_title": "Arnim Zola",
     "a_class": "Tech",
@@ -1911,6 +3382,28 @@
       "Bleed",
       "Poison",
       "Reversed Controls"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
+    "a_slug": "arnim_zola",
+    "a_title": "Arnim Zola",
+    "a_class": "Tech",
+    "a_immunities": [
+      "Bleed",
+      "Poison"
+    ],
+    "b_slug": "nico_minoru",
+    "b_title": "Nico Minoru",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Buff"
+    ],
+    "union": [
+      "Bleed",
+      "Buff",
+      "Poison"
     ],
     "complementarity": 3,
     "union_size": 3
@@ -2224,6 +3717,28 @@
     "union_size": 3
   },
   {
+    "a_slug": "black_bolt",
+    "a_title": "Black Bolt",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Neuroshock",
+      "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
     "a_slug": "captain_marvel",
     "a_title": "Captain Marvel",
     "a_class": "Cosmic",
@@ -2334,6 +3849,28 @@
     "union_size": 3
   },
   {
+    "a_slug": "captain_marvel",
+    "a_title": "Captain Marvel",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Neuroshock",
+      "Poison",
+      "Reversed Controls"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
     "a_slug": "captain_marvel_classic",
     "a_title": "Captain Marvel (Classic)",
     "a_class": "Cosmic",
@@ -2439,6 +3976,28 @@
       "Bleed",
       "Poison",
       "Shock"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
+    "a_slug": "captain_marvel_classic",
+    "a_title": "Captain Marvel (Classic)",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Poison"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Neuroshock",
+      "Poison",
+      "Reversed Controls"
     ],
     "complementarity": 3,
     "union_size": 3
@@ -2488,6 +4047,28 @@
     "union_size": 3
   },
   {
+    "a_slug": "colossus",
+    "a_title": "Colossus",
+    "a_class": "Mutant",
+    "a_immunities": [
+      "Bleed"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Bleed",
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
     "a_slug": "corvus_glaive",
     "a_title": "Corvus Glaive",
     "a_class": "Cosmic",
@@ -2593,6 +4174,28 @@
       "Bleed",
       "Galive's",
       "Shock"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
+    "a_slug": "corvus_glaive",
+    "a_title": "Corvus Glaive",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Galive's"
+    ],
+    "b_slug": "the_maker",
+    "b_title": "The Maker",
+    "b_class": "Tech",
+    "b_immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "union": [
+      "Galive's",
+      "Neuroshock",
+      "Reversed Controls"
     ],
     "complementarity": 3,
     "union_size": 3
@@ -2803,6 +4406,28 @@
       "Bleed",
       "Incinerate"
     ],
+    "b_slug": "nico_minoru",
+    "b_title": "Nico Minoru",
+    "b_class": "Mystic",
+    "b_immunities": [
+      "Buff"
+    ],
+    "union": [
+      "Bleed",
+      "Buff",
+      "Incinerate"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
+    "a_slug": "cosmic_ghost_rider",
+    "a_title": "Cosmic Ghost Rider",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
     "b_slug": "punisher",
     "b_title": "Punisher",
     "b_class": "Skill",
@@ -3099,6 +4724,28 @@
       "Bleed",
       "Incinerate",
       "Nullify"
+    ],
+    "complementarity": 3,
+    "union_size": 3
+  },
+  {
+    "a_slug": "cosmic_ghost_rider",
+    "a_title": "Cosmic Ghost Rider",
+    "a_class": "Cosmic",
+    "a_immunities": [
+      "Bleed",
+      "Incinerate"
+    ],
+    "b_slug": "yelena_belova",
+    "b_title": "Yelena Belova",
+    "b_class": "Skill",
+    "b_immunities": [
+      "Poison"
+    ],
+    "union": [
+      "Bleed",
+      "Incinerate",
+      "Poison"
     ],
     "complementarity": 3,
     "union_size": 3
@@ -3121,1436 +4768,6 @@
       "Bleed",
       "Incinerate",
       "Nullify"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "dazzler",
-    "a_title": "Dazzler",
-    "a_class": "Mutant",
-    "a_immunities": [
-      "Nullify"
-    ],
-    "b_slug": "iron_man_infamous",
-    "b_title": "Iron Man (Infamous)",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "union": [
-      "Incinerate",
-      "Nullify",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "dazzler",
-    "a_title": "Dazzler",
-    "a_class": "Mutant",
-    "a_immunities": [
-      "Nullify"
-    ],
-    "b_slug": "jack_o_lantern",
-    "b_title": "Jack O'Lantern",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "union": [
-      "Incinerate",
-      "Nullify",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "dazzler",
-    "a_title": "Dazzler",
-    "a_class": "Mutant",
-    "a_immunities": [
-      "Nullify"
-    ],
-    "b_slug": "terrax",
-    "b_title": "Terrax",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Bleed",
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Nullify",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "hulk",
-    "b_title": "Hulk",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "hulk_ragnarok",
-    "b_title": "Hulk (Ragnarok)",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "medusa",
-    "b_title": "Medusa",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "mephisto",
-    "b_title": "Mephisto",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "mole_man",
-    "b_title": "Mole Man",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "moondragon",
-    "b_title": "Moondragon",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Reversed Controls"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "ms_marvel",
-    "b_title": "Ms. Marvel",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "ms_marvel_kamala_khan",
-    "b_title": "Ms. Marvel (Kamala Khan)",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "punisher",
-    "b_title": "Punisher",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Wither"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Wither"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "ronan",
-    "b_title": "Ronan",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "sabretooth",
-    "b_title": "Sabretooth",
-    "b_class": "Mutant",
-    "b_immunities": [
-      "Cold"
-    ],
-    "union": [
-      "Bleed",
-      "Cold",
-      "Incinerate"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "she_hulk",
-    "b_title": "She-Hulk",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "she_hulk_deathless",
-    "b_title": "She-Hulk (Deathless)",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "shocker",
-    "b_title": "Shocker",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "shuri",
-    "b_title": "Shuri",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "spiral",
-    "b_title": "Spiral",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Falter"
-    ],
-    "union": [
-      "Bleed",
-      "Falter",
-      "Incinerate"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "spot",
-    "b_title": "Spot",
-    "b_class": "Science",
-    "b_immunities": [
-      "Buff"
-    ],
-    "union": [
-      "Bleed",
-      "Buff",
-      "Incinerate"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "the_leader",
-    "b_title": "The Leader",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "the_serpent",
-    "b_title": "The Serpent",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Coldsnap"
-    ],
-    "union": [
-      "Bleed",
-      "Coldsnap",
-      "Incinerate"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "toad",
-    "b_title": "Toad",
-    "b_class": "Mutant",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "vox",
-    "b_title": "Vox",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Poison"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "ghost_rider",
-    "a_title": "Ghost Rider",
-    "a_class": "Mystic",
-    "a_immunities": [
-      "Bleed",
-      "Incinerate"
-    ],
-    "b_slug": "white_tiger",
-    "b_title": "White Tiger",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Nullify"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Nullify"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "groot",
-    "a_title": "Groot",
-    "a_class": "Cosmic",
-    "a_immunities": [
-      "Bleed"
-    ],
-    "b_slug": "iron_man_infamous",
-    "b_title": "Iron Man (Infamous)",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "groot",
-    "a_title": "Groot",
-    "a_class": "Cosmic",
-    "a_immunities": [
-      "Bleed"
-    ],
-    "b_slug": "jack_o_lantern",
-    "b_title": "Jack O'Lantern",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk",
-    "a_title": "Hulk",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "iron_man_infamous",
-    "b_title": "Iron Man (Infamous)",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk",
-    "a_title": "Hulk",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "jack_o_lantern",
-    "b_title": "Jack O'Lantern",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk",
-    "a_title": "Hulk",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "terrax",
-    "b_title": "Terrax",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Bleed",
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk_ragnarok",
-    "a_title": "Hulk (Ragnarok)",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "iron_man_infamous",
-    "b_title": "Iron Man (Infamous)",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk_ragnarok",
-    "a_title": "Hulk (Ragnarok)",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "jack_o_lantern",
-    "b_title": "Jack O'Lantern",
-    "b_class": "Tech",
-    "b_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "hulk_ragnarok",
-    "a_title": "Hulk (Ragnarok)",
-    "a_class": "Science",
-    "a_immunities": [
-      "Poison"
-    ],
-    "b_slug": "terrax",
-    "b_title": "Terrax",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Bleed",
-      "Shock"
-    ],
-    "union": [
-      "Bleed",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "luke_cage",
-    "b_title": "Luke Cage",
-    "b_class": "Science",
-    "b_immunities": [
-      "Bleed"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "medusa",
-    "b_title": "Medusa",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "mephisto",
-    "b_title": "Mephisto",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "moondragon",
-    "b_title": "Moondragon",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Reversed Controls"
-    ],
-    "union": [
-      "Incinerate",
-      "Reversed Controls",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "morningstar",
-    "b_title": "Morningstar",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Bleed"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "ms_marvel",
-    "b_title": "Ms. Marvel",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "ms_marvel_kamala_khan",
-    "b_title": "Ms. Marvel (Kamala Khan)",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "punisher",
-    "b_title": "Punisher",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Wither"
-    ],
-    "union": [
-      "Incinerate",
-      "Shock",
-      "Wither"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "ronan",
-    "b_title": "Ronan",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "sabretooth",
-    "b_title": "Sabretooth",
-    "b_class": "Mutant",
-    "b_immunities": [
-      "Cold"
-    ],
-    "union": [
-      "Cold",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "she_hulk",
-    "b_title": "She-Hulk",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "she_hulk_deathless",
-    "b_title": "She-Hulk (Deathless)",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "spiral",
-    "b_title": "Spiral",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Falter"
-    ],
-    "union": [
-      "Falter",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "spot",
-    "b_title": "Spot",
-    "b_class": "Science",
-    "b_immunities": [
-      "Buff"
-    ],
-    "union": [
-      "Buff",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "the_leader",
-    "b_title": "The Leader",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "the_serpent",
-    "b_title": "The Serpent",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Coldsnap"
-    ],
-    "union": [
-      "Coldsnap",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "toad",
-    "b_title": "Toad",
-    "b_class": "Mutant",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "unstoppable_colossus",
-    "b_title": "Unstoppable Colossus",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Bleed"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "vox",
-    "b_title": "Vox",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "iron_man_infamous",
-    "a_title": "Iron Man (Infamous)",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Shock"
-    ],
-    "b_slug": "white_tiger",
-    "b_title": "White Tiger",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Nullify"
-    ],
-    "union": [
-      "Incinerate",
-      "Nullify",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "luke_cage",
-    "b_title": "Luke Cage",
-    "b_class": "Science",
-    "b_immunities": [
-      "Bleed"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "medusa",
-    "b_title": "Medusa",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "mephisto",
-    "b_title": "Mephisto",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "mole_man",
-    "b_title": "Mole Man",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Shock"
-    ],
-    "union": [
-      "Incinerate",
-      "Reversed Controls",
-      "Shock"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "morningstar",
-    "b_title": "Morningstar",
-    "b_class": "Mystic",
-    "b_immunities": [
-      "Bleed"
-    ],
-    "union": [
-      "Bleed",
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "ms_marvel",
-    "b_title": "Ms. Marvel",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "ms_marvel_kamala_khan",
-    "b_title": "Ms. Marvel (Kamala Khan)",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "punisher",
-    "b_title": "Punisher",
-    "b_class": "Skill",
-    "b_immunities": [
-      "Wither"
-    ],
-    "union": [
-      "Incinerate",
-      "Reversed Controls",
-      "Wither"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "ronan",
-    "b_title": "Ronan",
-    "b_class": "Cosmic",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "sabretooth",
-    "b_title": "Sabretooth",
-    "b_class": "Mutant",
-    "b_immunities": [
-      "Cold"
-    ],
-    "union": [
-      "Cold",
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "she_hulk",
-    "b_title": "She-Hulk",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
-    ],
-    "complementarity": 3,
-    "union_size": 3
-  },
-  {
-    "a_slug": "jack_o_lantern",
-    "a_title": "Jack O'Lantern",
-    "a_class": "Tech",
-    "a_immunities": [
-      "Incinerate",
-      "Reversed Controls"
-    ],
-    "b_slug": "she_hulk_deathless",
-    "b_title": "She-Hulk (Deathless)",
-    "b_class": "Science",
-    "b_immunities": [
-      "Poison"
-    ],
-    "union": [
-      "Incinerate",
-      "Poison",
-      "Reversed Controls"
     ],
     "complementarity": 3,
     "union_size": 3

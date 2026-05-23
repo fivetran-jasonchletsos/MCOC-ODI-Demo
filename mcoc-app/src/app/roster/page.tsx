@@ -102,6 +102,13 @@ export default function RosterPage() {
     saveRoster(merged);
   }
 
+  async function loadJasonRoster() {
+    const res = await fetch(asset("/data/jason_roster.json") || "/data/jason_roster.json");
+    const entries = (await res.json()) as RosterEntry[];
+    setRoster(entries);
+    saveRoster(entries);
+  }
+
   // Insight: ability supercounters scoped to roster
   const rosterSlugs = useMemo(() => new Set(roster.map((r) => r.slug)), [roster]);
   const myAbilities = useMemo(() => {
@@ -170,9 +177,12 @@ export default function RosterPage() {
             rows={8}
             className="w-full bg-ink border border-ink-mid rounded px-3 py-2 text-sm font-mono focus:outline-none focus:border-chrome-soft"
           />
-          <div className="flex gap-2 mt-2">
+          <div className="flex gap-2 mt-2 flex-wrap">
             <button onClick={applyPaste} className="px-3 py-1.5 bg-cosmic text-ink rounded font-semibold text-sm">
               Add to roster
+            </button>
+            <button onClick={loadJasonRoster} className="px-3 py-1.5 bg-mystic text-ink rounded font-semibold text-sm">
+              Load Jason&apos;s roster (218)
             </button>
             <button onClick={exportRoster} className="px-3 py-1.5 border border-chrome-soft text-chrome rounded text-sm">
               Export

@@ -29,6 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Link href="/roster/" className="hover:text-chrome">My Roster</Link>
               <Link href="/insights/" className="hover:text-chrome">Insights</Link>
               <Link href="/abilities/" className="hover:text-chrome">Abilities</Link>
+              <Link href="/story/9-4-6/" className="hover:text-chrome">9.4.6 Boss</Link>
             </div>
           </div>
         </nav>

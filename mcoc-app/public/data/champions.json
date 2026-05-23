@@ -1154,6 +1154,46 @@
     "mechanics": ""
   },
   {
+    "slug": "blue_marvel",
+    "title": "Blue Marvel",
+    "class": "Science",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Counter",
+        "Hero",
+        "Flying",
+        "Mighty Avengers",
+        "Defenders"
+      ]
+    },
+    "abilities": [
+      "Crush",
+      "Overload",
+      "Provoke",
+      "Wither",
+      "Regeneration"
+    ],
+    "immunities": [],
+    "signature_ability": "The Most Powerful Man in America",
+    "release_date": "February 26, 2026",
+    "portrait": "/images/champions/blue_marvel.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Blue Marvel brings a fresh yet familiar take on a Science Attacker that ramps by applying Debuffs. With powerful tools for controlling the fight on his way to maximum output, he becomes stronger and stronger the longer he\u2019s able to sustain his empowered mode, and carries over some of this new strength to future fights."
+  },
+  {
     "slug": "bullseye",
     "title": "Bullseye",
     "class": "Skill",
@@ -2428,6 +2468,44 @@
     "mechanics": ""
   },
   {
+    "slug": "dracula",
+    "title": "Dracula",
+    "class": "Mystic",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Counter",
+        "Villain",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Degeneration",
+      "Invisibility",
+      "Nullify",
+      "Slow",
+      "Fear"
+    ],
+    "immunities": [],
+    "signature_ability": "The Prince of Darkness",
+    "release_date": "October 16, 2025",
+    "portrait": "/images/champions/dracula.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Count Dracula, the Lord of the Vampires, the Voivode of Vampyrsk, and the Prince of Darkness himself, thrives off the terror his very presence brings down on his foes. Inflicting an extremely potent but slow-acting Degeneration, Dracula\u2019s kit revolves around increasing the speed at which this Degeneration deals ticks of damage. With comfortably high uptime on his utility, Dracula can focus on chasing high-skill gameplay to eke out as much damage from his Degeneration for as long as possible."
+  },
+  {
     "slug": "dragon_man",
     "title": "Dragon Man",
     "class": "Mystic",
@@ -2837,6 +2915,50 @@
       "tier7": "Yes (featured)"
     },
     "mechanics": "Falcon benefits from having two distinct modes, each with their own unique gameplay effects. Weaving seamlessly between the two equates to his best results. His Defensive Instinct provides extra toughness and stability where his Aggressive Instinct provides additional bite. By inflicting the Opponent with non-damaging Debuffs other than his own Trauma Debuff, he gains Velocity Charges, which are unique resources to him. When at max stack of these, throwing a Special Attack triggers an ultimate state where Falcon gets to benefit from the effects of both Instincts at the same time for a brief period."
+  },
+  {
+    "slug": "franken_castle",
+    "title": "Franken-Castle",
+    "class": "Skill",
+    "tags": {
+      "offensive": [
+        "Burst",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "L",
+      "other": [
+        "Hero",
+        "Metal",
+        "Psychic Shielding",
+        "Legion of Monsters"
+      ]
+    },
+    "abilities": [
+      "Rage",
+      "Adrenaline",
+      "Berserk",
+      "Unstoppable",
+      "Crush",
+      "Incinerate",
+      "Stun"
+    ],
+    "immunities": [],
+    "signature_ability": "Undead and Hating It",
+    "release_date": "October 31, 2025",
+    "portrait": "/images/champions/franken_castle.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Franken-Castle is a lumbering and devastating Skill Attacker that becomes Unstoppable when he automatically starts to run forward, then pummels his Opponent, and Crushes through their defenses. Frank\u2019s Berserk Passives drastically increase his Attack Rating while he is Unstoppable, so capitalize on these windows by cancelling into Heavy and Special Attacks to unleash devastating damage from Incinerates and bursts of Energy Damage. His undead state and life-supporting engine also keep him alive with healing from both Willpower and Adrenaline."
   },
   {
     "slug": "galan",
@@ -3631,6 +3753,42 @@
     "mechanics": "Hercules is a damage powerhouse, focusing on skillful combat by performing Feats of Strength and Intercepting with Special Attacks to unleash the ultimate flex on the opponent! As Hercules completes Feats, he gains a large bump in his base damage output and can extend the duration of all Buffs by a significant amount. The best part about feats is that they can be carried forward through the quest, allowing Hercules to get more and more powerful with each fight! Overall, Hercules is a Champion who will demonstrate and reward your personal skills in a big way!"
   },
   {
+    "slug": "high_evolutionary",
+    "title": "High Evolutionary",
+    "class": "Science",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "M",
+      "other": [
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Auto-Block",
+      "Reverse Controls",
+      "Combo Detonation"
+    ],
+    "immunities": [],
+    "signature_ability": "Master of Evolution",
+    "release_date": "July 24th, 2025",
+    "portrait": "/images/champions/high_evolutionary.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (sales)",
+      "tier4": "Yes (sales)",
+      "tier5": "Yes (sales)",
+      "tier6": "Yes (sales)",
+      "tier7": "Yes (sales)"
+    },
+    "mechanics": "Most of High Evolutionary damage comes from his Combo Detonation, but to maximize this effect he needs to allow the Combo Detonation to expire naturally during a Special 1 while the Opponent is inside his Evolutionary Field, which is activated by his Special 2.\n\nIn order to inflict Combo Detonation, the High Evolutionary needs to gain Combo Detonation Charges by inflicting Debuffs on the Opponent, which he does with Strikes and Well-Timed Blocks.\n\nWhile gaining Charges, work your way to 2 Bars of Power and activate the Special 2 to activate the Evolutionary Field. The Field provides many benefits, pauses Debuffs on the Opponent, adds extra damage on Strikes, but more importantly, it causes the Combo Detonation to deal more damage when expiring naturally while the Special Attack 1 is ongoing while inside of the field."
+  },
+  {
     "slug": "hit_monkey",
     "title": "Hit-Monkey",
     "class": "Skill",
@@ -4050,6 +4208,54 @@
       "tier7": "No"
     },
     "mechanics": "Ikaris\u2019 playstyle is all about pushing the limits of his cosmic power without getting too close to the sun. He wants to stack as many Incinerates on the Opponent as possible and then destroy his Opponent with his Special 3. The other Special Attacks are meant to help facilitate that stacking while amplifying his abilities, whether offensive or defensive.\n\nCosmic Champions are known for having a bunch of Buffs, he is no exception with the following: Energize, Unblockable, Physical Resist, Armor, and Protection. He will be pushing the limits and wants to throw as many Special Attacks as he can. He doesn\u2019t like when his power is lowered, so he will burst you when it is. Don\u2019t forget, if he is throwing a lot of Special Attacks, he expects you too as well, or else Power Detonation will explode on you."
+  },
+  {
+    "slug": "imperiosa",
+    "title": "Imperiosa",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Flying",
+        "Eidol"
+      ]
+    },
+    "abilities": [
+      "Bleed Immunity",
+      "Disintegrate Immunity",
+      "Special Lock Immunity",
+      "Power Drain Immunity",
+      "Fury",
+      "Pierce",
+      "Power Gain",
+      "Root",
+      "Corrosion"
+    ],
+    "immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "signature_ability": "The Ascendant Empress",
+    "release_date": "December 11, 2025",
+    "portrait": "/images/champions/imperiosa.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "Imperiosa is ready to dominate The Contest and showcase the alien might of the Founders.\n\nImperiosa starts each fight with their Power Bar already significantly filled, and can very quickly throw the Special of their choice using the Fractured Power Bar, though they (or their Opponent) must complete a Combo Ender, Heavy, or Intercept in order to do so.\n\nThis means they can use their Special Attack 3, which inflicts a truly devastating Corrosion, within the first few combos of the fight. From there, they can use Special Attack 1 to refresh it repeatedly, effectively reinflicting it for a tiny Power cost, or using the extra time to get to another Special Attack 3 and start stacking Corrosions for longer fights.\n\nIf Imperiosa would benefit from controlling the fight more, or striking into the Opponent\u2019s Block, they can opt into their Special Attack 2 instead, which can Root the Opponent and force them to Block Imperiosa\u2019s attacks.\n\nNo matter which Special Attack they pick, Imperiosa will inevitably grow more deadly as they gain powerful Buffs the fewer their remaining Bars of Power.\n\nAnd come hell or high water, Imperiosa will gain those Buffs, as their Power Bar naturally decreases overtime, pressuring Attackers into maintaining a delicate rhythm of attacking and backing off to keep Imperiosa\u2019s Power Meter between 2 and 3 Bars.\n\nImperiosa\u2019s playstyle makes them extremely resistant to disruption, able to change up strategy on the fly and approach problems in ways few Champions do, making them an exceptionally potent addition to any roster."
   },
   {
     "slug": "invisible_woman",
@@ -4745,6 +4951,46 @@
     "mechanics": "Karnak has spent his time meditating on The Contest and has honed his martial arts to exploit the weaknesses of the Battlerealm. No longer is his 65% resiliency to Poison shackled by meaningless things such as \u201cSignature Abilities;\u201d it has simply become part of him, remaining always active and giving him utility with Liquid Courage right out of the box. His Focus Charges allow him to hone in on his opponent\u2019s weak points as they build over time, increasing his Critical Rating, and granting the ability to deal crit damage through blocks. \n\nHis crushing Heavy Attack amplifies this crit damage with a devastating 20-second Fragility Debuff, and his damage output is only further increased with a 30-second Passive Fury on Special 2. Those who believe they\u2019re protected by Auto-Block or Evade will be equalized when Karnak\u2019s Special 1 grants a True Strike Passive, and not even thick skin can protect those unfortunate enough to battle an awakened Karnak, who can bypass up to 100% Physical Resistance with his new Signature Ability."
   },
   {
+    "slug": "karolina_dean",
+    "title": "Karolina Dean",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Flying"
+      ]
+    },
+    "abilities": [
+      "Instinct",
+      "Iridescence",
+      "Power Gain",
+      "Unblockable",
+      "Glancing",
+      "Incinerate"
+    ],
+    "immunities": [],
+    "signature_ability": "Shine in the Sky like Diamonds",
+    "release_date": "June 26, 2025",
+    "portrait": "/images/champions/karolina_dean.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (sales)",
+      "tier4": "Yes (sales)",
+      "tier5": "Yes (sales)",
+      "tier6": "Yes (sales)",
+      "tier7": "Yes (sales)"
+    },
+    "mechanics": "Karolina\u2019s core gameplay is heavily focused on the sun! The sun shines down in different locations across the stage, standing in it grants Karolina Iridescence Buffs which she can consume to activate her abilities. Standing in the sun also grants Karolina additional Power and Unblockable Specials. These abilities combined with her long range Special animations lead to gameplay revolving around chasing the sun to melt away the competition!"
+  },
+  {
     "slug": "kate_bishop",
     "title": "Kate Bishop",
     "class": "Skill",
@@ -5188,6 +5434,41 @@
       "tier7": "Yes"
     },
     "mechanics": "Lady Deathstrike needs to build Ferocity charges by inflicting Ruptures and launching Special 2 attacks. Once she reaches enough Charges, the Ferocity Passive activates and she becomes deadlier, her Special 1 is more powerful. However, in order to maintain Ferocity active for as long as possible, she must never block an attack. Activating Special 2 while Ferocity is active does allow Lady Deathstrike to block a few hits without losing Ferocity."
+  },
+  {
+    "slug": "lizard",
+    "title": "Lizard",
+    "class": "Science",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Villain",
+        "Sinister Six"
+      ]
+    },
+    "abilities": [
+      "Regeneration",
+      "Rupture",
+      "Retribution"
+    ],
+    "immunities": [],
+    "signature_ability": "Reptilian Complex",
+    "release_date": "November 13, 2025",
+    "portrait": "/images/champions/lizard.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "The Lizard wants to inflict and maintain as many Ruptures on the Opponent as possible to maximize his damage. The Ruptures themselves don\u2019t do too much damage, but they inflict further bursts of damage when the Opponent activates a Special Attack. The Special Attack 1 grants a Fervor to Lizard, which makes it easier to inflict more Ruptures, and also inflicts a Retribution on the Opponent, which improves the damage the Opponent takes when activating a Special Attack while suffering from the Ruptures.\n\nAfter using the Special 1, make your way to 2 Bars of Power, but remember to strike a non-stunned Opponent with a Heavy Attack whenever possible to keep the Ruptures paused. Striking the Opponent with a Special Attack 2 will re-inflict (with some added bonus) all the damage the Opponent took during their own Special Attacks."
   },
   {
     "slug": "loki",
@@ -6179,6 +6460,44 @@
     "mechanics": ""
   },
   {
+    "slug": "mr_knight",
+    "title": "Mr. Knight",
+    "class": "Skill",
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Mercenary"
+      ]
+    },
+    "abilities": [
+      "Light Proficiency",
+      "Tranquilize",
+      "Panic",
+      "Injury",
+      "Reckless",
+      "Sleep"
+    ],
+    "immunities": [],
+    "signature_ability": "Case Closed",
+    "release_date": "September 25, 2025",
+    "portrait": "/images/champions/mr_knight.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Mr. Knight likes to rough up his Opponents, while still having the powers of Khonshu to back him up. Punishing the Opponent\u2019s Heavy and Special Attacks will inflict them with indefinite Injury, and he gets additional benefits and effects for each one on them. The most notable of those is Light Proficiency, which dramatically increases the damage of his Light Attacks. Then on top of that, the Moon Phase will change periodically over the course of the fight, improving the rate at which he Crits. Line up the Full Moon with when his damage abilities are at their peak to truly put the beat down on his Opponents."
+  },
+  {
     "slug": "ms_marvel",
     "title": "Ms. Marvel",
     "class": "Cosmic",
@@ -6445,6 +6764,46 @@
       "tier7": "Yes (exclusive)"
     },
     "mechanics": "Nick Fury is constantly building tactical charges throughout the fight. The more he has, the more abilities he can utilize \u2013 making him more of a danger as the fight goes on. Additionally, once per quest Nick\u2019s decoy allows him to bypass death, granting him access to some incredibly high damage potential in his true form. A powerful leader equipped with a ton of team synergies, Nick fits easily into many team combinations by providing exceptional utility."
+  },
+  {
+    "slug": "nico_minoru",
+    "title": "Nico Minoru",
+    "class": "Mystic",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Hero",
+        "A-Force"
+      ]
+    },
+    "abilities": [
+      "Adrenaline",
+      "Buff Immunity",
+      "Halt",
+      "Invisibility",
+      "Poison"
+    ],
+    "immunities": [
+      "Buff"
+    ],
+    "signature_ability": "W.I.T.C.H.",
+    "release_date": "June 12, 2025",
+    "portrait": "/images/champions/nico_minoru.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (featured)",
+      "tier7": "Yes"
+    },
+    "mechanics": "In a standard fight, Nico focuses on gaining power from the Opponent\u2019s Buffs and then stripping them away with her Buff Immunity, leaving behind only Poison. She also has the ability to strategically call upon the Staff of One for powerful Pre-Fight Abilities, but each can only be used once per Quest."
   },
   {
     "slug": "night_thrasher",
@@ -8590,6 +8949,49 @@
     "mechanics": "Silver Sable plays with a unique mechanic that hasn\u2019t been utilized much by other Champions across The Contest, and that is Trigger Volumes. She introduces these in her kit in the form of Sable Mines. There is unique gameplay around the Mines, such as passing over them yourself to gain effects, or having the opponent pass over them to take damage. Interacting with the Trigger Volumes in fun ways is something this kit focuses on. Utilizing Shock as a resource and a very strong reliable Disorient, she has just enough Utility to really lock down her targets while introducing a fun gameplay loop with the Mines. Also, playing off a more skillful approach to gameplay techniques, learning to backdraft intercept with her will result in a more rewarding loop."
   },
   {
+    "slug": "silver_samurai",
+    "title": "Silver Samurai",
+    "class": "Mutant",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Mercenary",
+        "Villain",
+        "Silver",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Bleed Resistance",
+      "Combo Grant",
+      "Daunted",
+      "Combo Consume",
+      "Reinforce",
+      "Overload",
+      "Unblockable",
+      "Power Efficiency"
+    ],
+    "immunities": [],
+    "signature_ability": "Silver Shogun",
+    "release_date": "September 11, 2025",
+    "portrait": "/images/champions/silver_samurai.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Silver Samurai\u2019s main focus is granting Combo to the Opponent, before Consuming said Combo to empower his own attacks. With several strikes in his arsenal, he can Grant the Opponent small amounts of Combo at a time, building up to a larger amount over time. Lining up a Special Attack to then Consume the Combo from the Opponent empowers his Special Attacks by inflicting them with Daunted upon Combo Consumption, the more consumed the better. If the Opponent is inflicted with enough Daunted during his Special Attacks, Silver Samurai triggers his Unblockable state, inflicting large amounts of Energy Damage, and slicing through Blocks."
+  },
+  {
     "slug": "silver_surfer",
     "title": "Silver Surfer",
     "class": "Cosmic",
@@ -8626,6 +9028,43 @@
       "tier7": "Yes"
     },
     "mechanics": "Silver Surfer\u2019s gameplay is focused on creating and maintaining as many unique Buffs as possible. Each Unique Buff increases his on hit energy damage and enables him to create new powerful buffs when launching Special Attacks."
+  },
+  {
+    "slug": "solvarch",
+    "title": "Solvarch",
+    "class": "Tech",
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Villain",
+        "Eidol"
+      ]
+    },
+    "abilities": [
+      "Coldsnap",
+      "Armor",
+      "Energize",
+      "Power Drain",
+      "Heal Block"
+    ],
+    "immunities": [],
+    "signature_ability": "Wolf of the Stars",
+    "release_date": "August 14, 2025",
+    "portrait": "/images/champions/solvarch.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "Solvarch\u2019s gameplay loop revolves around their 2 ISO Core Modes and using their Special 1 to switch between them. Use Absorb Mode to build up Core Charge and Armor Ups, then when you\u2019re ready, use Release Mode to convert Armor Ups to Energizes for Power and big Reverb Damage at the cost of draining your Core. They also love to hunt Mutants and Energy Damage champions, as these rapidly charge their Core allowing them to spend much more time in their high damage Release Mode!"
   },
   {
     "slug": "sorcerer_supreme",
@@ -9795,6 +10234,51 @@
       "tier7": "Yes"
     },
     "mechanics": "Leader\u2019s gameplay centers around The Green Door, which is a zone in the center of the arena that has two states: Open and Closed. The Green Door starts closed and The Leader must gradually build up Gamma Radiation by keeping Debuffs active on the Opponent. Once he reaches 100 Gamma Radiation, the Door opens, grating The Leader Fury effects and inflicting bursts of Degeneration Damage while the Opponent is standing on top of the Door. While opened, the Green Door consumes Gamma Radiation before closing again. This Champion is all about using giant brain plays to maximize your time on top of the Green Door."
+  },
+  {
+    "slug": "the_maker",
+    "title": "The Maker",
+    "class": "Tech",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Fantastic Four",
+        "Cabal"
+      ]
+    },
+    "abilities": [
+      "Neuroshock Immunity",
+      "Reversed Controls Immunity",
+      "Evade",
+      "Heal Block",
+      "Plasma Mine",
+      "Plasma",
+      "Suppression",
+      "Power Reroute"
+    ],
+    "immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "signature_ability": "Contingency Plans",
+    "release_date": "July 10, 2025",
+    "portrait": "/images/champions/the_maker.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes (featured)",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "The Maker\u2019s core gameplay revolves around scheming and pummeling enemies through his trap. The Maker\u2019s first priority is to set up a Plasma Mine that is the core to the rest of his plans. Once in place, bringing Opponents over it as often as possible whittles down their health bar and turns the fight for Power in his favour. Finishing an enemy off with an Empowered Plasma Mine is when his schemes have fully played to his expectations.\n\nTo ensure his opponent\u2019s fall into obsolescence, The Maker can utilize his gadgets to enact Pre-Fight Abilities for himself or his temporary allies throughout a Quest."
   },
   {
     "slug": "the_overseer",
@@ -11086,6 +11570,44 @@
       "tier7": "Yes"
     },
     "mechanics": "Wong\u2019s Kit is built around casting Eldritch Spells which provide utility and build up Eldritch Energy. Wong consumes this Eldritch Energy with his Heavy Attack to convert it into Power, allowing him to gain incredible amounts of power in a short period.\nWong\u2019s Special Attacks are designed to create or maintain Spells. Special Attack 1 casts a Spell based on Wong\u2019s current mode, while Special Attack 2 and 3 refresh the duration of all existing Spells with additional effects."
+  },
+  {
+    "slug": "yelena_belova",
+    "title": "Yelena Belova",
+    "class": "Skill",
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "M",
+      "other": [
+        "Mercenary"
+      ]
+    },
+    "abilities": [
+      "Poison Immunity",
+      "Endurance",
+      "Combo Shield",
+      "Bleed",
+      "Reversal"
+    ],
+    "immunities": [
+      "Poison"
+    ],
+    "signature_ability": "Cover All Contingencies",
+    "release_date": "May 18, 2025",
+    "portrait": "/images/champions/yelena_belova.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Yelena has two modes\u2013Observation and Elimination\u2013to prepare for and execute a winning strike against her opponent. Combo Meter is her main resource to control modes, and she has several ways to gain Combo outside of traditional methods."
   },
   {
     "slug": "yellowjacket",

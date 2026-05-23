@@ -7,3 +7,4 @@ data/raw/wikitext/
 data/raw/scrape*.log
 .env*
 !.env.example
+scripts/__pycache__/

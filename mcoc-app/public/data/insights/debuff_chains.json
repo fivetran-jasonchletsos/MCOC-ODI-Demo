@@ -58,6 +58,7 @@
       "count_nefaria",
       "crossbones",
       "falcon",
+      "franken_castle",
       "galan",
       "green_goblin",
       "gwenpool",
@@ -68,6 +69,7 @@
       "ironheart",
       "jack_o_lantern",
       "jubilee",
+      "karolina_dean",
       "king_groot_deathless",
       "kitty_pryde",
       "kushala",
@@ -90,7 +92,7 @@
       "vulture",
       "wiccan"
     ],
-    "team_pair_count": 1716
+    "team_pair_count": 1804
   },
   {
     "applier_ability": "Armor Break",
@@ -175,6 +177,7 @@
       "iceman",
       "kate_bishop",
       "misty_knight",
+      "solvarch",
       "vision_aarkus"
     ],
     "exploiters": [
@@ -186,6 +189,7 @@
       "count_nefaria",
       "crossbones",
       "falcon",
+      "franken_castle",
       "galan",
       "green_goblin",
       "gwenpool",
@@ -196,6 +200,7 @@
       "ironheart",
       "jack_o_lantern",
       "jubilee",
+      "karolina_dean",
       "king_groot_deathless",
       "kitty_pryde",
       "kushala",
@@ -218,7 +223,7 @@
       "vulture",
       "wiccan"
     ],
-    "team_pair_count": 156
+    "team_pair_count": 205
   },
   {
     "applier_ability": "Concussion",
@@ -240,6 +245,7 @@
       "doctor_doom",
       "doctor_strange",
       "dormammu",
+      "dracula",
       "ebony_maw",
       "enchantress",
       "magik",
@@ -251,7 +257,7 @@
       "shathra",
       "sorcerer_supreme"
     ],
-    "team_pair_count": 126
+    "team_pair_count": 135
   },
   {
     "applier_ability": "Stagger",
@@ -271,6 +277,7 @@
       "doctor_doom",
       "doctor_strange",
       "dormammu",
+      "dracula",
       "ebony_maw",
       "enchantress",
       "magik",
@@ -282,7 +289,7 @@
       "shathra",
       "sorcerer_supreme"
     ],
-    "team_pair_count": 98
+    "team_pair_count": 105
   },
   {
     "applier_ability": "Bleed",
@@ -353,12 +360,13 @@
       "wolverine",
       "wolverine_weapon_x",
       "wolverine_x_23",
+      "yelena_belova",
       "gon"
     ],
     "exploiters": [
       "adam_warlock"
     ],
-    "team_pair_count": 65
+    "team_pair_count": 66
   },
   {
     "applier_ability": "Stagger",

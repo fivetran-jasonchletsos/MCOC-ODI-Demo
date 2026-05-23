@@ -1441,6 +1441,57 @@
     "mechanics": ""
   },
   {
+    "title": "Blue Marvel",
+    "slug": "blue_marvel",
+    "class": "Science",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Control: Counter",
+      "Hero",
+      "Size: M",
+      "Flying",
+      "Mighty Avengers",
+      "Defenders"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Counter",
+        "Hero",
+        "Flying",
+        "Mighty Avengers",
+        "Defenders"
+      ]
+    },
+    "abilities": [
+      "Crush",
+      "Overload",
+      "Provoke",
+      "Wither",
+      "Regeneration"
+    ],
+    "immunities": [],
+    "signature_ability": "The Most Powerful Man in America",
+    "release_date": "February 26, 2026",
+    "portrait_file": "Blue Marvel portrait.png",
+    "featured_file": "Blue Marvel featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Adam Brashear had always been a prodigy\u2014a college football star with multiple Ph.D.s who earned two Silver Stars serving as a Marine in the Korean War. While leading Project: Perseus, an attempt to harness the power of antimatter, Adam and his fellow Marine Conner Sims were caught in a reactor explosion. Conner was vaporized, but the reaction stabilized within Adam\u2019s body, granting him the amazing powers of the Blue Marvel. When his identity as a Black man was revealed in a titanic battle alongside the Avengers, Adam was asked by the President to retire, as the country was not ready for the most powerful man in America to be openly and unapologetically Black. For decades, he obliged, but after losing much of his family in another accident, he has since returned to stand against the everpresent threats of the modern world.",
+    "mechanics": "Blue Marvel brings a fresh yet familiar take on a Science Attacker that ramps by applying Debuffs. With powerful tools for controlling the fight on his way to maximum output, he becomes stronger and stronger the longer he\u2019s able to sustain his empowered mode, and carries over some of this new strength to future fights."
+  },
+  {
     "title": "Bullseye",
     "slug": "bullseye",
     "class": "Skill",
@@ -3023,6 +3074,53 @@
     "mechanics": ""
   },
   {
+    "title": "Dracula",
+    "slug": "dracula",
+    "class": "Mystic",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Control: Counter",
+      "Villain",
+      "Metal",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Counter",
+        "Villain",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Degeneration",
+      "Invisibility",
+      "Nullify",
+      "Slow",
+      "Fear"
+    ],
+    "immunities": [],
+    "signature_ability": "The Prince of Darkness",
+    "release_date": "October 16, 2025",
+    "portrait_file": "Dracula portrait.png",
+    "featured_file": "Dracula featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Born a Wallachian noble in 1431, the mortal man Vlad Tepes Dracula led a life of violence and brutality. Cut down in a battle that should have meant his end, Dracula was infected with vampirism and rose again with darker powers. Growing immensely powerful over the centuries, Dracula now rules as the Voivode of Vampyrsk, the Vampire Nation. Though he now plays the role of a more refined leader, and his days as a medieval warlord are behind him, Dracula\u2019s thirst for blood and violence will never truly be sated.",
+    "mechanics": "Count Dracula, the Lord of the Vampires, the Voivode of Vampyrsk, and the Prince of Darkness himself, thrives off the terror his very presence brings down on his foes. Inflicting an extremely potent but slow-acting Degeneration, Dracula\u2019s kit revolves around increasing the speed at which this Degeneration deals ticks of damage. With comfortably high uptime on his utility, Dracula can focus on chasing high-skill gameplay to eke out as much damage from his Degeneration for as long as possible."
+  },
+  {
     "title": "Dragon Man",
     "slug": "dragon_man",
     "class": "Mystic",
@@ -3533,6 +3631,62 @@
     },
     "bio": "Joaqu\u00edn Torres came to the United States with his family at a young age, always with the aspiration to do good by them, and by his heritage. At a later age, while on a supply run to assist his local community, he was kidnapped by the Sons of the Serpent, and sent to the ruthless Karl Malus for experimentation. Eventually he was rescued by Sam Wilson, but it was too late. Malus had turned Joaqu\u00edn into a falcon/human hybrid using Cap\u2019s own avian sidekick, Redwing. With this irreversible mutation, Joaqu\u00edn accepted his new powers and took the mantle of the new Falcon. He joined the American Military and trained alongside Sam as one of America\u2019s new Heroes.",
     "mechanics": "Falcon benefits from having two distinct modes, each with their own unique gameplay effects. Weaving seamlessly between the two equates to his best results. His Defensive Instinct provides extra toughness and stability where his Aggressive Instinct provides additional bite. By inflicting the Opponent with non-damaging Debuffs other than his own Trauma Debuff, he gains Velocity Charges, which are unique resources to him. When at max stack of these, throwing a Special Attack triggers an ultimate state where Falcon gets to benefit from the effects of both Instincts at the same time for a brief period."
+  },
+  {
+    "title": "Franken-Castle",
+    "slug": "franken_castle",
+    "class": "Skill",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Offensive: Damage Over Time",
+      "Defensive: Tank",
+      "Hero",
+      "Metal",
+      "Size: L",
+      "Psychic Shielding",
+      "Legion of Monsters"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "L",
+      "other": [
+        "Hero",
+        "Metal",
+        "Psychic Shielding",
+        "Legion of Monsters"
+      ]
+    },
+    "abilities": [
+      "Rage",
+      "Adrenaline",
+      "Berserk",
+      "Unstoppable",
+      "Crush",
+      "Incinerate",
+      "Stun"
+    ],
+    "immunities": [],
+    "signature_ability": "Undead and Hating It",
+    "release_date": "October 31, 2025",
+    "portrait_file": "Franken-Castle portrait.png",
+    "featured_file": "Franken-Castle featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "After picking a fight with Norman Osborn and his Dark Avengers, the Punisher met a grisly end at the hands of a Wolverine, and is finally allowed to rest in peace. Unfortunately for Frank, his rest is cut short as he roars to life on Doctor Michael Morbius\u2019 operating table. After being talked out of destroying Morbius\u2019 lab, Frank is shown that he has been re-assembled and brought back to life to help The Legion of Monsters protect Monster Metropolis and its denizens from would-be monster hunters. Despite being furious at Morbius for bringing him back to life, Franken-Castle lays waste to the incoming forces extending his crusade for vengeance deep into his undeath.",
+    "mechanics": "Franken-Castle is a lumbering and devastating Skill Attacker that becomes Unstoppable when he automatically starts to run forward, then pummels his Opponent, and Crushes through their defenses. Frank\u2019s Berserk Passives drastically increase his Attack Rating while he is Unstoppable, so capitalize on these windows by cancelling into Heavy and Special Attacks to unleash devastating damage from Incinerates and bursts of Energy Damage. His undead state and life-supporting engine also keep him alive with healing from both Willpower and Adrenaline."
   },
   {
     "title": "Galan",
@@ -4518,6 +4672,50 @@
     "mechanics": "Hercules is a damage powerhouse, focusing on skillful combat by performing Feats of Strength and Intercepting with Special Attacks to unleash the ultimate flex on the opponent! As Hercules completes Feats, he gains a large bump in his base damage output and can extend the duration of all Buffs by a significant amount. The best part about feats is that they can be carried forward through the quest, allowing Hercules to get more and more powerful with each fight! Overall, Hercules is a Champion who will demonstrate and reward your personal skills in a big way!"
   },
   {
+    "title": "High Evolutionary",
+    "slug": "high_evolutionary",
+    "class": "Science",
+    "tags_raw": [
+      "Defensive: Guard",
+      "Offensive: Burst",
+      "Villain",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "M",
+      "other": [
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Auto-Block",
+      "Reverse Controls",
+      "Combo Detonation"
+    ],
+    "immunities": [],
+    "signature_ability": "Master of Evolution",
+    "release_date": "July 24th, 2025",
+    "portrait_file": "High Evolutionary portrait.png",
+    "featured_file": "High Evolutionary featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (sales)",
+      "tier4": "Yes (sales)",
+      "tier5": "Yes (sales)",
+      "tier6": "Yes (sales)",
+      "tier7": "Yes (sales)"
+    },
+    "bio": "Inspired by Nathaniel Essex\u2019s work on genetic biology, Herbert Wyndham began experimenting with genetic manipulation in an attempt to \u201cevolve\u201d rats. He would eventually be approached by a disguised Inhuman who would hand him the blueprints to unlocking genetic code, which advanced his experiments to evolving animals into humanoid form, calling them New Men. Obsessed in his pursuit of creating the perfect being, Wyndham referred to himself as the High Evolutionary.",
+    "mechanics": "Most of High Evolutionary damage comes from his Combo Detonation, but to maximize this effect he needs to allow the Combo Detonation to expire naturally during a Special 1 while the Opponent is inside his Evolutionary Field, which is activated by his Special 2.\n\nIn order to inflict Combo Detonation, the High Evolutionary needs to gain Combo Detonation Charges by inflicting Debuffs on the Opponent, which he does with Strikes and Well-Timed Blocks.\n\nWhile gaining Charges, work your way to 2 Bars of Power and activate the Special 2 to activate the Evolutionary Field. The Field provides many benefits, pauses Debuffs on the Opponent, adds extra damage on Strikes, but more importantly, it causes the Combo Detonation to deal more damage when expiring naturally while the Special Attack 1 is ongoing while inside of the field."
+  },
+  {
     "title": "Hit-Monkey",
     "slug": "hit_monkey",
     "class": "Skill",
@@ -5041,6 +5239,64 @@
     },
     "bio": "Ikaris is an Eternal, once a race of super powered beings engineered by The Celestials to watch over and protect humanity from Deviants. Armed with super strength, flight, immortality, and cosmic energy powers, Ikaris serves as the stalwart leader of the Eternals tasked with safeguarding Earth.",
     "mechanics": "Ikaris\u2019 playstyle is all about pushing the limits of his cosmic power without getting too close to the sun. He wants to stack as many Incinerates on the Opponent as possible and then destroy his Opponent with his Special 3. The other Special Attacks are meant to help facilitate that stacking while amplifying his abilities, whether offensive or defensive.\n\nCosmic Champions are known for having a bunch of Buffs, he is no exception with the following: Energize, Unblockable, Physical Resist, Armor, and Protection. He will be pushing the limits and wants to throw as many Special Attacks as he can. He doesn\u2019t like when his power is lowered, so he will burst you when it is. Don\u2019t forget, if he is throwing a lot of Special Attacks, he expects you too as well, or else Power Detonation will explode on you."
+  },
+  {
+    "title": "Imperiosa",
+    "slug": "imperiosa",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Control: Denial",
+      "Villain",
+      "Flying",
+      "Eidol",
+      "Size: L"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Flying",
+        "Eidol"
+      ]
+    },
+    "abilities": [
+      "Bleed Immunity",
+      "Disintegrate Immunity",
+      "Special Lock Immunity",
+      "Power Drain Immunity",
+      "Fury",
+      "Pierce",
+      "Power Gain",
+      "Root",
+      "Corrosion"
+    ],
+    "immunities": [
+      "Bleed",
+      "Disintegrate",
+      "Power Drain",
+      "Special Lock"
+    ],
+    "signature_ability": "The Ascendant Empress",
+    "release_date": "December 11, 2025",
+    "portrait_file": "Imperiosa portrait.png",
+    "featured_file": "Imperiosa featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "Not only the pinnacle of Eidol creation, but also the combined genius of every Founder who ever lived, Imperiosa is a vessel that contains the Founders\u2019 brilliance, cruelty, and will to dominate. Inhabiting a body composed of billions of tiny, synthetic ISO-based organisms, Imperiosa is able to rearrange these \u201cSynthects\u201d into a myriad of useful forms and functions depending on the situation. Additionally, Synthects can disassemble matter around them, providing raw materials to replicate themselves without limit. Though a hive mind, Imperiosa manifests as one voice speaking with absolute authority; an icon of the vile past, volatile present, and violent future of The Founders.",
+    "mechanics": "Imperiosa is ready to dominate The Contest and showcase the alien might of the Founders.\n\nImperiosa starts each fight with their Power Bar already significantly filled, and can very quickly throw the Special of their choice using the Fractured Power Bar, though they (or their Opponent) must complete a Combo Ender, Heavy, or Intercept in order to do so.\n\nThis means they can use their Special Attack 3, which inflicts a truly devastating Corrosion, within the first few combos of the fight. From there, they can use Special Attack 1 to refresh it repeatedly, effectively reinflicting it for a tiny Power cost, or using the extra time to get to another Special Attack 3 and start stacking Corrosions for longer fights.\n\nIf Imperiosa would benefit from controlling the fight more, or striking into the Opponent\u2019s Block, they can opt into their Special Attack 2 instead, which can Root the Opponent and force them to Block Imperiosa\u2019s attacks.\n\nNo matter which Special Attack they pick, Imperiosa will inevitably grow more deadly as they gain powerful Buffs the fewer their remaining Bars of Power.\n\nAnd come hell or high water, Imperiosa will gain those Buffs, as their Power Bar naturally decreases overtime, pressuring Attackers into maintaining a delicate rhythm of attacking and backing off to keep Imperiosa\u2019s Power Meter between 2 and 3 Bars.\n\nImperiosa\u2019s playstyle makes them extremely resistant to disruption, able to change up strategy on the fly and approach problems in ways few Champions do, making them an exceptionally potent addition to any roster."
   },
   {
     "title": "Invisible Woman",
@@ -5910,6 +6166,55 @@
     "mechanics": "Karnak has spent his time meditating on The Contest and has honed his martial arts to exploit the weaknesses of the Battlerealm. No longer is his 65% resiliency to Poison shackled by meaningless things such as \u201cSignature Abilities;\u201d it has simply become part of him, remaining always active and giving him utility with Liquid Courage right out of the box. His Focus Charges allow him to hone in on his opponent\u2019s weak points as they build over time, increasing his Critical Rating, and granting the ability to deal crit damage through blocks. \n\nHis crushing Heavy Attack amplifies this crit damage with a devastating 20-second Fragility Debuff, and his damage output is only further increased with a 30-second Passive Fury on Special 2. Those who believe they\u2019re protected by Auto-Block or Evade will be equalized when Karnak\u2019s Special 1 grants a True Strike Passive, and not even thick skin can protect those unfortunate enough to battle an awakened Karnak, who can bypass up to 100% Physical Resistance with his new Signature Ability."
   },
   {
+    "title": "Karolina Dean",
+    "slug": "karolina_dean",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Defensive: Guard",
+      "Hero",
+      "Flying",
+      "Size: S"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Flying"
+      ]
+    },
+    "abilities": [
+      "Instinct",
+      "Iridescence",
+      "Power Gain",
+      "Unblockable",
+      "Glancing",
+      "Incinerate"
+    ],
+    "immunities": [],
+    "signature_ability": "Shine in the Sky like Diamonds",
+    "release_date": "June 26, 2025",
+    "portrait_file": "Karolina Dean portrait.png",
+    "featured_file": "Karolina Dean featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (sales)",
+      "tier4": "Yes (sales)",
+      "tier5": "Yes (sales)",
+      "tier6": "Yes (sales)",
+      "tier7": "Yes (sales)"
+    },
+    "bio": "After leading a somewhat normal teenage life, Karolina Dean and her classmates discovered their parents were part of an evil organization that sacrificed teenagers to gods to create a utopia. After running away and eventually shutting down the organization, the group forged their own bizarre family, doing their best to move forward into the future, even if their past manages to keep up with them wherever they go. Despite the hiccups and constant teen drama, Karolina uses her Majesdanian powers to make the world a better place. As long as she has Nico, her friends, and the sun in the sky, Karolina always finds a way to shine bright!",
+    "mechanics": "Karolina\u2019s core gameplay is heavily focused on the sun! The sun shines down in different locations across the stage, standing in it grants Karolina Iridescence Buffs which she can consume to activate her abilities. Standing in the sun also grants Karolina additional Power and Unblockable Specials. These abilities combined with her long range Special animations lead to gameplay revolving around chasing the sun to melt away the competition!"
+  },
+  {
     "title": "Kate Bishop",
     "slug": "kate_bishop",
     "class": "Skill",
@@ -6458,6 +6763,49 @@
     },
     "bio": "Yuriko Oyama, in a desperate attempt to punish Wolverine for stealing her father\u2019s legacy, transformed herself into a cyborg. Now, armed with powerful healing capabilities and deadly adamantium claws, Yuriko has forsaken her humanity and adopted the title of Lady Deathstrike.",
     "mechanics": "Lady Deathstrike needs to build Ferocity charges by inflicting Ruptures and launching Special 2 attacks. Once she reaches enough Charges, the Ferocity Passive activates and she becomes deadlier, her Special 1 is more powerful. However, in order to maintain Ferocity active for as long as possible, she must never block an attack. Activating Special 2 while Ferocity is active does allow Lady Deathstrike to block a few hits without losing Ferocity."
+  },
+  {
+    "title": "Lizard",
+    "slug": "lizard",
+    "class": "Science",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Villain",
+      "Size: L",
+      "Sinister Six"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Villain",
+        "Sinister Six"
+      ]
+    },
+    "abilities": [
+      "Regeneration",
+      "Rupture",
+      "Retribution"
+    ],
+    "immunities": [],
+    "signature_ability": "Reptilian Complex",
+    "release_date": "November 13, 2025",
+    "portrait_file": "Lizard portrait.png",
+    "featured_file": "Lizard featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Dr. Curtis Connors, a renowned scientist, enlisted in the army and served as a field surgeon. During his time serving he was injured and lost an arm. After returning to civilian life, he devoted himself to finding a way to regenerate lost limbs by developing a serum based on reptilian DNA. He used himself as the first test subject, and while the serum worked, it also mutated his DNA and he turned himself into a human-reptile hybrid known as the Lizard.",
+    "mechanics": "The Lizard wants to inflict and maintain as many Ruptures on the Opponent as possible to maximize his damage. The Ruptures themselves don\u2019t do too much damage, but they inflict further bursts of damage when the Opponent activates a Special Attack. The Special Attack 1 grants a Fervor to Lizard, which makes it easier to inflict more Ruptures, and also inflicts a Retribution on the Opponent, which improves the damage the Opponent takes when activating a Special Attack while suffering from the Ruptures.\n\nAfter using the Special 1, make your way to 2 Bars of Power, but remember to strike a non-stunned Opponent with a Heavy Attack whenever possible to keep the Ruptures paused. Striking the Opponent with a Special Attack 2 will re-inflict (with some added bonus) all the damage the Opponent took during their own Special Attacks."
   },
   {
     "title": "Loki",
@@ -7691,6 +8039,52 @@
     "mechanics": ""
   },
   {
+    "title": "Mr. Knight",
+    "slug": "mr_knight",
+    "class": "Skill",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Hero",
+      "Mercenary",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Mercenary"
+      ]
+    },
+    "abilities": [
+      "Light Proficiency",
+      "Tranquilize",
+      "Panic",
+      "Injury",
+      "Reckless",
+      "Sleep"
+    ],
+    "immunities": [],
+    "signature_ability": "Case Closed",
+    "release_date": "September 25, 2025",
+    "portrait_file": "Mr. Knight portrait.png",
+    "featured_file": "Mr. Knight featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "There is a time for a clenched fist and time for a helping hand. When Moon Knight wants to add nuance to his crime-fighting he takes on the persona of Mr. Knight. This gentleman detective can talk his way out of trouble, but is no stranger to rolling up his sleeves for more intensive interrogations.",
+    "mechanics": "Mr. Knight likes to rough up his Opponents, while still having the powers of Khonshu to back him up. Punishing the Opponent\u2019s Heavy and Special Attacks will inflict them with indefinite Injury, and he gets additional benefits and effects for each one on them. The most notable of those is Light Proficiency, which dramatically increases the damage of his Light Attacks. Then on top of that, the Moon Phase will change periodically over the course of the fight, improving the rate at which he Crits. Line up the Full Moon with when his damage abilities are at their peak to truly put the beat down on his Opponents."
+  },
+  {
     "title": "Ms. Marvel",
     "slug": "ms_marvel",
     "class": "Cosmic",
@@ -8024,6 +8418,55 @@
     },
     "bio": "Known across The Battlerealm as a powerful leader and master tactician, Nick Fury is a seasoned combat veteran skilled in various martial arts \u2013including a black belt in Tae Kwon Do. Nick also has access to an arsenal of lethal weapons developed by S.H.I.E.L.D. and is a master of espionage, always equipped to fight should the situation arise.",
     "mechanics": "Nick Fury is constantly building tactical charges throughout the fight. The more he has, the more abilities he can utilize \u2013 making him more of a danger as the fight goes on. Additionally, once per quest Nick\u2019s decoy allows him to bypass death, granting him access to some incredibly high damage potential in his true form. A powerful leader equipped with a ton of team synergies, Nick fits easily into many team combinations by providing exceptional utility."
+  },
+  {
+    "title": "Nico Minoru",
+    "slug": "nico_minoru",
+    "class": "Mystic",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Control: Denial",
+      "Hero",
+      "Size: M",
+      "A-Force"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Hero",
+        "A-Force"
+      ]
+    },
+    "abilities": [
+      "Adrenaline",
+      "Buff Immunity",
+      "Halt",
+      "Invisibility",
+      "Poison"
+    ],
+    "immunities": [
+      "Buff"
+    ],
+    "signature_ability": "W.I.T.C.H.",
+    "release_date": "June 12, 2025",
+    "portrait_file": "Nico Minoru portrait.png",
+    "featured_file": "Nico Minoru featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (featured)",
+      "tier7": "Yes"
+    },
+    "bio": "Nico Minoru was a relatively normal goth teenager until she and several of her childhood friends accidentally witnessed their parents performing a human sacrifice. With the help of the Staff of One, stolen from her own mother, Nico and the other Runaways managed to defeat their parents. They were then forced to quickly mature into full superheroes by the resulting power vacuum in Los Angeles.",
+    "mechanics": "In a standard fight, Nico focuses on gaining power from the Opponent\u2019s Buffs and then stripping them away with her Buff Immunity, leaving behind only Poison. She also has the ability to strategically call upon the Staff of One for powerful Pre-Fight Abilities, but each can only be used once per Quest."
   },
   {
     "title": "Night Thrasher",
@@ -10681,6 +11124,60 @@
     "mechanics": "Silver Sable plays with a unique mechanic that hasn\u2019t been utilized much by other Champions across The Contest, and that is Trigger Volumes. She introduces these in her kit in the form of Sable Mines. There is unique gameplay around the Mines, such as passing over them yourself to gain effects, or having the opponent pass over them to take damage. Interacting with the Trigger Volumes in fun ways is something this kit focuses on. Utilizing Shock as a resource and a very strong reliable Disorient, she has just enough Utility to really lock down her targets while introducing a fun gameplay loop with the Mines. Also, playing off a more skillful approach to gameplay techniques, learning to backdraft intercept with her will result in a more rewarding loop."
   },
   {
+    "title": "Silver Samurai",
+    "slug": "silver_samurai",
+    "class": "Mutant",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Control: Denial",
+      "Mercenary",
+      "Villain",
+      "Size: M",
+      "Silver",
+      "Metal"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Mercenary",
+        "Villain",
+        "Silver",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Bleed Resistance",
+      "Combo Grant",
+      "Daunted",
+      "Combo Consume",
+      "Reinforce",
+      "Overload",
+      "Unblockable",
+      "Power Efficiency"
+    ],
+    "immunities": [],
+    "signature_ability": "Silver Shogun",
+    "release_date": "September 11, 2025",
+    "portrait_file": "Silver Samurai portrait.png",
+    "featured_file": "Silver Samurai featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Kenuichio Harada is the mutant son of former Japanese crimelord Shingen Yashida, the head of the influential Clan Yashida in Japan. Harada has mastered the disciplines of the Samurai, with his mutant powers granting him the ability to generate energy from within himself, and transfer said energy through inanimate objects. He uses this gift to empower his sacred Katana, allowing it to cut through nearly anything. Now, like his father, he seeks to run his own criminal underworld.",
+    "mechanics": "Silver Samurai\u2019s main focus is granting Combo to the Opponent, before Consuming said Combo to empower his own attacks. With several strikes in his arsenal, he can Grant the Opponent small amounts of Combo at a time, building up to a larger amount over time. Lining up a Special Attack to then Consume the Combo from the Opponent empowers his Special Attacks by inflicting them with Daunted upon Combo Consumption, the more consumed the better. If the Opponent is inflicted with enough Daunted during his Special Attacks, Silver Samurai triggers his Unblockable state, inflicting large amounts of Energy Damage, and slicing through Blocks."
+  },
+  {
     "title": "Silver Surfer",
     "slug": "silver_surfer",
     "class": "Cosmic",
@@ -10726,6 +11223,51 @@
     },
     "bio": "To protect his planet from certain Annihilation, Norrin Radd relinquished his life to become the Silver Surfer, a Herald of Galactus. Now imbued with the Power Cosmic, the Silver Surfer travels the galaxy in search of new planets to feed Galactus\u2019 insatiable hunger.",
     "mechanics": "Silver Surfer\u2019s gameplay is focused on creating and maintaining as many unique Buffs as possible. Each Unique Buff increases his on hit energy damage and enables him to create new powerful buffs when launching Special Attacks."
+  },
+  {
+    "title": "Solvarch",
+    "slug": "solvarch",
+    "class": "Tech",
+    "tags_raw": [
+      "Defensive: Tank",
+      "Villain",
+      "Eidol",
+      "Size: XL"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Villain",
+        "Eidol"
+      ]
+    },
+    "abilities": [
+      "Coldsnap",
+      "Armor",
+      "Energize",
+      "Power Drain",
+      "Heal Block"
+    ],
+    "immunities": [],
+    "signature_ability": "Wolf of the Stars",
+    "release_date": "August 14, 2025",
+    "portrait_file": "Solvarch portrait.png",
+    "featured_file": "Solvarch featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "In the twilight years of the Founders' empire they recognized a need for a powerful soldier to conquer whichever universe they chose to inhabit next. To this end they created a soldier who could feast on the very power of a star and then release this massive surplus of energy against their enemies. Solvarch was the result of this nightmarish design, an Eidol whose thirst for destruction is matched only by his hunger for power. With the ability to freeze their opponent with a mere touch, they hunger to absorb all the power in The Battlerealm, before releasing this overwhelming power on any who would dare stand in their way.",
+    "mechanics": "Solvarch\u2019s gameplay loop revolves around their 2 ISO Core Modes and using their Special 1 to switch between them. Use Absorb Mode to build up Core Charge and Armor Ups, then when you\u2019re ready, use Release Mode to convert Armor Ups to Energizes for Power and big Reverb Damage at the cost of draining your Core. They also love to hunt Mutants and Energy Damage champions, as these rapidly charge their Core allowing them to spend much more time in their high damage Release Mode!"
   },
   {
     "title": "Sorcerer Supreme",
@@ -12176,6 +12718,61 @@
     },
     "bio": "Samuel Sterns was once an average high school dropout, but after working the night shift at a chemical plant, a gamma explosion left him with an insatiable lust for knowledge. It turns out the gamma granted Sam a genius-level intellect, which he then used to turn himself into the Leader, an evil mastermind and arch nemesis to the Hulk.",
     "mechanics": "Leader\u2019s gameplay centers around The Green Door, which is a zone in the center of the arena that has two states: Open and Closed. The Green Door starts closed and The Leader must gradually build up Gamma Radiation by keeping Debuffs active on the Opponent. Once he reaches 100 Gamma Radiation, the Door opens, grating The Leader Fury effects and inflicting bursts of Degeneration Damage while the Opponent is standing on top of the Door. While opened, the Green Door consumes Gamma Radiation before closing again. This Champion is all about using giant brain plays to maximize your time on top of the Green Door."
+  },
+  {
+    "title": "The Maker",
+    "slug": "the_maker",
+    "class": "Tech",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Control: Denial",
+      "Villain",
+      "Size: M",
+      "Fantastic Four",
+      "Cabal"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Fantastic Four",
+        "Cabal"
+      ]
+    },
+    "abilities": [
+      "Neuroshock Immunity",
+      "Reversed Controls Immunity",
+      "Evade",
+      "Heal Block",
+      "Plasma Mine",
+      "Plasma",
+      "Suppression",
+      "Power Reroute"
+    ],
+    "immunities": [
+      "Neuroshock",
+      "Reversed Controls"
+    ],
+    "signature_ability": "Contingency Plans",
+    "release_date": "July 10, 2025",
+    "portrait_file": "The Maker portrait.png",
+    "featured_file": "The Maker featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes (featured)",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Once the heroic and brilliant Mister Fantastic, the Ultimatum Wave was the start of a dark descent for Reed Richards, leading him towards villainy as The Maker. After being rejected by the love of his life and murdering his own family, a confrontation with Sue resulted in an outraged Johnny burning and scarring Reed\u2019s face. Donning a helmet, Reed became The Maker, founding the Children of Tomorrow and evolving alongside them for thousands of years before returning to remake the world.",
+    "mechanics": "The Maker\u2019s core gameplay revolves around scheming and pummeling enemies through his trap. The Maker\u2019s first priority is to set up a Plasma Mine that is the core to the rest of his plans. Once in place, bringing Opponents over it as often as possible whittles down their health bar and turns the fight for Power in his favour. Finishing an enemy off with an Empowered Plasma Mine is when his schemes have fully played to his expectations.\n\nTo ensure his opponent\u2019s fall into obsolescence, The Maker can utilize his gadgets to enact Pre-Fight Abilities for himself or his temporary allies throughout a Quest."
   },
   {
     "title": "The Overseer",
@@ -13788,6 +14385,51 @@
     },
     "bio": "A Master of the Mystic Arts and the current Sorcerer Supreme, Wong is a stoic individual that has devoted his life to protecting the Sanctum Sanctorum using the Mystic Arts of Kamar-Taj, taking on the mantle of his former master, the Ancient One. While his applications of the mystic arts may not be as robust as those of previous Sorcerer Supremes, his vast knowledge and familiarity with tomes and magical relics make him a more than a capable adversary, on and off the battlefield.",
     "mechanics": "Wong\u2019s Kit is built around casting Eldritch Spells which provide utility and build up Eldritch Energy. Wong consumes this Eldritch Energy with his Heavy Attack to convert it into Power, allowing him to gain incredible amounts of power in a short period.\nWong\u2019s Special Attacks are designed to create or maintain Spells. Special Attack 1 casts a Spell based on Wong\u2019s current mode, while Special Attack 2 and 3 refresh the duration of all existing Spells with additional effects."
+  },
+  {
+    "title": "Yelena Belova",
+    "slug": "yelena_belova",
+    "class": "Skill",
+    "tags_raw": [
+      "Defensive: Utility",
+      "Mercenary",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "M",
+      "other": [
+        "Mercenary"
+      ]
+    },
+    "abilities": [
+      "Poison Immunity",
+      "Endurance",
+      "Combo Shield",
+      "Bleed",
+      "Reversal"
+    ],
+    "immunities": [
+      "Poison"
+    ],
+    "signature_ability": "Cover All Contingencies",
+    "release_date": "May 18, 2025",
+    "portrait_file": "Yelena Belova portrait.png",
+    "featured_file": "Yelena Belova featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Few can survive the brutal training and conditioning offered by The Red Room Academy. Yelena Belova not only survived, but was their best student. Now she finds herself in The Contest, utilizing her unmatched skills and ruthless efficiency to find and eliminate her targets one by one with cold, calculated attacks.",
+    "mechanics": "Yelena has two modes\u2013Observation and Elimination\u2013to prepare for and execute a winning strike against her opponent. Combo Meter is her main resource to control modes, and she has several ways to gain Combo outside of traditional methods."
   },
   {
     "title": "Yellowjacket",

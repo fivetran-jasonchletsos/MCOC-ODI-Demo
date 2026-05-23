@@ -1,0 +1,1746 @@
+[
+  {
+    "slug": "spider_woman_jessica_drew",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "kindred",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sorcerer_supreme",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "okoye",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "yelena_belova",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "scorpion",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "storm",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "karolina_dean",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "spider_man_classic",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "the_serpent",
+    "stars": 7,
+    "rank": 4,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "bastion",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "wolverine_weapon_x",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "vision_aarkus",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "captain_britain",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "vox",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "photon",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "ant_man",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "negasonic_teenage_warhead",
+    "stars": 7,
+    "rank": 3,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "hyperion",
+    "stars": 7,
+    "rank": 3,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "red_skull",
+    "stars": 7,
+    "rank": 3,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "high_evolutionary",
+    "stars": 7,
+    "rank": 3,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "scream",
+    "stars": 7,
+    "rank": 3,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "onslaught",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "silver_sable",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "punisher",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "doctor_doom",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "nimrod",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "scarlet_witch",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "bullseye",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "nick_fury",
+    "stars": 7,
+    "rank": 2,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "shathra",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "hulkling",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "kushala",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "gentle",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "magik",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "human_torch",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "kitty_pryde",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "omega_sentinel",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "mister_sinister",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "cosmic_ghost_rider",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "void",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "falcon",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "blue_marvel",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "juggernaut",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "apocalypse",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "hulk",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "elsa_bloodstone",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "jean_grey",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "enchantress",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "silk",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "galan",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "hit_monkey",
+    "stars": 7,
+    "rank": 2,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "dani_moonstar",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "arcade",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "quicksilver",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "joe_fixit",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "mangog",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "deadpool",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "valkyrie",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "chee_ilth",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "warlock",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "nico_minoru",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "dracula",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "knull",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "the_destroyer",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "mister_fantastic",
+    "stars": 7,
+    "rank": 1,
+    "sig": 200,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "crossbones",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "cyclops_blue_team",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "spider_punk",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "venom",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "lady_deathstrike",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "gorr",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "magneto",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "man_thing",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "northstar",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "arnim_zola",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "adam_warlock",
+    "stars": 6,
+    "rank": 5,
+    "sig": 200,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "ironheart",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "venom_the_duck",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "peni_parker",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "gambit",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "titania",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "sabretooth",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "the_hood",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "the_leader",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "mysterio",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "iron_man",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "ebony_maw",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "baron_zemo",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "silver_surfer",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "spider_ham",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "absorbing_man",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "america_chavez",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "mantis",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "attuma",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": true
+  },
+  {
+    "slug": "thing",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "lizard",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "franken_castle",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "captain_marvel",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "tigra",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "hercules",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "korg",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "luke_cage",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "venompool",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sunspot",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "mr_knight",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "vision",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "white_tiger",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "dust",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "symbiote_supreme",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "rintrah",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sauron",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "black_widow",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "spider_gwen",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "toad",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "blade",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sersi",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "mister_negative",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sentry",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "captain_america",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "prowler",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "beta_ray_bill",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "professor_x",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "wong",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "misty_knight",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "isophyne",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "falcon",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "abomination",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "solvarch",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "iron_man",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "jabari_panther",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "ultron",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "havok",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "the_maker",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "omega_red",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sentinel",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "wolverine",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "spot",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "ikaris",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "black_panther",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sandman",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "sasquatch",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "archangel",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "she_hulk",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "emma_frost",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "war_machine",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "gamora",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "dazzler",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "lumatrix",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "longshot",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "killmonger",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "cassie_lang",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "terrax",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "gwenpool",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "stryfe",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "wiccan",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "patriot",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "nova",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "nightcrawler",
+    "stars": 6,
+    "rank": 5,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  },
+  {
+    "slug": "moondragon",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "gladiator",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "goldpool",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "nova",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "domino",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "silver_samurai",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "imperiosa",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "guardian",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "punisher_2099",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "corvus_glaive",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "red_hulk",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "mordo",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "viv_vision",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "the_overseer",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "jack_o_lantern",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "thor",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "werewolf_by_night",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "purgatory",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "colossus",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "kingpin",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "anti_venom",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "dragon_man",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "morbius",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "mole_man",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "doctor_voodoo",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "guillotine_2099",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "howard_the_duck",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "shuri",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "gon",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "shocker",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "hawkeye",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "star_lord",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "karnak",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "angela",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "super_skrull",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "hulkbuster",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "agent_venom",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "nebula",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "annihilus",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "platinumpool",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "medusa",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "shang_chi",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "rogue",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "carnage",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "cable",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "civil_warrior",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "star_lord",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "proxima_midnight",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "quake",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "doctor_octopus",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "rocket_raccoon",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "heimdall",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "phoenix",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "bishop",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "black_cat",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "ghost",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "odin",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "rhino",
+    "stars": 6,
+    "rank": 5,
+    "sig": null,
+    "awakened": false,
+    "ascended": false
+  },
+  {
+    "slug": "iceman",
+    "stars": 6,
+    "rank": 4,
+    "sig": 100,
+    "awakened": true,
+    "ascended": false
+  }
+]

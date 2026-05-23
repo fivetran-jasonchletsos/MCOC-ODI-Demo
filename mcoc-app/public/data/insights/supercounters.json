@@ -123,6 +123,7 @@
       "doctor_doom",
       "doctor_strange",
       "dormammu",
+      "dracula",
       "ebony_maw",
       "enchantress",
       "magik",
@@ -134,8 +135,8 @@
       "shathra",
       "sorcerer_supreme"
     ],
-    "offerer_count": 14,
-    "leverage": 3.0
+    "offerer_count": 15,
+    "leverage": 2.8
   },
   {
     "ability": "Stagger",
@@ -284,6 +285,7 @@
       "rintrah",
       "sasquatch",
       "shuri",
+      "solvarch",
       "superior_iron_man",
       "thanos",
       "toad",
@@ -293,7 +295,7 @@
       "wolverine",
       "wong"
     ],
-    "countered_count": 30,
+    "countered_count": 31,
     "offerers": [
       "agent_venom",
       "arcade",
@@ -303,6 +305,7 @@
       "count_nefaria",
       "crossbones",
       "falcon",
+      "franken_castle",
       "galan",
       "green_goblin",
       "gwenpool",
@@ -313,6 +316,7 @@
       "ironheart",
       "jack_o_lantern",
       "jubilee",
+      "karolina_dean",
       "king_groot_deathless",
       "kitty_pryde",
       "kushala",
@@ -335,8 +339,8 @@
       "vulture",
       "wiccan"
     ],
-    "offerer_count": 39,
-    "leverage": 0.7692307692307693
+    "offerer_count": 41,
+    "leverage": 0.7560975609756098
   },
   {
     "ability": "Unblockable",
@@ -351,6 +355,7 @@
       "captain_america_infinity_war",
       "captain_america_wwii",
       "colossus",
+      "franken_castle",
       "goldpool",
       "hulk_immortal",
       "hulkbuster",
@@ -371,7 +376,7 @@
       "toad",
       "ultron_classic"
     ],
-    "countered_count": 25,
+    "countered_count": 26,
     "offerers": [
       "adam_warlock",
       "bishop",
@@ -385,6 +390,7 @@
       "heimdall",
       "ikaris",
       "juggernaut",
+      "karolina_dean",
       "lumatrix",
       "mangog",
       "misty_knight",
@@ -395,12 +401,13 @@
       "shang_chi",
       "shathra",
       "shocker",
+      "silver_samurai",
       "super_skrull",
       "the_serpent",
       "werewolf_by_night"
     ],
-    "offerer_count": 25,
-    "leverage": 1.0
+    "offerer_count": 27,
+    "leverage": 0.9629629629629629
   },
   {
     "ability": "Stun Immunity",
@@ -414,6 +421,7 @@
       "captain_america_infinity_war",
       "captain_america_wwii",
       "colossus",
+      "franken_castle",
       "goldpool",
       "hulk_immortal",
       "hulkbuster",
@@ -434,10 +442,10 @@
       "toad",
       "ultron_classic"
     ],
-    "countered_count": 25,
+    "countered_count": 26,
     "offerers": [],
     "offerer_count": 0,
-    "leverage": 25.0
+    "leverage": 26.0
   },
   {
     "ability": "Bleed Immunity",
@@ -466,23 +474,131 @@
       "scream",
       "ultron",
       "venom",
-      "wolverine"
+      "wolverine",
+      "yelena_belova"
     ],
-    "countered_count": 22,
+    "countered_count": 23,
     "offerers": [
       "arnim_zola",
       "colossus",
       "cosmic_ghost_rider",
       "ghost_rider",
       "groot",
+      "imperiosa",
       "luke_cage",
       "morningstar",
       "prowler",
       "terrax",
       "unstoppable_colossus"
     ],
-    "offerer_count": 10,
-    "leverage": 2.2
+    "offerer_count": 11,
+    "leverage": 2.090909090909091
+  },
+  {
+    "ability": "Armor Break",
+    "archetypes_countered": [
+      "armored"
+    ],
+    "countered_defenders": [
+      "ant_man_future",
+      "bastion",
+      "civil_warrior",
+      "colossus",
+      "darkhawk",
+      "iron_man",
+      "iron_patriot",
+      "killmonger",
+      "odin",
+      "omega_sentinel",
+      "shuri",
+      "solvarch",
+      "superior_iron_man",
+      "thanos",
+      "ultron",
+      "ultron_classic",
+      "unstoppable_colossus"
+    ],
+    "countered_count": 17,
+    "offerers": [
+      "air_walker",
+      "angela",
+      "annihilus",
+      "black_bolt",
+      "captain_marvel",
+      "corvus_glaive",
+      "cosmic_ghost_rider",
+      "cull_obsidian",
+      "cyclops_new_xavier_school",
+      "elektra",
+      "gamora",
+      "hela",
+      "howard_the_duck",
+      "hulkbuster",
+      "hyperion",
+      "iron_fist",
+      "iron_fist_immortal",
+      "iron_man",
+      "iron_man_infinity_war",
+      "iron_patriot",
+      "king_groot",
+      "king_groot_deathless",
+      "knull",
+      "magneto",
+      "magneto_house_of_x",
+      "man_thing",
+      "medusa",
+      "misty_knight",
+      "old_man_logan",
+      "phoenix",
+      "punisher_2099",
+      "rocket_raccoon",
+      "ronan",
+      "scream",
+      "sentinel",
+      "spider_man_classic",
+      "spider_man_symbiote",
+      "superior_iron_man",
+      "taskmaster",
+      "the_champion",
+      "thor_ragnarok",
+      "vision_aarkus",
+      "war_machine",
+      "yondu"
+    ],
+    "offerer_count": 44,
+    "leverage": 0.38636363636363635
+  },
+  {
+    "ability": "Armor Shattered",
+    "archetypes_countered": [
+      "armored"
+    ],
+    "countered_defenders": [
+      "ant_man_future",
+      "bastion",
+      "civil_warrior",
+      "colossus",
+      "darkhawk",
+      "iron_man",
+      "iron_patriot",
+      "killmonger",
+      "odin",
+      "omega_sentinel",
+      "shuri",
+      "solvarch",
+      "superior_iron_man",
+      "thanos",
+      "ultron",
+      "ultron_classic",
+      "unstoppable_colossus"
+    ],
+    "countered_count": 17,
+    "offerers": [
+      "medusa",
+      "thanos_deathless"
+    ],
+    "offerer_count": 2,
+    "leverage": 8.5
   },
   {
     "ability": "Heal Block",
@@ -523,15 +639,17 @@
       "red_skull",
       "sentinel",
       "silver_centurion",
+      "solvarch",
       "thanos",
+      "the_maker",
       "ultron_classic",
       "vision",
       "vision_age_of_ultron",
       "viv_vision",
       "yondu"
     ],
-    "offerer_count": 20,
-    "leverage": 0.8
+    "offerer_count": 22,
+    "leverage": 0.7272727272727273
   },
   {
     "ability": "Heal Reversal",
@@ -646,10 +764,11 @@
       "iceman",
       "kate_bishop",
       "misty_knight",
+      "solvarch",
       "vision_aarkus"
     ],
-    "offerer_count": 4,
-    "leverage": 4.0
+    "offerer_count": 5,
+    "leverage": 3.2
   },
   {
     "ability": "Degeneration",
@@ -677,6 +796,7 @@
     "countered_count": 16,
     "offerers": [
       "apocalypse",
+      "dracula",
       "ebony_maw",
       "guillotine",
       "guillotine_deathless",
@@ -696,112 +816,8 @@
       "venom_the_duck",
       "vox"
     ],
-    "offerer_count": 19,
-    "leverage": 0.8421052631578947
-  },
-  {
-    "ability": "Armor Break",
-    "archetypes_countered": [
-      "armored"
-    ],
-    "countered_defenders": [
-      "ant_man_future",
-      "bastion",
-      "civil_warrior",
-      "colossus",
-      "darkhawk",
-      "iron_man",
-      "iron_patriot",
-      "killmonger",
-      "odin",
-      "omega_sentinel",
-      "shuri",
-      "superior_iron_man",
-      "thanos",
-      "ultron",
-      "ultron_classic",
-      "unstoppable_colossus"
-    ],
-    "countered_count": 16,
-    "offerers": [
-      "air_walker",
-      "angela",
-      "annihilus",
-      "black_bolt",
-      "captain_marvel",
-      "corvus_glaive",
-      "cosmic_ghost_rider",
-      "cull_obsidian",
-      "cyclops_new_xavier_school",
-      "elektra",
-      "gamora",
-      "hela",
-      "howard_the_duck",
-      "hulkbuster",
-      "hyperion",
-      "iron_fist",
-      "iron_fist_immortal",
-      "iron_man",
-      "iron_man_infinity_war",
-      "iron_patriot",
-      "king_groot",
-      "king_groot_deathless",
-      "knull",
-      "magneto",
-      "magneto_house_of_x",
-      "man_thing",
-      "medusa",
-      "misty_knight",
-      "old_man_logan",
-      "phoenix",
-      "punisher_2099",
-      "rocket_raccoon",
-      "ronan",
-      "scream",
-      "sentinel",
-      "spider_man_classic",
-      "spider_man_symbiote",
-      "superior_iron_man",
-      "taskmaster",
-      "the_champion",
-      "thor_ragnarok",
-      "vision_aarkus",
-      "war_machine",
-      "yondu"
-    ],
-    "offerer_count": 44,
-    "leverage": 0.36363636363636365
-  },
-  {
-    "ability": "Armor Shattered",
-    "archetypes_countered": [
-      "armored"
-    ],
-    "countered_defenders": [
-      "ant_man_future",
-      "bastion",
-      "civil_warrior",
-      "colossus",
-      "darkhawk",
-      "iron_man",
-      "iron_patriot",
-      "killmonger",
-      "odin",
-      "omega_sentinel",
-      "shuri",
-      "superior_iron_man",
-      "thanos",
-      "ultron",
-      "ultron_classic",
-      "unstoppable_colossus"
-    ],
-    "countered_count": 16,
-    "offerers": [
-      "medusa",
-      "thanos_deathless"
-    ],
-    "offerer_count": 2,
-    "leverage": 8.0
+    "offerer_count": 20,
+    "leverage": 0.8
   },
   {
     "ability": "Ability Accuracy Reduction",
@@ -830,6 +846,37 @@
     "leverage": 13.0
   },
   {
+    "ability": "Incinerate Immunity",
+    "archetypes_countered": [
+      "incinerate_applier"
+    ],
+    "countered_defenders": [
+      "arcade",
+      "franken_castle",
+      "galan",
+      "hyperion",
+      "jubilee",
+      "karolina_dean",
+      "m_o_d_o_k",
+      "omega_sentinel",
+      "peni_parker",
+      "sentinel",
+      "sersi"
+    ],
+    "countered_count": 11,
+    "offerers": [
+      "cosmic_ghost_rider",
+      "ghost_rider",
+      "iron_man_infamous",
+      "ironheart",
+      "jack_o_lantern",
+      "prowler",
+      "void"
+    ],
+    "offerer_count": 7,
+    "leverage": 1.5714285714285714
+  },
+  {
     "ability": "Power Lock",
     "archetypes_countered": [
       "power_gain_reliant"
@@ -837,6 +884,7 @@
     "countered_defenders": [
       "blade",
       "gladiator",
+      "karolina_dean",
       "peni_parker",
       "scarlet_witch",
       "superior_iron_man",
@@ -845,7 +893,7 @@
       "vision_aarkus",
       "wong"
     ],
-    "countered_count": 9,
+    "countered_count": 10,
     "offerers": [
       "doctor_octopus",
       "dormammu",
@@ -856,7 +904,7 @@
       "psylocke"
     ],
     "offerer_count": 7,
-    "leverage": 1.2857142857142858
+    "leverage": 1.4285714285714286
   },
   {
     "ability": "Power Drain",
@@ -866,6 +914,7 @@
     "countered_defenders": [
       "blade",
       "gladiator",
+      "karolina_dean",
       "peni_parker",
       "scarlet_witch",
       "superior_iron_man",
@@ -874,7 +923,7 @@
       "vision_aarkus",
       "wong"
     ],
-    "countered_count": 9,
+    "countered_count": 10,
     "offerers": [
       "dormammu",
       "green_goblin",
@@ -885,12 +934,13 @@
       "psycho_man",
       "psylocke",
       "red_skull",
+      "solvarch",
       "symbiote_supreme",
       "viv_vision",
       "warlock"
     ],
-    "offerer_count": 12,
-    "leverage": 0.75
+    "offerer_count": 13,
+    "leverage": 0.7692307692307693
   },
   {
     "ability": "Power Burn",
@@ -900,6 +950,7 @@
     "countered_defenders": [
       "blade",
       "gladiator",
+      "karolina_dean",
       "peni_parker",
       "scarlet_witch",
       "superior_iron_man",
@@ -908,7 +959,7 @@
       "vision_aarkus",
       "wong"
     ],
-    "countered_count": 9,
+    "countered_count": 10,
     "offerers": [
       "doctor_voodoo",
       "dormammu",
@@ -921,7 +972,7 @@
       "warlock"
     ],
     "offerer_count": 9,
-    "leverage": 1.0
+    "leverage": 1.1111111111111112
   },
   {
     "ability": "Power Steal",
@@ -931,6 +982,7 @@
     "countered_defenders": [
       "blade",
       "gladiator",
+      "karolina_dean",
       "peni_parker",
       "scarlet_witch",
       "superior_iron_man",
@@ -939,7 +991,7 @@
       "vision_aarkus",
       "wong"
     ],
-    "countered_count": 9,
+    "countered_count": 10,
     "offerers": [
       "black_widow_claire_voyant",
       "doctor_voodoo",
@@ -954,7 +1006,7 @@
       "white_tiger"
     ],
     "offerer_count": 11,
-    "leverage": 0.8181818181818182
+    "leverage": 0.9090909090909091
   },
   {
     "ability": "Poison Immunity",
@@ -990,39 +1042,11 @@
       "she_hulk_deathless",
       "the_leader",
       "toad",
-      "vox"
+      "vox",
+      "yelena_belova"
     ],
-    "offerer_count": 17,
-    "leverage": 0.5294117647058824
-  },
-  {
-    "ability": "Incinerate Immunity",
-    "archetypes_countered": [
-      "incinerate_applier"
-    ],
-    "countered_defenders": [
-      "arcade",
-      "galan",
-      "hyperion",
-      "jubilee",
-      "m_o_d_o_k",
-      "omega_sentinel",
-      "peni_parker",
-      "sentinel",
-      "sersi"
-    ],
-    "countered_count": 9,
-    "offerers": [
-      "cosmic_ghost_rider",
-      "ghost_rider",
-      "iron_man_infamous",
-      "ironheart",
-      "jack_o_lantern",
-      "prowler",
-      "void"
-    ],
-    "offerer_count": 7,
-    "leverage": 1.2857142857142858
+    "offerer_count": 18,
+    "leverage": 0.5
   },
   {
     "ability": "True Strike",
@@ -1106,6 +1130,32 @@
     "leverage": 1.4
   },
   {
+    "ability": "Auto-Block",
+    "archetypes_countered": [
+      "unblockable_reliant"
+    ],
+    "countered_defenders": [
+      "arcade",
+      "high_evolutionary",
+      "nova",
+      "omega_sentinel",
+      "peni_parker",
+      "scream"
+    ],
+    "countered_count": 6,
+    "offerers": [
+      "arcade",
+      "heimdall",
+      "high_evolutionary",
+      "nova",
+      "omega_sentinel",
+      "peni_parker",
+      "scream"
+    ],
+    "offerer_count": 7,
+    "leverage": 0.8571428571428571
+  },
+  {
     "ability": "Concussion",
     "archetypes_countered": [
       "ability_accuracy_reliant"
@@ -1133,43 +1183,20 @@
     "leverage": 0.5555555555555556
   },
   {
-    "ability": "Auto-Block",
-    "archetypes_countered": [
-      "unblockable_reliant"
-    ],
-    "countered_defenders": [
-      "arcade",
-      "nova",
-      "omega_sentinel",
-      "peni_parker",
-      "scream"
-    ],
-    "countered_count": 5,
-    "offerers": [
-      "arcade",
-      "heimdall",
-      "nova",
-      "omega_sentinel",
-      "peni_parker",
-      "scream"
-    ],
-    "offerer_count": 6,
-    "leverage": 0.8333333333333334
-  },
-  {
     "ability": "Coldsnap Immunity",
     "archetypes_countered": [
       "coldsnap_applier"
     ],
     "countered_defenders": [
       "misty_knight",
+      "solvarch",
       "vision_aarkus"
     ],
-    "countered_count": 2,
+    "countered_count": 3,
     "offerers": [
       "the_serpent"
     ],
     "offerer_count": 1,
-    "leverage": 2.0
+    "leverage": 3.0
   }
 ]
