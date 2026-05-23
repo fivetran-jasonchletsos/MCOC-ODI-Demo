@@ -17,6 +17,7 @@ import {
 } from "@/lib/roster";
 import { CLASS_KEY, CLASS_LIST } from "@/lib/types";
 import { asset } from "@/lib/asset";
+import { ScreenshotUpload } from "@/components/ScreenshotUpload";
 import type { ChampionClass, RosterEntry } from "@/lib/types";
 
 export default function RosterPage() {
@@ -64,6 +65,19 @@ export default function RosterPage() {
     const text = rosterToText(roster);
     navigator.clipboard.writeText(text).catch(() => {});
     alert(`Copied ${roster.length} champions to clipboard.`);
+  }
+
+  function addEntries(entries: RosterEntry[]) {
+    const seen = new Set(roster.map((r) => r.slug));
+    const merged = [...roster];
+    for (const e of entries) {
+      if (!seen.has(e.slug)) {
+        merged.push(e);
+        seen.add(e.slug);
+      }
+    }
+    setRoster(merged);
+    saveRoster(merged);
   }
 
   // Insight: ability supercounters scoped to roster
@@ -122,7 +136,7 @@ export default function RosterPage() {
         </p>
       </header>
 
-      <section className="grid md:grid-cols-2 gap-4">
+      <section className="grid md:grid-cols-3 gap-4">
         <div className="bg-ink-soft border border-ink-mid rounded-lg p-4">
           <h2 className="font-display text-sm uppercase tracking-wide text-chrome-soft mb-2">
             Paste roster
@@ -154,6 +168,7 @@ export default function RosterPage() {
             </div>
           )}
         </div>
+        <ScreenshotUpload onAdd={addEntries} />
         <div className="bg-ink-soft border border-ink-mid rounded-lg p-4">
           <h2 className="font-display text-sm uppercase tracking-wide text-chrome-soft mb-2">
             Roster snapshot
