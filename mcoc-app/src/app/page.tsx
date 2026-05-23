@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ChampionGrid } from "@/components/ChampionGrid";
 import { champions, supercounters, immunityPairs, debuffChains } from "@/lib/data";
 
@@ -16,12 +17,12 @@ export default function HomePage() {
           by ability profile. Load your roster to unlock coverage-gap analysis and rank-up math.
         </p>
         <div className="flex gap-3 pt-2">
-          <a href="/roster/" className="px-4 py-2 bg-cosmic text-ink font-semibold rounded-md hover:bg-cosmic-glow transition-colors">
+          <Link href="/roster/" className="px-4 py-2 bg-cosmic text-ink font-semibold rounded-md hover:bg-cosmic-glow transition-colors">
             Load My Roster
-          </a>
-          <a href="/insights/" className="px-4 py-2 border border-chrome-soft text-chrome rounded-md hover:bg-ink-soft transition-colors">
+          </Link>
+          <Link href="/insights/" className="px-4 py-2 border border-chrome-soft text-chrome rounded-md hover:bg-ink-soft transition-colors">
             See Insights
-          </a>
+          </Link>
         </div>
       </header>
       <section>

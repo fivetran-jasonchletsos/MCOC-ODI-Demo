@@ -7,6 +7,7 @@ import {
   immunityPairs,
 } from "@/lib/data";
 import { CLASS_KEY } from "@/lib/types";
+import { asset } from "@/lib/asset";
 
 export function generateStaticParams() {
   return champions.map((c) => ({ slug: c.slug }));
@@ -30,7 +31,7 @@ export default function ChampionPage({ params }: { params: { slug: string } }) {
         >
           {c.portrait ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={c.portrait} alt={c.title} className="w-full h-full object-cover" />
+            <img src={asset(c.portrait)} alt={c.title} className="w-full h-full object-cover" />
           ) : (
             <div className="w-full h-full grid place-items-center text-chrome-dim">
               {c.title}

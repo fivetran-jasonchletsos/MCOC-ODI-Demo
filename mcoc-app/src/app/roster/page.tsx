@@ -16,6 +16,7 @@ import {
   rosterToText,
 } from "@/lib/roster";
 import { CLASS_KEY, CLASS_LIST } from "@/lib/types";
+import { asset } from "@/lib/asset";
 import type { ChampionClass, RosterEntry } from "@/lib/types";
 
 export default function RosterPage() {
@@ -212,7 +213,7 @@ export default function RosterPage() {
               >
                 {c.portrait ? (
                   // eslint-disable-next-line @next/next/no-img-element
-                  <img src={c.portrait} alt={c.title} loading="lazy"
+                  <img src={asset(c.portrait)} alt={c.title} loading="lazy"
                     className="absolute inset-0 w-full h-full object-cover" />
                 ) : (
                   <div className="absolute inset-0 grid place-items-center text-[10px] text-chrome-dim">

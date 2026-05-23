@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { CLASS_KEY } from "@/lib/types";
+import { asset } from "@/lib/asset";
 import type { Champion } from "@/lib/types";
 
 export function ChampionCard({ c, compact = false }: { c: Champion; compact?: boolean }) {
@@ -14,7 +15,7 @@ export function ChampionCard({ c, compact = false }: { c: Champion; compact?: bo
         {c.portrait ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={c.portrait}
+            src={asset(c.portrait)}
             alt={c.title}
             loading="lazy"
             className="absolute inset-0 w-full h-full object-cover"
