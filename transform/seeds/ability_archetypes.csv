@@ -1,0 +1,20 @@
+ability,archetype_tag,notes
+Power Gain,power_gain_reliant,Generates own power outside of basics; targets of Power Lock.
+Regeneration,regen_reliant,Healing engine; targets of Heal Block.
+Fury,buff_stacker,Stacking attack buff; vulnerable to Nullify Stagger Petrify.
+Armor Up,buff_stacker,Stacking armor; vulnerable to Nullify Stagger.
+Precision,buff_stacker,Stacking crit rating; vulnerable to Nullify Stagger.
+Cruelty,buff_stacker,Stacking crit damage; vulnerable to Nullify Stagger.
+Prowess,buff_stacker,Stacking special damage; vulnerable to Nullify Stagger.
+Evade,evade_reliant,Active evade trigger; countered by AAR True Strike True Accuracy.
+Auto-Block,unblockable_reliant,Blocks unblockable attacks; useful vs Doctor Doom Ægon.
+Bleed,bleed_applier,Applies bleed; countered by Bleed Immunity.
+Poison,poison_applier,Applies poison; countered by Poison Immunity.
+Incinerate,incinerate_applier,Applies incinerate; countered by Incinerate Immunity / Cold Snap.
+Coldsnap,coldsnap_applier,Applies coldsnap; countered by Coldsnap Immunity.
+Cold Snap,coldsnap_applier,Applies coldsnap; countered by Coldsnap Immunity.
+Shock,shock_applier,Applies shock; countered by Shock Immunity.
+Armor,armored,Armor stacks reduce damage; countered by Armor Break Incinerate True Damage.
+Stun,parry_reliant,Stun-reliant play; countered by Stun Immunity.
+Ability Accuracy Reduction,ability_accuracy_reliant,Reduces enemy ability accuracy; AAR vs AAR shootout — True Accuracy resolves it.
+Concussion,ability_accuracy_reliant,Massive AAR; same archetype.

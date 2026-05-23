@@ -1,0 +1,62 @@
+[
+  {
+    "attacker_class": "Cosmic",
+    "defender_class": "Tech",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Tech",
+    "defender_class": "Mutant",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Mutant",
+    "defender_class": "Skill",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Skill",
+    "defender_class": "Science",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Science",
+    "defender_class": "Mystic",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Mystic",
+    "defender_class": "Cosmic",
+    "bonus": "advantage"
+  },
+  {
+    "attacker_class": "Tech",
+    "defender_class": "Cosmic",
+    "bonus": "disadvantage"
+  },
+  {
+    "attacker_class": "Mutant",
+    "defender_class": "Tech",
+    "bonus": "disadvantage"
+  },
+  {
+    "attacker_class": "Skill",
+    "defender_class": "Mutant",
+    "bonus": "disadvantage"
+  },
+  {
+    "attacker_class": "Science",
+    "defender_class": "Skill",
+    "bonus": "disadvantage"
+  },
+  {
+    "attacker_class": "Mystic",
+    "defender_class": "Science",
+    "bonus": "disadvantage"
+  },
+  {
+    "attacker_class": "Cosmic",
+    "defender_class": "Mystic",
+    "bonus": "disadvantage"
+  }
+]

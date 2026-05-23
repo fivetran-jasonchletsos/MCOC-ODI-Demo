@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0a0a12;
+  --fg: #e6e6ef;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+@layer components {
+  .class-cosmic { --c: #f6c83a; --c-deep: #8c6d10; --c-glow: #fff2b8; }
+  .class-tech { --c: #3aaaf6; --c-deep: #0e4f80; --c-glow: #bce2ff; }
+  .class-mutant { --c: #f6a23a; --c-deep: #8c4f10; --c-glow: #ffd9a8; }
+  .class-skill { --c: #f6453a; --c-deep: #7a1410; --c-glow: #ffb8b3; }
+  .class-science { --c: #3af67a; --c-deep: #0e6b2e; --c-glow: #b8ffce; }
+  .class-mystic { --c: #b53af6; --c-deep: #52107a; --c-glow: #e6b8ff; }
+
+  .class-card {
+    @apply relative rounded-lg overflow-hidden border;
+    border-color: var(--c, #5a5a68);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--c, #5a5a68) 18%, #0a0a12), #0a0a12 80%);
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--c, #5a5a68) 30%, transparent),
+                0 12px 32px -16px color-mix(in srgb, var(--c, #5a5a68) 60%, transparent);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .class-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 1px var(--c, #5a5a68),
+                0 18px 40px -14px color-mix(in srgb, var(--c, #5a5a68) 80%, transparent);
+  }
+
+  .class-chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-0.5 text-xs font-medium uppercase tracking-wide;
+    background: color-mix(in srgb, var(--c, #5a5a68) 20%, transparent);
+    color: var(--c-glow, #e6e6ef);
+    border: 1px solid color-mix(in srgb, var(--c, #5a5a68) 60%, transparent);
+  }
+}

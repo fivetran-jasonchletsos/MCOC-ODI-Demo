@@ -1,0 +1,4329 @@
+[
+  {
+    "name": "Aberration",
+    "champions": [
+      "venom_the_duck"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ability Accuracy Reversal",
+    "champions": [
+      "attuma"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Acid Burn",
+    "champions": [
+      "abomination_immortal"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Acrobatic Combat",
+    "champions": [
+      "beast"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Aftershock",
+    "champions": [
+      "quake"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "All-Father Odin's Vault",
+    "champions": [
+      "odin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ammo Stockpile",
+    "champions": [
+      "winter_soldier"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Anti-Life Field",
+    "champions": [
+      "mojo"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Aptitude",
+    "champions": [
+      "hulkling",
+      "red_goblin"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Arc Reactor",
+    "champions": [
+      "iron_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Arcade Token",
+    "champions": [
+      "arcade"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Armor",
+    "champions": [
+      "angela",
+      "ant_man_future",
+      "bastion",
+      "civil_warrior",
+      "colossus",
+      "darkhawk",
+      "doctor_octopus",
+      "guardian",
+      "guillotine_2099",
+      "heimdall",
+      "howard_the_duck",
+      "iron_man",
+      "iron_patriot",
+      "ironheart",
+      "killmonger",
+      "lady_deathstrike",
+      "odin",
+      "omega_sentinel",
+      "red_skull",
+      "rocket_raccoon",
+      "shuri",
+      "silver_centurion",
+      "silver_surfer",
+      "super_skrull",
+      "superior_iron_man",
+      "symbiote_supreme",
+      "thanos",
+      "ultron",
+      "ultron_classic",
+      "unstoppable_colossus",
+      "vulture",
+      "war_machine",
+      "warlock"
+    ],
+    "champion_count": 33,
+    "archetypes": [
+      "armored"
+    ],
+    "counters": []
+  },
+  {
+    "name": "Armor Break",
+    "champions": [
+      "air_walker",
+      "angela",
+      "annihilus",
+      "black_bolt",
+      "captain_marvel",
+      "corvus_glaive",
+      "cosmic_ghost_rider",
+      "cull_obsidian",
+      "cyclops_new_xavier_school",
+      "elektra",
+      "gamora",
+      "hela",
+      "howard_the_duck",
+      "hulkbuster",
+      "hyperion",
+      "iron_fist",
+      "iron_fist_immortal",
+      "iron_man",
+      "iron_man_infinity_war",
+      "iron_patriot",
+      "king_groot",
+      "king_groot_deathless",
+      "knull",
+      "magneto",
+      "magneto_house_of_x",
+      "man_thing",
+      "medusa",
+      "misty_knight",
+      "old_man_logan",
+      "phoenix",
+      "punisher_2099",
+      "rocket_raccoon",
+      "ronan",
+      "scream",
+      "sentinel",
+      "spider_man_classic",
+      "spider_man_symbiote",
+      "superior_iron_man",
+      "taskmaster",
+      "the_champion",
+      "thor_ragnarok",
+      "vision_aarkus",
+      "war_machine",
+      "yondu"
+    ],
+    "champion_count": 44,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "armored",
+        "strength": "strong",
+        "notes": "Strips armor stacks; canonical counter to armored defenders."
+      }
+    ]
+  },
+  {
+    "name": "Armor Shattered",
+    "champions": [
+      "medusa",
+      "thanos_deathless"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "armored",
+        "strength": "strong",
+        "notes": "Stronger Armor Break variant; flips armor into damage taken."
+      }
+    ]
+  },
+  {
+    "name": "Assassin's Cunning",
+    "champions": [
+      "hit_monkey"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Atrophy",
+    "champions": [
+      "enchantress",
+      "kindred",
+      "shathra"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Auto-Block",
+    "champions": [
+      "arcade",
+      "heimdall",
+      "nova",
+      "omega_sentinel",
+      "peni_parker",
+      "scream"
+    ],
+    "champion_count": 6,
+    "archetypes": [
+      "unblockable_reliant"
+    ],
+    "counters": [
+      {
+        "archetype": "unblockable_reliant",
+        "strength": "medium",
+        "notes": "Mitigates unblockable opener."
+      }
+    ]
+  },
+  {
+    "name": "Bamf",
+    "champions": [
+      "nightcrawler"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Behemoth Busters",
+    "champions": [
+      "elsa_bloodstone"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Beserk Rage",
+    "champions": [
+      "wolverine_weapon_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Binary Ignition",
+    "champions": [
+      "captain_marvel"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Black Uru Form",
+    "champions": [
+      "absorbing_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Bleed",
+    "champions": [
+      "agent_venom",
+      "apocalypse",
+      "arcade",
+      "archangel",
+      "attuma",
+      "baron_zemo",
+      "black_cat",
+      "black_panther",
+      "black_panther_civil_war",
+      "blade",
+      "bullseye",
+      "captain_america_infinity_war",
+      "captain_america_wwii",
+      "carnage",
+      "chee_ilth",
+      "daredevil_hell_s_kitchen",
+      "deadpool",
+      "drax",
+      "elektra",
+      "falcon",
+      "gamora",
+      "goldpool",
+      "groot",
+      "guillotine",
+      "gwenpool",
+      "hawkeye",
+      "jabari_panther",
+      "killmonger",
+      "knull",
+      "kraven",
+      "m_o_d_o_k",
+      "magneto",
+      "magneto_house_of_x",
+      "medusa",
+      "mole_man",
+      "moon_knight",
+      "morbius",
+      "morningstar",
+      "nick_fury",
+      "nightcrawler",
+      "okoye",
+      "old_man_logan",
+      "platinumpool",
+      "punisher",
+      "rocket_raccoon",
+      "ronin",
+      "sabretooth",
+      "sauron",
+      "scream",
+      "squirrel_girl",
+      "taskmaster",
+      "the_hood",
+      "ultron",
+      "venom",
+      "venom_the_duck",
+      "venompool",
+      "white_tiger",
+      "winter_soldier",
+      "winter_soldier",
+      "winter_soldier",
+      "wolverine",
+      "wolverine",
+      "wolverine_weapon_x",
+      "wolverine_x_23",
+      "gon"
+    ],
+    "champion_count": 65,
+    "archetypes": [
+      "bleed_applier"
+    ],
+    "counters": [
+      {
+        "archetype": "bleed_vulnerable",
+        "strength": "strong",
+        "notes": "Bleed DOT vs no-armor non-metal opponents."
+      }
+    ]
+  },
+  {
+    "name": "Bleed Curse",
+    "champions": [
+      "guillotine"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Bleed Immunity",
+    "champions": [
+      "arnim_zola",
+      "colossus",
+      "cosmic_ghost_rider",
+      "ghost_rider",
+      "groot",
+      "luke_cage",
+      "morningstar",
+      "prowler",
+      "terrax",
+      "unstoppable_colossus"
+    ],
+    "champion_count": 10,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "bleed_applier",
+        "strength": "strong",
+        "notes": "Hard counter to bleed-applying attackers (Wolverine Blade Aegon)."
+      }
+    ]
+  },
+  {
+    "name": "Bleed Resistance",
+    "champions": [
+      "beast"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Blessings of the Realm",
+    "champions": [
+      "sorcerer_supreme"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Block Proficiency",
+    "champions": [
+      "odin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Block Regeneration",
+    "champions": [
+      "doctor_strange"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Booby Trap",
+    "champions": [
+      "arcade"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Breach",
+    "champions": [
+      "rhino"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Buff Duration Reduction",
+    "champions": [
+      "absorbing_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "buff_stacker",
+        "strength": "medium",
+        "notes": "Shortens buffs; weaker against persistent buffs."
+      }
+    ]
+  },
+  {
+    "name": "Buff Immune",
+    "champions": [
+      "titania"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Buff Immunity",
+    "champions": [
+      "spot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Buff Steal",
+    "champions": [
+      "loki"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Bulwark",
+    "champions": [
+      "captain_britain",
+      "carnage",
+      "falcon_joaqu_n_torres",
+      "hulkling",
+      "sentry",
+      "valkyrie"
+    ],
+    "champion_count": 6,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cauterise",
+    "champions": [
+      "ultron"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cerebro Charges",
+    "champions": [
+      "professor_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Champion of the Universe",
+    "champions": [
+      "the_champion"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Chaos Surge",
+    "champions": [
+      "scarlet_witch"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Chi Strike",
+    "champions": [
+      "iron_fist",
+      "iron_fist_immortal"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Chilling Howl",
+    "champions": [
+      "werewolf_by_night"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cleanse",
+    "champions": [
+      "baron_zemo",
+      "black_cat",
+      "chee_ilth",
+      "groot",
+      "jabari_panther",
+      "mantis",
+      "shang_chi"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cold Immunity",
+    "champions": [
+      "ironheart",
+      "sabretooth"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Coldsnap",
+    "champions": [
+      "iceman",
+      "kate_bishop",
+      "misty_knight",
+      "vision_aarkus"
+    ],
+    "champion_count": 4,
+    "archetypes": [
+      "coldsnap_applier"
+    ],
+    "counters": [
+      {
+        "archetype": "regen_reliant",
+        "strength": "strong",
+        "notes": "Pauses regen and DOT timers."
+      }
+    ]
+  },
+  {
+    "name": "Coldsnap Immunity",
+    "champions": [
+      "the_serpent"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "coldsnap_applier",
+        "strength": "strong",
+        "notes": "Hard counter to cold-themed attackers."
+      }
+    ]
+  },
+  {
+    "name": "Combat Power Rate",
+    "champions": [
+      "darkhawk",
+      "silver_surfer"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Combo Shield",
+    "champions": [
+      "daredevil_hell_s_kitchen",
+      "okoye",
+      "squirrel_girl",
+      "gon"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Concussion",
+    "champions": [
+      "apocalypse",
+      "cable",
+      "emma_frost",
+      "gambit",
+      "jubilee",
+      "mister_sinister",
+      "quake",
+      "stryfe",
+      "wasp"
+    ],
+    "champion_count": 9,
+    "archetypes": [
+      "ability_accuracy_reliant"
+    ],
+    "counters": [
+      {
+        "archetype": "ability_accuracy_reliant",
+        "strength": "strong",
+        "notes": "Massive Ability Accuracy reduction; the canonical AAR-reliant counter."
+      }
+    ]
+  },
+  {
+    "name": "Confidence",
+    "champions": [
+      "gladiator"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Control Box",
+    "champions": [
+      "psycho_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Corrosion",
+    "champions": [
+      "thanos_deathless"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cosmic Control Rod",
+    "champions": [
+      "annihilus"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cosmic Radiation",
+    "champions": [
+      "maestro_cosmic"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Counterpunch Charge",
+    "champions": [
+      "thanos_deathless"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cowardice",
+    "champions": [
+      "arnim_zola",
+      "iron_man_infamous",
+      "nimrod",
+      "omega_sentinel"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Crimson Gem of Cyttorak",
+    "champions": [
+      "juggernaut"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Critical Bleed",
+    "champions": [
+      "domino",
+      "hit_monkey",
+      "squirrel_girl"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Critical Damage",
+    "champions": [
+      "domino",
+      "hit_monkey"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Critical Incinerate",
+    "champions": [
+      "moondragon"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cross-Fight Ability",
+    "champions": [
+      "mister_fantastic"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Crowd Excitement",
+    "champions": [
+      "korg"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cruelty",
+    "champions": [
+      "black_cat",
+      "black_panther",
+      "black_widow",
+      "black_widow_deadly_origin",
+      "bullseye",
+      "carnage",
+      "daredevil_hell_s_kitchen",
+      "elsa_bloodstone",
+      "gamora",
+      "ghost",
+      "hercules",
+      "night_thrasher",
+      "ronin",
+      "wolverine_x_23"
+    ],
+    "champion_count": 14,
+    "archetypes": [
+      "buff_stacker"
+    ],
+    "counters": [
+      {
+        "archetype": "critical_reliant",
+        "strength": "medium",
+        "notes": "Boosts critical damage; multiplies with Precision."
+      }
+    ]
+  },
+  {
+    "name": "Crush",
+    "champions": [
+      "onslaught"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Cunning",
+    "champions": [
+      "lumatrix"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Curse",
+    "champions": [
+      "loki"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Curse of Lycanthropy",
+    "champions": [
+      "werewolf_by_night"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Damage Reflection",
+    "champions": [
+      "enchantress",
+      "mysterio"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Dancing Blades",
+    "champions": [
+      "spiral"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Danger Sense",
+    "champions": [
+      "blade"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Dark Dimension",
+    "champions": [
+      "america_chavez"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Dark Sting",
+    "champions": [
+      "void"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Daunted",
+    "champions": [
+      "gentle",
+      "onslaught"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Death Factor",
+    "champions": [
+      "omega_red"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Death Field",
+    "champions": [
+      "omega_red"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Death Touch",
+    "champions": [
+      "black_widow_claire_voyant"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Debilitate",
+    "champions": [
+      "falcon_joaqu_n_torres"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Decelerate",
+    "champions": [
+      "anti_venom",
+      "baron_zemo",
+      "sandman",
+      "sandman",
+      "spider_man_classic"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Deformation",
+    "champions": [
+      "ms_marvel_kamala_khan"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Degeneration",
+    "champions": [
+      "apocalypse",
+      "ebony_maw",
+      "guillotine",
+      "guillotine_deathless",
+      "isophyne",
+      "kindred",
+      "kingpin",
+      "knull",
+      "kushala",
+      "mister_negative",
+      "mojo",
+      "mordo",
+      "omega_red",
+      "purgatory",
+      "sauron",
+      "the_destroyer",
+      "the_leader",
+      "venom_the_duck",
+      "vox"
+    ],
+    "champion_count": 19,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "regen_reliant",
+        "strength": "strong",
+        "notes": "Pure damage; ignores most defensive mitigations."
+      }
+    ]
+  },
+  {
+    "name": "Delirium",
+    "champions": [
+      "jean_grey",
+      "mister_negative"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Demonic Rampage",
+    "champions": [
+      "purgatory"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Destroy",
+    "champions": [
+      "spiral"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Diamond Form",
+    "champions": [
+      "emma_frost"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Digi-Souls",
+    "champions": [
+      "guillotine_2099"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Dimensional Energy Infusion",
+    "champions": [
+      "america_chavez"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Direct Damage",
+    "champions": [
+      "black_bolt",
+      "captain_marvel",
+      "captain_marvel_classic",
+      "ms_marvel",
+      "ronan",
+      "sersi",
+      "thanos",
+      "thor",
+      "void"
+    ],
+    "champion_count": 9,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Disintegrate",
+    "champions": [
+      "ant_man_future"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Disintegration",
+    "champions": [
+      "arnim_zola",
+      "bastion"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Disorient",
+    "champions": [
+      "baron_zemo",
+      "silver_sable"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Disoriented",
+    "champions": [
+      "anti_venom",
+      "hit_monkey",
+      "joe_fixit",
+      "karnak",
+      "kraven",
+      "masacre",
+      "nick_fury",
+      "night_thrasher",
+      "ronin",
+      "the_overseer"
+    ],
+    "champion_count": 10,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Distraction",
+    "champions": [
+      "squirrel_girl"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ego",
+    "champions": [
+      "isophyne"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Element Gun",
+    "champions": [
+      "star_lord"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Embolden",
+    "champions": [
+      "gladiator"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Endurance",
+    "champions": [
+      "lumatrix",
+      "punisher"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energize",
+    "champions": [
+      "beta_ray_bill",
+      "ikaris",
+      "nova",
+      "odin",
+      "red_goblin",
+      "shocker",
+      "thanos_deathless"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Absorption",
+    "champions": [
+      "captain_marvel"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Build Up",
+    "champions": [
+      "count_nefaria"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Burst",
+    "champions": [
+      "doctor_strange"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Damage",
+    "champions": [
+      "diablo",
+      "shathra"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Resist",
+    "champions": [
+      "captain_america_infinity_war",
+      "galan"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Energy Vulnerability",
+    "champions": [
+      "dani_moonstar",
+      "dazzler",
+      "isophyne",
+      "moondragon",
+      "sentry"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Enervate",
+    "champions": [
+      "gwenpool",
+      "hulk_ragnarok",
+      "psylocke",
+      "spider_man_stealth_suit"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ensnare",
+    "champions": [
+      "jabari_panther",
+      "okoye",
+      "spider_man_stark_enhanced"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Evade",
+    "champions": [
+      "black_widow",
+      "black_widow_deadly_origin",
+      "bullseye",
+      "count_nefaria",
+      "enchantress",
+      "kate_bishop",
+      "lumatrix",
+      "mister_fantastic",
+      "nightcrawler",
+      "quicksilver",
+      "scorpion",
+      "silk",
+      "spider_man_classic",
+      "spider_man_stark_enhanced",
+      "spider_man_stealth_suit",
+      "spider_punk",
+      "spider_woman_jessica_drew",
+      "ultron_classic",
+      "valkyrie"
+    ],
+    "champion_count": 19,
+    "archetypes": [
+      "evade_reliant"
+    ],
+    "counters": [
+      {
+        "archetype": "heavy_intercept",
+        "strength": "medium",
+        "notes": "Dodges intercept attempts; risky on Parry stuns though."
+      }
+    ]
+  },
+  {
+    "name": "Evil\u2019s Bane",
+    "champions": [
+      "ghost_rider"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Exhaustion",
+    "champions": [
+      "captain_britain",
+      "luke_cage",
+      "mister_negative",
+      "she_hulk",
+      "spider_man_2099"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Exploit Weakness",
+    "champions": [
+      "taskmaster"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Falter",
+    "champions": [
+      "dani_moonstar",
+      "dazzler",
+      "ebony_maw",
+      "professor_x",
+      "prowler"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Falter Immunity",
+    "champions": [
+      "prowler",
+      "spiral"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fate Seal",
+    "champions": [
+      "longshot",
+      "wong"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fatigue",
+    "champions": [
+      "ant_man",
+      "captain_america",
+      "colossus"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fear",
+    "champions": [
+      "gentle",
+      "she_hulk_deathless",
+      "the_serpent",
+      "white_tiger"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Feedback",
+    "champions": [
+      "havok"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ferocity",
+    "champions": [
+      "lady_deathstrike"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fervor",
+    "champions": [
+      "morbius",
+      "scream",
+      "spiral"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Final Strike",
+    "champions": [
+      "elektra"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fireworks",
+    "champions": [
+      "jubilee"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Flak Jacket",
+    "champions": [
+      "gambit"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Flare State",
+    "champions": [
+      "sunspot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Flux",
+    "champions": [
+      "m_o_d_o_k"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Followers",
+    "champions": [
+      "mojo"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Force Field",
+    "champions": [
+      "guardian",
+      "invisible_woman",
+      "jean_grey"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fragility",
+    "champions": [
+      "hawkeye",
+      "invisible_woman",
+      "red_guardian",
+      "spider_man_stealth_suit"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Freestyle Combat",
+    "champions": [
+      "beast"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Frostbite",
+    "champions": [
+      "iceman"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Fury",
+    "champions": [
+      "abomination",
+      "adam_warlock",
+      "angela",
+      "annihilus",
+      "anti_venom",
+      "bastion",
+      "beta_ray_bill",
+      "bullseye",
+      "captain_america_infinity_war",
+      "captain_marvel_classic",
+      "carnage",
+      "cassie_lang",
+      "civil_warrior",
+      "crossbones",
+      "drax",
+      "galan",
+      "gamora",
+      "ghost",
+      "gorr",
+      "heimdall",
+      "hela",
+      "howard_the_duck",
+      "hulk",
+      "hyperion",
+      "jessica_jones",
+      "juggernaut",
+      "karnak",
+      "king_groot",
+      "king_groot_deathless",
+      "lumatrix",
+      "maestro_cosmic",
+      "medusa",
+      "moon_knight",
+      "mordo",
+      "ms_marvel",
+      "ms_marvel_kamala_khan",
+      "namor",
+      "nova",
+      "odin",
+      "phoenix",
+      "red_goblin",
+      "rhino",
+      "ronan",
+      "sabretooth",
+      "sauron",
+      "sentry",
+      "sersi",
+      "she_hulk",
+      "silk",
+      "silver_surfer",
+      "spider_woman_jessica_drew",
+      "star_lord",
+      "super_skrull",
+      "symbiote_supreme",
+      "thanos",
+      "the_destroyer",
+      "the_leader",
+      "thing",
+      "thor",
+      "titania",
+      "ultron_classic",
+      "unstoppable_colossus",
+      "venom",
+      "venompool",
+      "vision_aarkus",
+      "vox",
+      "winter_soldier",
+      "gon"
+    ],
+    "champion_count": 68,
+    "archetypes": [
+      "buff_stacker"
+    ],
+    "counters": [
+      {
+        "archetype": "sub_damage",
+        "strength": "medium",
+        "notes": "Stacking attack boost; useful for shorter fights."
+      }
+    ]
+  },
+  {
+    "name": "Fury's Fury",
+    "champions": [
+      "nick_fury"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "GAMMA RAGE",
+    "champions": [
+      "hulk"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Galive's Immunity",
+    "champions": [
+      "corvus_glaive"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Gamma Power",
+    "champions": [
+      "the_overseer"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Gamma Radiation",
+    "champions": [
+      "hulk_immortal"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Glancing",
+    "champions": [
+      "ant_man_future",
+      "maestro_cosmic",
+      "sersi"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Grit",
+    "champions": [
+      "beta_ray_bill",
+      "dust",
+      "punisher"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Heal Block",
+    "champions": [
+      "civil_warrior",
+      "doctor_octopus",
+      "howard_the_duck",
+      "hulk_ragnarok",
+      "kang_the_conqueror",
+      "lady_deathstrike",
+      "mysterio",
+      "omega_sentinel",
+      "proxima_midnight",
+      "psycho_man",
+      "punisher_2099",
+      "red_skull",
+      "sentinel",
+      "silver_centurion",
+      "thanos",
+      "ultron_classic",
+      "vision",
+      "vision_age_of_ultron",
+      "viv_vision",
+      "yondu"
+    ],
+    "champion_count": 20,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "regen_reliant",
+        "strength": "strong",
+        "notes": "Stops the heal entirely. Hard counter to all regen champs."
+      }
+    ]
+  },
+  {
+    "name": "Hellfire Rounds",
+    "champions": [
+      "elsa_bloodstone"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Hunter Spider",
+    "champions": [
+      "spider_gwen"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Huntress Sense",
+    "champions": [
+      "tigra"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Hybrid Buffs",
+    "champions": [
+      "scream"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "IMPERIUS REX",
+    "champions": [
+      "namor"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ice Tempest",
+    "champions": [
+      "storm_pyramid_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ignition",
+    "champions": [
+      "king_groot_deathless",
+      "kushala"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Immortality",
+    "champions": [
+      "hulk_immortal"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Impact",
+    "champions": [
+      "bullseye",
+      "punisher"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Incinerate",
+    "champions": [
+      "agent_venom",
+      "arcade",
+      "bishop",
+      "cable",
+      "cosmic_ghost_rider",
+      "count_nefaria",
+      "crossbones",
+      "falcon",
+      "galan",
+      "green_goblin",
+      "gwenpool",
+      "human_torch",
+      "hyperion",
+      "ikaris",
+      "iron_man_infinity_war",
+      "ironheart",
+      "jack_o_lantern",
+      "jubilee",
+      "king_groot_deathless",
+      "kitty_pryde",
+      "kushala",
+      "longshot",
+      "m_o_d_o_k",
+      "masacre",
+      "mephisto",
+      "negasonic_teenage_warhead",
+      "night_thrasher",
+      "omega_sentinel",
+      "peni_parker",
+      "phoenix",
+      "purgatory",
+      "red_hulk",
+      "sentinel",
+      "sersi",
+      "sunspot",
+      "super_skrull",
+      "viv_vision",
+      "vulture",
+      "wiccan"
+    ],
+    "champion_count": 39,
+    "archetypes": [
+      "incinerate_applier"
+    ],
+    "counters": [
+      {
+        "archetype": "armored",
+        "strength": "strong",
+        "notes": "Burns through armor stacks via Armor Break Charges."
+      },
+      {
+        "archetype": "regen_reliant",
+        "strength": "medium",
+        "notes": "Damage-over-time often outpaces incoming heal."
+      }
+    ]
+  },
+  {
+    "name": "Incinerate Immunity",
+    "champions": [
+      "cosmic_ghost_rider",
+      "ghost_rider",
+      "iron_man_infamous",
+      "ironheart",
+      "jack_o_lantern",
+      "prowler",
+      "void"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "incinerate_applier",
+        "strength": "strong",
+        "notes": "Hard counter to fire-themed attackers."
+      }
+    ]
+  },
+  {
+    "name": "Incinerate Vulnerability",
+    "champions": [
+      "negasonic_teenage_warhead"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Indestructible",
+    "champions": [
+      "killmonger",
+      "punisher"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Indestructible Charge",
+    "champions": [
+      "terrax"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ineptitude",
+    "champions": [
+      "dragon_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Inexorable",
+    "champions": [
+      "the_serpent"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Inflamed",
+    "champions": [
+      "jack_o_lantern"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Infuriate",
+    "champions": [
+      "black_cat",
+      "hercules",
+      "mantis",
+      "spot"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Injure",
+    "champions": [
+      "squirrel_girl"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Injury",
+    "champions": [
+      "punisher"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Intensify",
+    "champions": [
+      "beta_ray_bill",
+      "galan"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Internal Bleed",
+    "champions": [
+      "nick_fury"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Intimidate",
+    "champions": [
+      "gladiator",
+      "mantis",
+      "valkyrie"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Intimidating Presence",
+    "champions": [
+      "void"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Investigation",
+    "champions": [
+      "jessica_jones"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Invisibility",
+    "champions": [
+      "invisible_woman",
+      "lumatrix",
+      "stryfe",
+      "the_hood"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ionic Overcharge",
+    "champions": [
+      "count_nefaria"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Judgment",
+    "champions": [
+      "ghost_rider"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Karma",
+    "champions": [
+      "longshot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Kinetic Potential",
+    "champions": [
+      "captain_america_infinity_war"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Klyntar Mutation",
+    "champions": [
+      "venom"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Kree Physiology",
+    "champions": [
+      "rogue"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Life Steal",
+    "champions": [
+      "kindred",
+      "omega_red"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Lightning Arc",
+    "champions": [
+      "night_thrasher",
+      "spider_man_stark_enhanced"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Lightning Tempest",
+    "champions": [
+      "storm_pyramid_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Luck",
+    "champions": [
+      "domino"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Madness Passives",
+    "champions": [
+      "scream"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Magma Form",
+    "champions": [
+      "absorbing_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Midnight Angel",
+    "champions": [
+      "okoye"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Mind Blasts",
+    "champions": [
+      "moondragon"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Mind Control",
+    "champions": [
+      "professor_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Miss",
+    "champions": [
+      "cassie_lang",
+      "moondragon",
+      "spider_man_supreme"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Molecular Armor",
+    "champions": [
+      "iron_man_infinity_war"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Molecular Regeneration",
+    "champions": [
+      "mister_sinister"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Momentum",
+    "champions": [
+      "northstar"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Monster Mass",
+    "champions": [
+      "mole_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Nano-Tech",
+    "champions": [
+      "punisher_2099"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Negative Zone",
+    "champions": [
+      "america_chavez"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Neuroshock",
+    "champions": [
+      "captain_britain",
+      "dani_moonstar",
+      "jean_grey",
+      "onslaught"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Neurotoxin",
+    "champions": [
+      "archangel"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Neutralize",
+    "champions": [
+      "enchantress",
+      "rintrah",
+      "tigra",
+      "wiccan"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Neutronium",
+    "champions": [
+      "maestro_cosmic"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Nova Flame",
+    "champions": [
+      "human_torch"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Nova Force",
+    "champions": [
+      "nova"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Nullify",
+    "champions": [
+      "black_widow_claire_voyant",
+      "doctor_doom",
+      "doctor_strange",
+      "dormammu",
+      "ebony_maw",
+      "enchantress",
+      "magik",
+      "man_thing",
+      "mojo",
+      "morningstar",
+      "scarlet_witch",
+      "scarlet_witch_classic",
+      "shathra",
+      "sorcerer_supreme"
+    ],
+    "champion_count": 14,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "buff_stacker",
+        "strength": "strong",
+        "notes": "Removes a buff outright. Hard counter to buff-up archetypes."
+      }
+    ]
+  },
+  {
+    "name": "Nullify Immunity",
+    "champions": [
+      "dazzler",
+      "white_tiger"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Odinforce",
+    "champions": [
+      "odin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Organic Ice",
+    "champions": [
+      "iceman"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Organic Magnetism",
+    "champions": [
+      "onslaught"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Outrage",
+    "champions": [
+      "namor"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Overload",
+    "champions": [
+      "dani_moonstar",
+      "photon"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Overpower",
+    "champions": [
+      "kingpin",
+      "loki"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Overrun",
+    "champions": [
+      "crossbones"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pacifism",
+    "champions": [
+      "groot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Panther's Might",
+    "champions": [
+      "black_panther"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Paralytic Poison",
+    "champions": [
+      "toad"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Perfect Block",
+    "champions": [
+      "captain_america",
+      "captain_america_wwii",
+      "daredevil_classic",
+      "guardian",
+      "sunspot"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Persistent Charge",
+    "champions": [
+      "cull_obsidian",
+      "mephisto",
+      "morningstar",
+      "sabretooth",
+      "the_champion"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Persistent Cruelty",
+    "champions": [
+      "corvus_glaive"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Petrify",
+    "champions": [
+      "abomination_immortal",
+      "ant_man",
+      "joe_fixit",
+      "mister_negative",
+      "morbius",
+      "sandman",
+      "scorpion",
+      "she_hulk",
+      "yellowjacket"
+    ],
+    "champion_count": 9,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "buff_stacker",
+        "strength": "strong",
+        "notes": "Reduces buff potency by 100%; works through Stagger immunity."
+      },
+      {
+        "archetype": "ability_accuracy_reliant",
+        "strength": "strong",
+        "notes": "Also reduces Ability Accuracy from buffs by 100%."
+      }
+    ]
+  },
+  {
+    "name": "Phase",
+    "champions": [
+      "silver_surfer"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Phasing",
+    "champions": [
+      "ghost",
+      "kitty_pryde",
+      "viv_vision"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Physical Resistance",
+    "champions": [
+      "captain_america_infinity_war",
+      "punisher"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Physical Vulnerability",
+    "champions": [
+      "falcon_joaqu_n_torres",
+      "hulk",
+      "sandman",
+      "silk",
+      "spider_punk"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pierce",
+    "champions": [
+      "hulkling",
+      "maestro_cosmic",
+      "the_serpent",
+      "valkyrie"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Placebo Buff",
+    "champions": [
+      "doctor_strange"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Plasma",
+    "champions": [
+      "jack_o_lantern",
+      "omega_sentinel",
+      "silver_centurion"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Plasma Build Up",
+    "champions": [
+      "havok"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Plasma Charge",
+    "champions": [
+      "havok"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Platinumpool\u2019s Guide to the Battlerealm Cards",
+    "champions": [
+      "platinumpool"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Poise",
+    "champions": [
+      "spider_man_stark_enhanced"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Poison",
+    "champions": [
+      "abomination",
+      "abomination_immortal",
+      "ant_man",
+      "apocalypse",
+      "archangel",
+      "cassie_lang",
+      "diablo",
+      "green_goblin",
+      "jack_o_lantern",
+      "king_groot",
+      "man_thing",
+      "mysterio",
+      "ultron_classic"
+    ],
+    "champion_count": 13,
+    "archetypes": [
+      "poison_applier"
+    ],
+    "counters": [
+      {
+        "archetype": "poison_vulnerable",
+        "strength": "strong",
+        "notes": "Poison DOT; reduces healing also."
+      }
+    ]
+  },
+  {
+    "name": "Poison Immunity",
+    "champions": [
+      "abomination",
+      "arnim_zola",
+      "black_bolt",
+      "captain_marvel",
+      "captain_marvel_classic",
+      "hulk",
+      "hulk_ragnarok",
+      "medusa",
+      "mephisto",
+      "ms_marvel",
+      "ms_marvel_kamala_khan",
+      "ronan",
+      "she_hulk",
+      "she_hulk_deathless",
+      "the_leader",
+      "toad",
+      "vox"
+    ],
+    "champion_count": 17,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "poison_applier",
+        "strength": "strong",
+        "notes": "Hard counter to poison-applying attackers (Abomination Joe Fixit)."
+      }
+    ]
+  },
+  {
+    "name": "Poison Resistance",
+    "champions": [
+      "diablo"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Poisonous Cloud",
+    "champions": [
+      "arcade"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Porker Poppers",
+    "champions": [
+      "spider_ham"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Portal Block",
+    "champions": [
+      "spot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Burn",
+    "champions": [
+      "doctor_voodoo",
+      "dormammu",
+      "hulkbuster",
+      "iron_man_infamous",
+      "peni_parker",
+      "psylocke",
+      "vision",
+      "vision_age_of_ultron",
+      "warlock"
+    ],
+    "champion_count": 9,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "power_gain_reliant",
+        "strength": "strong",
+        "notes": "Burns power into damage; especially brutal vs unstoppable-on-special champs."
+      }
+    ]
+  },
+  {
+    "name": "Power Charge",
+    "champions": [
+      "dragon_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Cosmic",
+    "champions": [
+      "air_walker",
+      "silver_surfer",
+      "terrax"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Detonation",
+    "champions": [
+      "ant_man_future",
+      "ikaris"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Dissolve",
+    "champions": [
+      "the_leader"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Drain",
+    "champions": [
+      "dormammu",
+      "green_goblin",
+      "kang_the_conqueror",
+      "mysterio",
+      "nimrod",
+      "prowler",
+      "psycho_man",
+      "psylocke",
+      "red_skull",
+      "symbiote_supreme",
+      "viv_vision",
+      "warlock"
+    ],
+    "champion_count": 12,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "power_gain_reliant",
+        "strength": "medium",
+        "notes": "Reduces accumulated power; weaker than Power Lock against persistent generators."
+      }
+    ]
+  },
+  {
+    "name": "Power Efficiency",
+    "champions": [
+      "captain_britain",
+      "cyclops_blue_team",
+      "wiccan"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Gain",
+    "champions": [
+      "blade",
+      "count_nefaria",
+      "gladiator",
+      "heimdall",
+      "isophyne",
+      "morningstar",
+      "peni_parker",
+      "phoenix",
+      "scarlet_witch",
+      "spider_man_supreme",
+      "superior_iron_man",
+      "the_destroyer",
+      "the_serpent",
+      "vision_aarkus",
+      "werewolf_by_night",
+      "wong"
+    ],
+    "champion_count": 16,
+    "archetypes": [
+      "power_gain_reliant"
+    ],
+    "counters": []
+  },
+  {
+    "name": "Power Lock",
+    "champions": [
+      "doctor_octopus",
+      "dormammu",
+      "hulkbuster",
+      "magik",
+      "nebula",
+      "peni_parker",
+      "psylocke"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "power_gain_reliant",
+        "strength": "strong",
+        "notes": "Locks power gain on defenders that snowball through Special Attacks."
+      }
+    ]
+  },
+  {
+    "name": "Power Reroute",
+    "champions": [
+      "bastion"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Power Steal",
+    "champions": [
+      "black_widow_claire_voyant",
+      "doctor_voodoo",
+      "ebony_maw",
+      "enchantress",
+      "kindred",
+      "magik",
+      "mister_sinister",
+      "rogue",
+      "shathra",
+      "spiral",
+      "white_tiger"
+    ],
+    "champion_count": 11,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "power_gain_reliant",
+        "strength": "medium",
+        "notes": "Transfers power; good vs defenders that bait specials."
+      }
+    ]
+  },
+  {
+    "name": "Power Sting",
+    "champions": [
+      "ant_man",
+      "cassie_lang",
+      "emma_frost",
+      "spider_man_miles_morales",
+      "spider_woman_jessica_drew",
+      "wasp",
+      "yellowjacket"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pre-Fight Ability",
+    "champions": [
+      "guillotine_2099",
+      "human_torch",
+      "invisible_woman",
+      "mister_fantastic",
+      "moondragon",
+      "omega_sentinel",
+      "spider_man_stealth_suit",
+      "spot"
+    ],
+    "champion_count": 8,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Precision",
+    "champions": [
+      "adam_warlock",
+      "angela",
+      "black_panther",
+      "black_widow",
+      "black_widow_deadly_origin",
+      "carnage",
+      "crossbones",
+      "cyclops_blue_team",
+      "cyclops_new_xavier_school",
+      "daredevil_classic",
+      "daredevil_hell_s_kitchen",
+      "elektra",
+      "elsa_bloodstone",
+      "ghost",
+      "heimdall",
+      "hercules",
+      "iron_fist",
+      "iron_fist_immortal",
+      "misty_knight",
+      "moon_knight",
+      "nightcrawler",
+      "rocket_raccoon",
+      "ronin",
+      "scarlet_witch_classic",
+      "shang_chi",
+      "shuri",
+      "spider_man_classic",
+      "spider_man_stealth_suit",
+      "spider_man_symbiote",
+      "yondu"
+    ],
+    "champion_count": 30,
+    "archetypes": [
+      "buff_stacker"
+    ],
+    "counters": [
+      {
+        "archetype": "sub_damage",
+        "strength": "medium",
+        "notes": "Boosts critical rating; combos with Cruelty."
+      }
+    ]
+  },
+  {
+    "name": "Precognition",
+    "champions": [
+      "negasonic_teenage_warhead"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Primal Rage",
+    "champions": [
+      "hit_monkey"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Primal Sense",
+    "champions": [
+      "tigra"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Protection",
+    "champions": [
+      "thanos_deathless",
+      "the_destroyer"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Prowess",
+    "champions": [
+      "bishop",
+      "captain_britain",
+      "cyclops_blue_team",
+      "dani_moonstar",
+      "dust",
+      "emma_frost",
+      "gambit",
+      "goldpool",
+      "havok",
+      "kitty_pryde",
+      "magneto",
+      "magneto_house_of_x",
+      "nightcrawler",
+      "northstar",
+      "platinumpool",
+      "professor_x",
+      "proxima_midnight",
+      "sauron",
+      "storm",
+      "storm_pyramid_x",
+      "toad"
+    ],
+    "champion_count": 21,
+    "archetypes": [
+      "buff_stacker"
+    ],
+    "counters": [
+      {
+        "archetype": "special_burst",
+        "strength": "strong",
+        "notes": "Boosts next Special Attack damage; burst windows."
+      }
+    ]
+  },
+  {
+    "name": "Psionic Transcendence",
+    "champions": [
+      "moondragon"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pure Light Form",
+    "champions": [
+      "photon"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pure of Heart",
+    "champions": [
+      "longshot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Purify",
+    "champions": [
+      "attuma",
+      "moondragon",
+      "silver_sable"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Purify Punish",
+    "champions": [
+      "dust"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Pursuit",
+    "champions": [
+      "bastion",
+      "prowler",
+      "wolverine_x_23"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "REVERSAL",
+    "champions": [
+      "patriot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rage",
+    "champions": [
+      "kingpin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Recon",
+    "champions": [
+      "falcon"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Reflect Stun",
+    "champions": [
+      "black_panther_civil_war"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Regeneration",
+    "champions": [
+      "adam_warlock",
+      "bastion",
+      "bishop",
+      "black_widow_claire_voyant",
+      "cable",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "gorr",
+      "groot",
+      "hulkling",
+      "king_groot",
+      "king_groot_deathless",
+      "morbius",
+      "namor",
+      "old_man_logan",
+      "phoenix",
+      "platinumpool",
+      "punisher_2099",
+      "red_hulk",
+      "rintrah",
+      "sabretooth",
+      "sasquatch",
+      "sauron",
+      "shathra",
+      "superior_iron_man",
+      "toad",
+      "venompool",
+      "werewolf_by_night",
+      "wolverine",
+      "wolverine_weapon_x",
+      "wolverine_x_23",
+      "wong"
+    ],
+    "champion_count": 35,
+    "archetypes": [
+      "regen_reliant"
+    ],
+    "counters": [
+      {
+        "archetype": "sustain",
+        "strength": "medium",
+        "notes": "Self-heal; matters in long fights and over-time chip."
+      }
+    ]
+  },
+  {
+    "name": "Replicate",
+    "champions": [
+      "rogue"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Resist Physical",
+    "champions": [
+      "carnage",
+      "emma_frost",
+      "galan",
+      "hela",
+      "rhino"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Resistance Up",
+    "champions": [
+      "jessica_jones",
+      "sandman",
+      "spider_man_2099",
+      "wiccan"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Resolve",
+    "champions": [
+      "patriot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Resonance",
+    "champions": [
+      "dazzler",
+      "heimdall"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Reverb",
+    "champions": [
+      "gentle",
+      "northstar"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Reversed Controls Immunity",
+    "champions": [
+      "ironheart",
+      "jack_o_lantern",
+      "moondragon"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Robotics",
+    "champions": [
+      "darkhawk",
+      "guillotine_2099",
+      "nimrod",
+      "sentinel",
+      "ultron",
+      "ultron_classic",
+      "vision",
+      "vision_age_of_ultron"
+    ],
+    "champion_count": 8,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rock Anatomy",
+    "champions": [
+      "korg"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rock Field",
+    "champions": [
+      "terrax"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rock Shield",
+    "champions": [
+      "korg"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rock Stacks",
+    "champions": [
+      "thing"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Root",
+    "champions": [
+      "baron_zemo",
+      "kraven",
+      "rintrah",
+      "sandman"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rout",
+    "champions": [
+      "cull_obsidian"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Runic Spells",
+    "champions": [
+      "sorcerer_supreme"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Rupture",
+    "champions": [
+      "ironheart",
+      "lady_deathstrike",
+      "patriot",
+      "prowler",
+      "rintrah",
+      "rocket_raccoon",
+      "sasquatch",
+      "spider_man_miles_morales",
+      "spider_man_2099",
+      "spider_punk",
+      "spiral",
+      "spot",
+      "tigra",
+      "werewolf_by_night",
+      "wolverine_x_23"
+    ],
+    "champion_count": 15,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "SHBLEED DOOBOOF",
+    "champions": [
+      "deadpool_x_force"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sabotage",
+    "champions": [
+      "black_widow_deadly_origin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Safeguard",
+    "champions": [
+      "captain_britain",
+      "proxima_midnight"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sand",
+    "champions": [
+      "dust"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Scorch",
+    "champions": [
+      "red_hulk"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Self Repair",
+    "champions": [
+      "guillotine_2099",
+      "nebula",
+      "omega_sentinel",
+      "ultron"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Shapeshift Charge",
+    "champions": [
+      "hulkling"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Shock",
+    "champions": [
+      "arcade",
+      "beta_ray_bill",
+      "black_widow_deadly_origin",
+      "darkhawk",
+      "doctor_doom",
+      "iron_man_infamous",
+      "iron_man_infinity_war",
+      "jubilee",
+      "nebula",
+      "okoye",
+      "psycho_man",
+      "red_skull",
+      "shuri",
+      "silver_sable",
+      "spider_man_miles_morales",
+      "spider_woman_jessica_drew",
+      "storm",
+      "stryfe",
+      "the_hood",
+      "thor_jane_foster",
+      "thor_ragnarok"
+    ],
+    "champion_count": 21,
+    "archetypes": [
+      "shock_applier"
+    ],
+    "counters": [
+      {
+        "archetype": "energy_vulnerable",
+        "strength": "medium",
+        "notes": "Energy DOT; bypasses some armor."
+      }
+    ]
+  },
+  {
+    "name": "Shock Immunity",
+    "champions": [
+      "iron_man_infamous",
+      "mole_man",
+      "shocker",
+      "shuri",
+      "terrax"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "shock_applier",
+        "strength": "strong",
+        "notes": "Hard counter to shock-themed attackers."
+      }
+    ]
+  },
+  {
+    "name": "Siphon Burn",
+    "champions": [
+      "vulture"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Siphon Charge",
+    "champions": [
+      "vulture"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sleep",
+    "champions": [
+      "arnim_zola",
+      "mantis"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Slow",
+    "champions": [
+      "dani_moonstar",
+      "falcon_joaqu_n_torres",
+      "hawkeye",
+      "jubilee",
+      "red_guardian",
+      "shang_chi",
+      "she_hulk",
+      "silver_centurion",
+      "sorcerer_supreme",
+      "spider_gwen",
+      "spider_man_stealth_suit",
+      "toad"
+    ],
+    "champion_count": 12,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Solar Charges",
+    "champions": [
+      "sunspot"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Soul Barb",
+    "champions": [
+      "kushala",
+      "mordo"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Soul Imprisonment",
+    "champions": [
+      "mephisto"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sovereignty",
+    "champions": [
+      "adam_warlock"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Special Echo",
+    "champions": [
+      "phoenix"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Special Lock",
+    "champions": [
+      "arnim_zola",
+      "iron_man_infamous"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spectre",
+    "champions": [
+      "anti_venom",
+      "guillotine",
+      "guillotine_deathless",
+      "she_hulk_deathless",
+      "the_leader"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Speed Burst",
+    "champions": [
+      "northstar"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spider Blessings",
+    "champions": [
+      "spider_man_supreme"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spider-Nonsense",
+    "champions": [
+      "spider_ham"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spider-Seal",
+    "champions": [
+      "spider_man_supreme"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spider-Sense",
+    "champions": [
+      "spider_gwen",
+      "spider_ham"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Spirit Venom",
+    "champions": [
+      "doctor_voodoo"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Stagger",
+    "champions": [
+      "doctor_doom",
+      "mangog",
+      "mister_fantastic",
+      "sasquatch",
+      "the_hood",
+      "thor_jane_foster",
+      "titania"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "buff_stacker",
+        "strength": "strong",
+        "notes": "Prevents the next buff. Pre-empts the stack."
+      }
+    ]
+  },
+  {
+    "name": "Static Shock",
+    "champions": [
+      "electro"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Steadfast",
+    "champions": [
+      "m_o_d_o_k",
+      "patriot"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Stifle",
+    "champions": [
+      "annihilus"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sting Debuffs",
+    "champions": [
+      "scorpion"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Stun",
+    "champions": [
+      "adam_warlock",
+      "ant_man_future",
+      "archangel",
+      "beast",
+      "black_bolt",
+      "black_widow",
+      "captain_america",
+      "captain_america_infinity_war",
+      "captain_america_wwii",
+      "colossus",
+      "cull_obsidian",
+      "daredevil_classic",
+      "electro",
+      "gambit",
+      "goldpool",
+      "howard_the_duck",
+      "hulk_immortal",
+      "hulk_ragnarok",
+      "hulkbuster",
+      "hyperion",
+      "kang_the_conqueror",
+      "loki",
+      "luke_cage",
+      "mangog",
+      "mister_sinister",
+      "mordo",
+      "namor",
+      "negasonic_teenage_warhead",
+      "nick_fury",
+      "platinumpool",
+      "psylocke",
+      "punisher_2099",
+      "quake",
+      "red_guardian",
+      "ronan",
+      "sasquatch",
+      "shang_chi",
+      "she_hulk",
+      "shocker",
+      "spider_man_classic",
+      "spider_man_stark_enhanced",
+      "spider_punk",
+      "storm",
+      "super_skrull",
+      "thing",
+      "thor",
+      "thor_ragnarok",
+      "toad",
+      "ultron_classic",
+      "wasp",
+      "gon"
+    ],
+    "champion_count": 51,
+    "archetypes": [
+      "parry_reliant"
+    ],
+    "counters": []
+  },
+  {
+    "name": "Stun Immune",
+    "champions": [
+      "heimdall",
+      "kindred"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Sunder",
+    "champions": [
+      "baron_zemo",
+      "luke_cage",
+      "photon",
+      "silk"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Suppression",
+    "champions": [
+      "hawkeye",
+      "howard_the_duck",
+      "hulk_immortal",
+      "jubilee",
+      "kraven",
+      "spider_man_classic",
+      "titania",
+      "viv_vision",
+      "war_machine"
+    ],
+    "champion_count": 9,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Symbiote Stealth",
+    "champions": [
+      "agent_venom"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Taunt",
+    "champions": [
+      "cassie_lang",
+      "deadpool_x_force",
+      "emma_frost",
+      "goldpool",
+      "guardian",
+      "jubilee",
+      "mister_fantastic",
+      "rhino",
+      "scorpion",
+      "spider_man_classic",
+      "spider_man_miles_morales",
+      "the_overseer"
+    ],
+    "champion_count": 12,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Temperature",
+    "champions": [
+      "human_torch"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Tenacity",
+    "champions": [
+      "agent_venom",
+      "gon"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Terminal Velocity",
+    "champions": [
+      "quicksilver"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Thanos' Favor",
+    "champions": [
+      "cull_obsidian"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "The Dark Tide",
+    "champions": [
+      "air_walker"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "The Hunt",
+    "champions": [
+      "jabari_panther"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "The Power of Galactus",
+    "champions": [
+      "air_walker"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Thorns",
+    "champions": [
+      "attuma"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Tippy-Toe",
+    "champions": [
+      "squirrel_girl"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Toxic Armor",
+    "champions": [
+      "venom_the_duck"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Tracking",
+    "champions": [
+      "ironheart",
+      "kate_bishop",
+      "lumatrix",
+      "omega_sentinel"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Tranquilize",
+    "champions": [
+      "chee_ilth",
+      "kate_bishop",
+      "mantis"
+    ],
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Transmutation",
+    "champions": [
+      "sersi"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Trap Spider",
+    "champions": [
+      "spider_gwen"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Trauma",
+    "champions": [
+      "falcon_joaqu_n_torres",
+      "hulk",
+      "red_guardian",
+      "rhino",
+      "she_hulk_deathless"
+    ],
+    "champion_count": 5,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "True Accuracy",
+    "champions": [
+      "attuma",
+      "bullseye",
+      "kate_bishop",
+      "knull",
+      "mole_man",
+      "proxima_midnight",
+      "the_champion"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "evade_reliant",
+        "strength": "strong",
+        "notes": "Ignores all enemy ability triggers \u2014 supercounter to ability-accuracy defenders."
+      }
+    ]
+  },
+  {
+    "name": "True Damage",
+    "champions": [
+      "adam_warlock"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "armor_up_reliant",
+        "strength": "strong",
+        "notes": "Bypasses Armor Up Resistance and damage mitigations."
+      },
+      {
+        "archetype": "resist_physical_reliant",
+        "strength": "strong",
+        "notes": "Hard counter to physical-resistance defenders."
+      }
+    ]
+  },
+  {
+    "name": "True Focus",
+    "champions": [
+      "cyclops_blue_team",
+      "the_serpent"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "True Sense",
+    "champions": [
+      "hercules",
+      "red_goblin"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "True Strike",
+    "champions": [
+      "cable",
+      "gamora",
+      "heimdall",
+      "karnak",
+      "killmonger",
+      "odin",
+      "venom"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "evade_reliant",
+        "strength": "strong",
+        "notes": "Ignores Evade Auto-Block Armor Up."
+      }
+    ]
+  },
+  {
+    "name": "Unblockable",
+    "champions": [
+      "adam_warlock",
+      "bishop",
+      "cosmic_ghost_rider",
+      "cyclops_blue_team",
+      "dani_moonstar",
+      "dazzler",
+      "doctor_doom",
+      "dragon_man",
+      "gladiator",
+      "heimdall",
+      "ikaris",
+      "juggernaut",
+      "lumatrix",
+      "mangog",
+      "misty_knight",
+      "nick_fury",
+      "nova",
+      "sauron",
+      "sersi",
+      "shang_chi",
+      "shathra",
+      "shocker",
+      "super_skrull",
+      "the_serpent",
+      "werewolf_by_night"
+    ],
+    "champion_count": 25,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "parry_reliant",
+        "strength": "strong",
+        "notes": "Bypasses block; counters Parry-based defenders."
+      },
+      {
+        "archetype": "passive_attack",
+        "strength": "medium",
+        "notes": "Forces hit through guard; useful vs defensive walls."
+      }
+    ]
+  },
+  {
+    "name": "Uncanny",
+    "champions": [
+      "jean_grey"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Undermine",
+    "champions": [
+      "scream",
+      "vox"
+    ],
+    "champion_count": 2,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Unstable",
+    "champions": [
+      "sandman"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Unstoppable",
+    "champions": [
+      "annihilus",
+      "enchantress",
+      "gentle",
+      "gladiator",
+      "heimdall",
+      "jessica_jones",
+      "juggernaut",
+      "killmonger",
+      "kingpin",
+      "korg",
+      "mangog",
+      "mole_man",
+      "northstar",
+      "rhino",
+      "rintrah",
+      "titania",
+      "werewolf_by_night",
+      "wolverine_weapon_x",
+      "wong"
+    ],
+    "champion_count": 19,
+    "archetypes": [],
+    "counters": [
+      {
+        "archetype": "passive_attack",
+        "strength": "strong",
+        "notes": "Cannot be interrupted; punishes counter-attack archetypes."
+      }
+    ]
+  },
+  {
+    "name": "Untouchable",
+    "champions": [
+      "enchantress",
+      "photon",
+      "shuri",
+      "spot"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Utopian Parallel",
+    "champions": [
+      "america_chavez"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Venom Magic",
+    "champions": [
+      "gorr"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Vicious",
+    "champions": [
+      "deadpool_x_force"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Vigilance",
+    "champions": [
+      "gladiator",
+      "patriot",
+      "professor_x",
+      "vox"
+    ],
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Virus Infection",
+    "champions": [
+      "warlock"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Viscera Magic",
+    "champions": [
+      "gorr"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Vitality",
+    "champions": [
+      "the_leader"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Volt Magic",
+    "champions": [
+      "gorr"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Vulnerability",
+    "champions": [
+      "absorbing_man"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Weakness",
+    "champions": [
+      "abomination_immortal",
+      "apocalypse",
+      "green_goblin",
+      "joe_fixit",
+      "ronan",
+      "she_hulk",
+      "spider_man_classic",
+      "spider_man_miles_morales",
+      "spider_man_symbiote",
+      "thing",
+      "titania",
+      "wasp"
+    ],
+    "champion_count": 12,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Whiplash",
+    "champions": [
+      "quicksilver"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Widow's Insight",
+    "champions": [
+      "black_widow_deadly_origin"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Wither",
+    "champions": [
+      "doctor_strange",
+      "isophyne",
+      "quicksilver",
+      "sentry",
+      "she_hulk_deathless",
+      "spider_man_2099",
+      "the_leader"
+    ],
+    "champion_count": 7,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Wither Immunity",
+    "champions": [
+      "punisher"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "rupture",
+    "champions": [
+      "war_machine"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  }
+]

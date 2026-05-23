@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+data/raw/wikitext/
+data/raw/scrape*.log
+.env*
+!.env.example

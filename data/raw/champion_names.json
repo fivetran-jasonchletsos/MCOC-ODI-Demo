@@ -1,0 +1,1186 @@
+[
+  {
+    "name": "Abomination",
+    "class": "Science"
+  },
+  {
+    "name": "Abomination (Immortal)",
+    "class": "Science"
+  },
+  {
+    "name": "Absorbing Man",
+    "class": "Mystic"
+  },
+  {
+    "name": "Adam Warlock",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Agent Venom",
+    "class": "Skill"
+  },
+  {
+    "name": "Air-Walker",
+    "class": "Cosmic"
+  },
+  {
+    "name": "America Chavez",
+    "class": "Mystic"
+  },
+  {
+    "name": "Angela",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Annihilus",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Ant-Man",
+    "class": "Science"
+  },
+  {
+    "name": "Ant-Man (Future)",
+    "class": "Tech"
+  },
+  {
+    "name": "Anti-Venom",
+    "class": "Science"
+  },
+  {
+    "name": "Apocalypse",
+    "class": "Mutant"
+  },
+  {
+    "name": "Arcade",
+    "class": "Tech"
+  },
+  {
+    "name": "Archangel",
+    "class": "Mutant"
+  },
+  {
+    "name": "Arnim Zola",
+    "class": "Tech"
+  },
+  {
+    "name": "Attuma",
+    "class": "Skill"
+  },
+  {
+    "name": "Baron Zemo",
+    "class": "Skill"
+  },
+  {
+    "name": "Bastion",
+    "class": "Tech"
+  },
+  {
+    "name": "Beast",
+    "class": "Mutant"
+  },
+  {
+    "name": "Beta Ray Bill",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Bishop",
+    "class": "Mutant"
+  },
+  {
+    "name": "Black Bolt",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Black Cat",
+    "class": "Skill"
+  },
+  {
+    "name": "Black Panther",
+    "class": "Skill"
+  },
+  {
+    "name": "Black Panther (Civil War)",
+    "class": "Skill"
+  },
+  {
+    "name": "Black Widow",
+    "class": "Skill"
+  },
+  {
+    "name": "Black Widow (Claire Voyant)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Black Widow (Deadly Origin)",
+    "class": "Skill"
+  },
+  {
+    "name": "Blade",
+    "class": "Skill"
+  },
+  {
+    "name": "Bullseye",
+    "class": "Skill"
+  },
+  {
+    "name": "Cable",
+    "class": "Mutant"
+  },
+  {
+    "name": "Captain America",
+    "class": "Science"
+  },
+  {
+    "name": "Captain America (Infinity War)",
+    "class": "Science"
+  },
+  {
+    "name": "Captain America (WWII)",
+    "class": "Science"
+  },
+  {
+    "name": "Captain Britain",
+    "class": "Mutant"
+  },
+  {
+    "name": "Captain Marvel",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Captain Marvel (Classic)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Carnage",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Cassie Lang",
+    "class": "Science"
+  },
+  {
+    "name": "Chee'ilth",
+    "class": "Skill"
+  },
+  {
+    "name": "Civil Warrior",
+    "class": "Tech"
+  },
+  {
+    "name": "Colossus",
+    "class": "Mutant"
+  },
+  {
+    "name": "Corvus Glaive",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Cosmic Ghost Rider",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Count Nefaria",
+    "class": "Science"
+  },
+  {
+    "name": "Crossbones",
+    "class": "Skill"
+  },
+  {
+    "name": "Cull Obsidian",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Cyclops (Blue Team)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Cyclops (New Xavier School)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Dani Moonstar",
+    "class": "Mutant"
+  },
+  {
+    "name": "Daredevil (Classic)",
+    "class": "Skill"
+  },
+  {
+    "name": "Daredevil (Hell's Kitchen)",
+    "class": "Skill"
+  },
+  {
+    "name": "Darkhawk",
+    "class": "Tech"
+  },
+  {
+    "name": "Dazzler",
+    "class": "Mutant"
+  },
+  {
+    "name": "Deadpool",
+    "class": "Mutant"
+  },
+  {
+    "name": "Deadpool (X-Force)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Diablo",
+    "class": "Mystic"
+  },
+  {
+    "name": "Doctor Doom",
+    "class": "Mystic"
+  },
+  {
+    "name": "Doctor Octopus",
+    "class": "Tech"
+  },
+  {
+    "name": "Doctor Strange",
+    "class": "Mystic"
+  },
+  {
+    "name": "Doctor Voodoo",
+    "class": "Mystic"
+  },
+  {
+    "name": "Domino",
+    "class": "Mutant"
+  },
+  {
+    "name": "Dormammu",
+    "class": "Mystic"
+  },
+  {
+    "name": "Dragon Man",
+    "class": "Mystic"
+  },
+  {
+    "name": "Drax",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Dust",
+    "class": "Mutant"
+  },
+  {
+    "name": "Ebony Maw",
+    "class": "Mystic"
+  },
+  {
+    "name": "Electro",
+    "class": "Science"
+  },
+  {
+    "name": "Elektra",
+    "class": "Skill"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "class": "Skill"
+  },
+  {
+    "name": "Emma Frost",
+    "class": "Mutant"
+  },
+  {
+    "name": "Enchantress",
+    "class": "Mystic"
+  },
+  {
+    "name": "Falcon",
+    "class": "Skill"
+  },
+  {
+    "name": "Falcon (Joaqu\u00edn Torres)",
+    "class": "Science"
+  },
+  {
+    "name": "Galan",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Gambit",
+    "class": "Mutant"
+  },
+  {
+    "name": "Gamora",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Gentle",
+    "class": "Mutant"
+  },
+  {
+    "name": "Ghost",
+    "class": "Tech"
+  },
+  {
+    "name": "Ghost Rider",
+    "class": "Mystic"
+  },
+  {
+    "name": "Gladiator",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Goldpool",
+    "class": "Mutant"
+  },
+  {
+    "name": "Gorr",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Green Goblin",
+    "class": "Tech"
+  },
+  {
+    "name": "Groot",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Guardian",
+    "class": "Tech"
+  },
+  {
+    "name": "Guillotine",
+    "class": "Mystic"
+  },
+  {
+    "name": "Guillotine (Deathless)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Guillotine 2099",
+    "class": "Tech"
+  },
+  {
+    "name": "Gwenpool",
+    "class": "Skill"
+  },
+  {
+    "name": "Havok",
+    "class": "Mutant"
+  },
+  {
+    "name": "Hawkeye",
+    "class": "Skill"
+  },
+  {
+    "name": "Heimdall",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Hela",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Hercules",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Hit-Monkey",
+    "class": "Skill"
+  },
+  {
+    "name": "Howard the Duck",
+    "class": "Tech"
+  },
+  {
+    "name": "Hulk",
+    "class": "Science"
+  },
+  {
+    "name": "Hulk (Immortal)",
+    "class": "Science"
+  },
+  {
+    "name": "Hulk (Ragnarok)",
+    "class": "Science"
+  },
+  {
+    "name": "Hulkbuster",
+    "class": "Tech"
+  },
+  {
+    "name": "Hulkling",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Human Torch",
+    "class": "Science"
+  },
+  {
+    "name": "Hyperion",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Iceman",
+    "class": "Mutant"
+  },
+  {
+    "name": "Ikaris",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Invisible Woman",
+    "class": "Science"
+  },
+  {
+    "name": "Iron Fist",
+    "class": "Mystic"
+  },
+  {
+    "name": "Iron Fist (Immortal)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Iron Man",
+    "class": "Tech"
+  },
+  {
+    "name": "Iron Man (Infamous)",
+    "class": "Tech"
+  },
+  {
+    "name": "Iron Man (Infinity War)",
+    "class": "Tech"
+  },
+  {
+    "name": "Iron Patriot",
+    "class": "Tech"
+  },
+  {
+    "name": "Ironheart",
+    "class": "Tech"
+  },
+  {
+    "name": "Isophyne",
+    "class": "Mystic"
+  },
+  {
+    "name": "Jabari Panther",
+    "class": "Skill"
+  },
+  {
+    "name": "Jack O'Lantern",
+    "class": "Tech"
+  },
+  {
+    "name": "Jean Grey",
+    "class": "Mutant"
+  },
+  {
+    "name": "Jessica Jones",
+    "class": "Science"
+  },
+  {
+    "name": "Joe Fixit",
+    "class": "Science"
+  },
+  {
+    "name": "Jubilee",
+    "class": "Mutant"
+  },
+  {
+    "name": "Juggernaut",
+    "class": "Mystic"
+  },
+  {
+    "name": "Kang the Conqueror",
+    "class": "Tech"
+  },
+  {
+    "name": "Karnak",
+    "class": "Skill"
+  },
+  {
+    "name": "Kate Bishop",
+    "class": "Skill"
+  },
+  {
+    "name": "Killmonger",
+    "class": "Skill"
+  },
+  {
+    "name": "Kindred",
+    "class": "Mystic"
+  },
+  {
+    "name": "King Groot",
+    "class": "Cosmic"
+  },
+  {
+    "name": "King Groot (Deathless)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Kingpin",
+    "class": "Skill"
+  },
+  {
+    "name": "Kitty Pryde",
+    "class": "Mutant"
+  },
+  {
+    "name": "Knull",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Korg",
+    "class": "Skill"
+  },
+  {
+    "name": "Kraven",
+    "class": "Skill"
+  },
+  {
+    "name": "Kushala",
+    "class": "Mystic"
+  },
+  {
+    "name": "Lady Deathstrike",
+    "class": "Tech"
+  },
+  {
+    "name": "Loki",
+    "class": "Mystic"
+  },
+  {
+    "name": "Longshot",
+    "class": "Mystic"
+  },
+  {
+    "name": "Luke Cage",
+    "class": "Science"
+  },
+  {
+    "name": "Lumatrix",
+    "class": "Skill"
+  },
+  {
+    "name": "M.O.D.O.K.",
+    "class": "Science"
+  },
+  {
+    "name": "Maestro (Cosmic)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Magik",
+    "class": "Mystic"
+  },
+  {
+    "name": "Magneto",
+    "class": "Mutant"
+  },
+  {
+    "name": "Magneto (House of X)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Man-Thing",
+    "class": "Mystic"
+  },
+  {
+    "name": "Mangog",
+    "class": "Mystic"
+  },
+  {
+    "name": "Mantis",
+    "class": "Skill"
+  },
+  {
+    "name": "Masacre",
+    "class": "Skill"
+  },
+  {
+    "name": "Medusa",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Mephisto",
+    "class": "Mystic"
+  },
+  {
+    "name": "Mister Fantastic",
+    "class": "Science"
+  },
+  {
+    "name": "Mister Negative",
+    "class": "Science"
+  },
+  {
+    "name": "Mister Sinister",
+    "class": "Mutant"
+  },
+  {
+    "name": "Misty Knight",
+    "class": "Skill"
+  },
+  {
+    "name": "Mojo",
+    "class": "Mystic"
+  },
+  {
+    "name": "Mole Man",
+    "class": "Skill"
+  },
+  {
+    "name": "Moon Knight",
+    "class": "Skill"
+  },
+  {
+    "name": "Moondragon",
+    "class": "Skill"
+  },
+  {
+    "name": "Morbius",
+    "class": "Science"
+  },
+  {
+    "name": "Mordo",
+    "class": "Mystic"
+  },
+  {
+    "name": "Morningstar",
+    "class": "Mystic"
+  },
+  {
+    "name": "Ms. Marvel",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Ms. Marvel (Kamala Khan)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Mysterio",
+    "class": "Tech"
+  },
+  {
+    "name": "Namor",
+    "class": "Mutant"
+  },
+  {
+    "name": "Nebula",
+    "class": "Tech"
+  },
+  {
+    "name": "Negasonic Teenage Warhead",
+    "class": "Mutant"
+  },
+  {
+    "name": "Nick Fury",
+    "class": "Skill"
+  },
+  {
+    "name": "Night Thrasher",
+    "class": "Skill"
+  },
+  {
+    "name": "Nightcrawler",
+    "class": "Mutant"
+  },
+  {
+    "name": "Nimrod",
+    "class": "Tech"
+  },
+  {
+    "name": "Northstar",
+    "class": "Mutant"
+  },
+  {
+    "name": "Nova",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Odin",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Okoye",
+    "class": "Skill"
+  },
+  {
+    "name": "Old Man Logan",
+    "class": "Mutant"
+  },
+  {
+    "name": "Omega Red",
+    "class": "Mutant"
+  },
+  {
+    "name": "Omega Sentinel",
+    "class": "Tech"
+  },
+  {
+    "name": "Onslaught",
+    "class": "Mutant"
+  },
+  {
+    "name": "Patriot",
+    "class": "Skill"
+  },
+  {
+    "name": "Peni Parker",
+    "class": "Tech"
+  },
+  {
+    "name": "Phoenix",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Photon",
+    "class": "Science"
+  },
+  {
+    "name": "Platinumpool",
+    "class": "Mutant"
+  },
+  {
+    "name": "Professor X",
+    "class": "Mutant"
+  },
+  {
+    "name": "Prowler",
+    "class": "Tech"
+  },
+  {
+    "name": "Proxima Midnight",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Psycho-Man",
+    "class": "Tech"
+  },
+  {
+    "name": "Psylocke",
+    "class": "Mutant"
+  },
+  {
+    "name": "Punisher",
+    "class": "Skill"
+  },
+  {
+    "name": "Punisher 2099",
+    "class": "Tech"
+  },
+  {
+    "name": "Purgatory",
+    "class": "Mystic"
+  },
+  {
+    "name": "Quake",
+    "class": "Science"
+  },
+  {
+    "name": "Quicksilver",
+    "class": "Science"
+  },
+  {
+    "name": "Red Goblin",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Red Guardian",
+    "class": "Science"
+  },
+  {
+    "name": "Red Hulk",
+    "class": "Science"
+  },
+  {
+    "name": "Red Skull",
+    "class": "Tech"
+  },
+  {
+    "name": "Rhino",
+    "class": "Science"
+  },
+  {
+    "name": "Rintrah",
+    "class": "Mystic"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "class": "Tech"
+  },
+  {
+    "name": "Rogue",
+    "class": "Mutant"
+  },
+  {
+    "name": "Ronan",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Ronin",
+    "class": "Skill"
+  },
+  {
+    "name": "Sabretooth",
+    "class": "Mutant"
+  },
+  {
+    "name": "Sandman",
+    "class": "Science"
+  },
+  {
+    "name": "Sasquatch",
+    "class": "Mystic"
+  },
+  {
+    "name": "Sauron",
+    "class": "Mutant"
+  },
+  {
+    "name": "Scarlet Witch",
+    "class": "Mystic"
+  },
+  {
+    "name": "Scarlet Witch (Classic)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Scorpion",
+    "class": "Science"
+  },
+  {
+    "name": "Scream",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Sentinel",
+    "class": "Tech"
+  },
+  {
+    "name": "Sentry",
+    "class": "Science"
+  },
+  {
+    "name": "Sersi",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Shang-Chi",
+    "class": "Skill"
+  },
+  {
+    "name": "Shathra",
+    "class": "Mystic"
+  },
+  {
+    "name": "She-Hulk",
+    "class": "Science"
+  },
+  {
+    "name": "She-Hulk (Deathless)",
+    "class": "Science"
+  },
+  {
+    "name": "Shocker",
+    "class": "Tech"
+  },
+  {
+    "name": "Shuri",
+    "class": "Tech"
+  },
+  {
+    "name": "Silk",
+    "class": "Science"
+  },
+  {
+    "name": "Silver Centurion",
+    "class": "Tech"
+  },
+  {
+    "name": "Silver Sable",
+    "class": "Skill"
+  },
+  {
+    "name": "Silver Surfer",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Sorcerer Supreme",
+    "class": "Mystic"
+  },
+  {
+    "name": "Spider-Gwen",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Ham",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Man (Classic)",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Man (Miles Morales)",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Man (Stark Enhanced)",
+    "class": "Tech"
+  },
+  {
+    "name": "Spider-Man (Stealth Suit)",
+    "class": "Skill"
+  },
+  {
+    "name": "Spider-Man (Supreme)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Spider-Man (Symbiote)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Spider-Man 2099",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Punk",
+    "class": "Science"
+  },
+  {
+    "name": "Spider-Woman (Jessica Drew)",
+    "class": "Science"
+  },
+  {
+    "name": "Spiral",
+    "class": "Mystic"
+  },
+  {
+    "name": "Spot",
+    "class": "Science"
+  },
+  {
+    "name": "Squirrel Girl",
+    "class": "Skill"
+  },
+  {
+    "name": "Star-Lord",
+    "class": "Tech"
+  },
+  {
+    "name": "Storm",
+    "class": "Mutant"
+  },
+  {
+    "name": "Storm (Pyramid X)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Stryfe",
+    "class": "Mutant"
+  },
+  {
+    "name": "Sunspot",
+    "class": "Mutant"
+  },
+  {
+    "name": "Super-Skrull",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Superior Iron Man",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Symbiote Supreme",
+    "class": "Mystic"
+  },
+  {
+    "name": "Taskmaster",
+    "class": "Skill"
+  },
+  {
+    "name": "Terrax",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Thanos",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Thanos (Deathless)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "The Champion",
+    "class": "Cosmic"
+  },
+  {
+    "name": "The Destroyer",
+    "class": "Mystic"
+  },
+  {
+    "name": "The Hood",
+    "class": "Mystic"
+  },
+  {
+    "name": "The Leader",
+    "class": "Science"
+  },
+  {
+    "name": "The Overseer",
+    "class": "Science"
+  },
+  {
+    "name": "The Serpent",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Thing",
+    "class": "Science"
+  },
+  {
+    "name": "Thor",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Thor (Jane Foster)",
+    "class": "Mystic"
+  },
+  {
+    "name": "Thor (Ragnarok)",
+    "class": "Skill"
+  },
+  {
+    "name": "Tigra",
+    "class": "Mystic"
+  },
+  {
+    "name": "Titania",
+    "class": "Science"
+  },
+  {
+    "name": "Toad",
+    "class": "Mutant"
+  },
+  {
+    "name": "Ultron",
+    "class": "Tech"
+  },
+  {
+    "name": "Ultron (Classic)",
+    "class": "Tech"
+  },
+  {
+    "name": "Unstoppable Colossus",
+    "class": "Mystic"
+  },
+  {
+    "name": "Valkyrie",
+    "class": "Skill"
+  },
+  {
+    "name": "Venom",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Venom the Duck",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Venompool",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Vision",
+    "class": "Tech"
+  },
+  {
+    "name": "Vision (Aarkus)",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Vision (Age of Ultron)",
+    "class": "Tech"
+  },
+  {
+    "name": "Vision (Deathless",
+    "class": "Tech"
+  },
+  {
+    "name": "Viv Vision",
+    "class": "Tech"
+  },
+  {
+    "name": "Void",
+    "class": "Science"
+  },
+  {
+    "name": "Vox",
+    "class": "Cosmic"
+  },
+  {
+    "name": "Vulture",
+    "class": "Tech"
+  },
+  {
+    "name": "War Machine",
+    "class": "Tech"
+  },
+  {
+    "name": "Warlock",
+    "class": "Tech"
+  },
+  {
+    "name": "Wasp",
+    "class": "Science"
+  },
+  {
+    "name": "Werewolf By Night",
+    "class": "Mystic"
+  },
+  {
+    "name": "White Tiger",
+    "class": "Mystic"
+  },
+  {
+    "name": "Wiccan",
+    "class": "Mystic"
+  },
+  {
+    "name": "Winter Soldier",
+    "class": "Skill"
+  },
+  {
+    "name": "Wolverine",
+    "class": "Mutant"
+  },
+  {
+    "name": "Wolverine (Weapon X)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Wolverine (X-23)",
+    "class": "Mutant"
+  },
+  {
+    "name": "Wong",
+    "class": "Mystic"
+  },
+  {
+    "name": "Yellowjacket",
+    "class": "Science"
+  },
+  {
+    "name": "Yondu",
+    "class": "Tech"
+  },
+  {
+    "name": "\u00c6gon",
+    "class": "Skill"
+  }
+]

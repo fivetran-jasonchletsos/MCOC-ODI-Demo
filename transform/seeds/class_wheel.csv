@@ -1,0 +1,13 @@
+attacker_class,defender_class,bonus
+Cosmic,Tech,advantage
+Tech,Mutant,advantage
+Mutant,Skill,advantage
+Skill,Science,advantage
+Science,Mystic,advantage
+Mystic,Cosmic,advantage
+Tech,Cosmic,disadvantage
+Mutant,Tech,disadvantage
+Skill,Mutant,disadvantage
+Science,Skill,disadvantage
+Mystic,Science,disadvantage
+Cosmic,Mystic,disadvantage

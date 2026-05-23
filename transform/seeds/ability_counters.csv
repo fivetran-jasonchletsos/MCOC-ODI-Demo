@@ -1,0 +1,47 @@
+attacker_ability,counters_archetype,strength,notes
+Power Lock,power_gain_reliant,strong,Locks power gain on defenders that snowball through Special Attacks.
+Power Drain,power_gain_reliant,medium,Reduces accumulated power; weaker than Power Lock against persistent generators.
+Power Burn,power_gain_reliant,strong,Burns power into damage; especially brutal vs unstoppable-on-special champs.
+Power Steal,power_gain_reliant,medium,Transfers power; good vs defenders that bait specials.
+Heal Block,regen_reliant,strong,Stops the heal entirely. Hard counter to all regen champs.
+Heal Reversal,regen_reliant,strong,Turns regen into degen; punishes regen reliance.
+Healing Reduction,regen_reliant,medium,Reduces effectiveness without eliminating.
+Nullify,buff_stacker,strong,Removes a buff outright. Hard counter to buff-up archetypes.
+Stagger,buff_stacker,strong,Prevents the next buff. Pre-empts the stack.
+Buff Duration Reduction,buff_stacker,medium,Shortens buffs; weaker against persistent buffs.
+Petrify,buff_stacker,strong,Reduces buff potency by 100%; works through Stagger immunity.
+Petrify,ability_accuracy_reliant,strong,Also reduces Ability Accuracy from buffs by 100%.
+Ability Accuracy Reduction,evade_reliant,strong,Shuts off Evade triggers. Hard counter to evade-spam.
+Ability Accuracy Reduction,ability_accuracy_reliant,strong,Counters Mojo Hood Doctor Strange and other AAR-reliant defenders.
+Concussion,ability_accuracy_reliant,strong,Massive Ability Accuracy reduction; the canonical AAR-reliant counter.
+Incinerate,armored,strong,Burns through armor stacks via Armor Break Charges.
+Incinerate,regen_reliant,medium,Damage-over-time often outpaces incoming heal.
+Cold Snap,regen_reliant,strong,Pauses regen and DOT timers.
+Cold Snap,incinerate_reliant,strong,Cools incinerate-themed defenders.
+Coldsnap,regen_reliant,strong,Pauses regen and DOT timers.
+Bleed,bleed_vulnerable,strong,Bleed DOT vs no-armor non-metal opponents.
+Poison,poison_vulnerable,strong,Poison DOT; reduces healing also.
+Shock,energy_vulnerable,medium,Energy DOT; bypasses some armor.
+Degeneration,regen_reliant,strong,Pure damage; ignores most defensive mitigations.
+Armor Break,armored,strong,Strips armor stacks; canonical counter to armored defenders.
+Armor Shattered,armored,strong,Stronger Armor Break variant; flips armor into damage taken.
+Unblockable,parry_reliant,strong,Bypasses block; counters Parry-based defenders.
+Unblockable,passive_attack,medium,Forces hit through guard; useful vs defensive walls.
+Unstoppable,passive_attack,strong,Cannot be interrupted; punishes counter-attack archetypes.
+Auto-Block,unblockable_reliant,medium,Mitigates unblockable opener.
+Evade,heavy_intercept,medium,Dodges intercept attempts; risky on Parry stuns though.
+True Strike,evade_reliant,strong,Ignores Evade Auto-Block Armor Up.
+True Accuracy,evade_reliant,strong,Ignores all enemy ability triggers — supercounter to ability-accuracy defenders.
+True Damage,armor_up_reliant,strong,Bypasses Armor Up Resistance and damage mitigations.
+True Damage,resist_physical_reliant,strong,Hard counter to physical-resistance defenders.
+Stun Immunity,parry_reliant,medium,Avoids Parry stun; weakens the parry-then-MLLLM gameplan.
+Bleed Immunity,bleed_applier,strong,Hard counter to bleed-applying attackers (Wolverine Blade Aegon).
+Poison Immunity,poison_applier,strong,Hard counter to poison-applying attackers (Abomination Joe Fixit).
+Incinerate Immunity,incinerate_applier,strong,Hard counter to fire-themed attackers.
+Coldsnap Immunity,coldsnap_applier,strong,Hard counter to cold-themed attackers.
+Shock Immunity,shock_applier,strong,Hard counter to shock-themed attackers.
+Fury,sub_damage,medium,Stacking attack boost; useful for shorter fights.
+Cruelty,critical_reliant,medium,Boosts critical damage; multiplies with Precision.
+Precision,sub_damage,medium,Boosts critical rating; combos with Cruelty.
+Prowess,special_burst,strong,Boosts next Special Attack damage; burst windows.
+Regeneration,sustain,medium,Self-heal; matters in long fights and over-time chip.

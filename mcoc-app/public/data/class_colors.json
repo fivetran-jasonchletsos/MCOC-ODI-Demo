@@ -1,0 +1,38 @@
+[
+  {
+    "class": "Cosmic",
+    "hex": "#f6c83a",
+    "deep": "#8c6d10",
+    "glow": "#fff2b8"
+  },
+  {
+    "class": "Tech",
+    "hex": "#3aaaf6",
+    "deep": "#0e4f80",
+    "glow": "#bce2ff"
+  },
+  {
+    "class": "Mutant",
+    "hex": "#f6a23a",
+    "deep": "#8c4f10",
+    "glow": "#ffd9a8"
+  },
+  {
+    "class": "Skill",
+    "hex": "#f6453a",
+    "deep": "#7a1410",
+    "glow": "#ffb8b3"
+  },
+  {
+    "class": "Science",
+    "hex": "#3af67a",
+    "deep": "#0e6b2e",
+    "glow": "#b8ffce"
+  },
+  {
+    "class": "Mystic",
+    "hex": "#b53af6",
+    "deep": "#52107a",
+    "glow": "#e6b8ff"
+  }
+]
