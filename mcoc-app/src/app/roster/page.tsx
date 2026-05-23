@@ -18,6 +18,7 @@ import {
 import { CLASS_KEY, CLASS_LIST } from "@/lib/types";
 import { asset } from "@/lib/asset";
 import { ScreenshotUpload } from "@/components/ScreenshotUpload";
+import { RosterCellEditor } from "@/components/RosterCellEditor";
 import type { ChampionClass, RosterEntry } from "@/lib/types";
 
 export default function RosterPage() {
@@ -25,6 +26,7 @@ export default function RosterPage() {
   const [paste, setPaste] = useState("");
   const [failed, setFailed] = useState<string[]>([]);
   const [filterCls, setFilterCls] = useState<ChampionClass | "all">("all");
+  const [editing, setEditing] = useState<string | null>(null);
 
   useEffect(() => {
     setRoster(loadRoster());
@@ -54,9 +56,29 @@ export default function RosterPage() {
     let next;
     if (idx === -1) {
       next = [...roster, { slug, stars: null, rank: null, sig: null, awakened: false, ascended: false }];
+      setEditing(slug); // open editor immediately for new entries
     } else {
       next = roster.filter((r) => r.slug !== slug);
     }
+    setRoster(next);
+    saveRoster(next);
+  }
+
+  function openEditor(e: React.MouseEvent, slug: string) {
+    e.preventDefault();
+    e.stopPropagation();
+    // Add to roster if not yet owned, then open
+    if (!roster.find((r) => r.slug === slug)) {
+      const next = [...roster, { slug, stars: null, rank: null, sig: null, awakened: false, ascended: false }];
+      setRoster(next);
+      saveRoster(next);
+    }
+    setEditing(slug);
+  }
+
+  function saveEntry(entry: RosterEntry) {
+    const idx = roster.findIndex((r) => r.slug === entry.slug);
+    const next = idx === -1 ? [...roster, entry] : roster.map((r) => (r.slug === entry.slug ? entry : r));
     setRoster(next);
     saveRoster(next);
   }
@@ -215,32 +237,49 @@ export default function RosterPage() {
             </button>
           ))}
         </div>
+        <p className="text-xs text-chrome-dim mb-2">
+          Click a portrait to mark as owned (opens stars/rank editor). Right-click or long-press an owned champ to remove. Click the badge on an owned champ to edit stats.
+        </p>
         <div className="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-10 xl:grid-cols-12 gap-1.5">
           {grid.map((c) => {
             const owned = ownedSet.has(c.slug);
+            const entry = roster.find((r) => r.slug === c.slug);
             const ck = c.class ? CLASS_KEY[c.class] : "";
             return (
-              <button
-                key={c.slug}
-                onClick={() => toggleOwn(c.slug)}
-                className={`class-${ck} class-card aspect-square overflow-hidden relative ${owned ? "" : "opacity-30 hover:opacity-90"}`}
-                title={c.title}
-              >
-                {c.portrait ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img src={asset(c.portrait)} alt={c.title} loading="lazy"
-                    className="absolute inset-0 w-full h-full object-cover" />
-                ) : (
-                  <div className="absolute inset-0 grid place-items-center text-[10px] text-chrome-dim">
-                    {c.title.slice(0, 2)}
-                  </div>
+              <div key={c.slug} className="relative">
+                <button
+                  onClick={() => toggleOwn(c.slug)}
+                  onContextMenu={(e) => { e.preventDefault(); if (owned) toggleOwn(c.slug); }}
+                  className={`class-${ck} class-card aspect-square overflow-hidden relative w-full ${owned ? "" : "opacity-30 hover:opacity-90"}`}
+                  title={c.title}
+                >
+                  {c.portrait ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img src={asset(c.portrait)} alt={c.title} loading="lazy"
+                      className="absolute inset-0 w-full h-full object-cover" />
+                  ) : (
+                    <div className="absolute inset-0 grid place-items-center text-[10px] text-chrome-dim">
+                      {c.title.slice(0, 2)}
+                    </div>
+                  )}
+                  {owned && entry && (
+                    <div
+                      onClick={(e) => openEditor(e, c.slug)}
+                      className="absolute inset-x-0 bottom-0 bg-cosmic/95 text-ink text-[10px] text-center font-bold py-0.5 cursor-pointer hover:bg-cosmic"
+                    >
+                      {entry.stars ? `${entry.stars}*` : ""}{entry.rank ? ` R${entry.rank}` : ""}{!entry.stars && !entry.rank ? "OWNED" : ""}
+                      {entry.ascended ? " ASC" : ""}
+                    </div>
+                  )}
+                </button>
+                {editing === c.slug && entry && (
+                  <RosterCellEditor
+                    initial={entry}
+                    onSave={saveEntry}
+                    onClose={() => setEditing(null)}
+                  />
                 )}
-                {owned && (
-                  <div className="absolute inset-x-0 bottom-0 bg-cosmic text-ink text-[10px] text-center font-bold py-0.5">
-                    OWNED
-                  </div>
-                )}
-              </button>
+              </div>
             );
           })}
         </div>
