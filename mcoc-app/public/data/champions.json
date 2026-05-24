@@ -458,6 +458,53 @@
     "mechanics": "Anti-Venom inflicts a selection of three Debuffs on the Opponent when reaching a Combo threshold. Once the Opponent has been Debuffed he can choose to consume the Debuffs and turn them into stacks of Fury with his Special 2, which increases his damage output substantially. It is possible to increase the amount of Debuffs Anti-Venom can inflict on the Opponent, which consequently increases the amount of stacks of Fury Anti-Venom can acquire."
   },
   {
+    "slug": "anti_venomoid",
+    "title": "Anti-Venomoid",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time",
+        "Burst"
+      ],
+      "defensive": [],
+      "size": null,
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Armor Break",
+      "Corrosion",
+      "Rupture",
+      "Precision",
+      "Daunted",
+      "Reinforce",
+      "Guaranteed Critical",
+      "Tranquilize",
+      "Stun",
+      "Trauma",
+      "Fury",
+      "Protection",
+      "Amplify",
+      "Neutralize"
+    ],
+    "immunities": [],
+    "signature_ability": "Anti-Symbiosis",
+    "release_date": "October 8, 2025",
+    "portrait": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "mechanics": ""
+  },
+  {
     "slug": "apocalypse",
     "title": "Apocalypse",
     "class": "Mutant",
@@ -1154,6 +1201,47 @@
     "mechanics": ""
   },
   {
+    "slug": "blade_stellar_forged",
+    "title": "Blade (Stellar-Forged)",
+    "class": "Mystic",
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Silver",
+        "Stellar-Forged",
+        "Mighty Avengers"
+      ]
+    },
+    "abilities": [
+      "Stun",
+      "Atrophy",
+      "Nullify",
+      "Power Gain",
+      "Degeneration",
+      "Torment",
+      "Power Steal"
+    ],
+    "immunities": [],
+    "signature_ability": "Enhanced Vampiric Immortality",
+    "release_date": "May 4, 2026",
+    "portrait": "/images/champions/blade_stellar_forged.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "As Blade makes his return, he\u2019s sporting some new and familiar mechanics. Danger Sense is back, this time lowering buff duration and nullifying pesky True Buffs. While Blade has been known for his deadly Bleed Debuffs in The Contest thus far, our Stellar-Forged friend prefers melting health bars with Degeneration! And in true Mystic fashion, his Power gaining abilities are through the roof, now feeding off nearby Degenerating foes.\n\nOn top of everything, Blade\u2019s Fractured Power Bar makes excellent use of the flood of power that is sure to come his way."
+  },
+  {
     "slug": "blue_marvel",
     "title": "Blue Marvel",
     "class": "Science",
@@ -1346,6 +1434,42 @@
     "mechanics": ""
   },
   {
+    "slug": "captain_america_sam_wilson",
+    "title": "Captain America (Sam Wilson)",
+    "class": "Tech",
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Hero",
+        "Avengers",
+        "Mighty Avengers"
+      ]
+    },
+    "abilities": [
+      "Armor",
+      "Auto-Block",
+      "Power Drain",
+      "Rupture"
+    ],
+    "immunities": [],
+    "signature_ability": "Vibranium Enhanced Exo-8 Falcon",
+    "release_date": "February 18th, 2022",
+    "portrait": "/images/champions/captain_america_sam_wilson.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Captain America (Sam Wilson) wants to remain Locked-On the Opponent for as long and as often as possible. Locked-On pauses the Debuffs from his Special 1 which helps keep the Debuffs up all the way to Special 2. Armor Ups also increase the damage of his Special 2, so he also wants to make sure to build up as many of those as possible to maximize the potential damage of a Special 2 attack."
+  },
+  {
     "slug": "captain_america_wwii",
     "title": "Captain America (WWII)",
     "class": "Science",
@@ -1535,6 +1659,44 @@
       "tier7": "Yes (exclusive)"
     },
     "mechanics": ""
+  },
+  {
+    "slug": "cassandra_nova",
+    "title": "Cassandra Nova",
+    "class": "Mutant",
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Ofefnsive: Damage Over Time",
+        "Villain",
+        "Psychic Shielding"
+      ]
+    },
+    "abilities": [
+      "Fear",
+      "Stun",
+      "Daunted",
+      "Neuroshock",
+      "Root",
+      "Regeneration",
+      "Reverse Controls"
+    ],
+    "immunities": [],
+    "signature_ability": "Mummudrai",
+    "release_date": "August 28, 2025",
+    "portrait": "/images/champions/cassandra_nova.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Cassandra Nova is a potent Mutant Attacker with strong Defensive potential that uses her psionic might to bring her Opponent to their knees. Cassandra mirrors a number of Professor X\u2019s abilities, but warps them to suit her own sinister needs. For example, she also Channels during her Heavy charge and while recovering from Special Attacks, but inflicts Daunted Passives while doing so. Carefully weave Heavy Attacks between Special Attacks to also pile on Neuroshock and Root, to watch your helpless Opponent\u2019s Health melt away."
   },
   {
     "slug": "cassie_lang",
@@ -2062,6 +2224,45 @@
     "mechanics": "The Daredevil (Hell\u2019s Kitchen) can deal massive Bleed and Critical damage, through managing your combo and using his abilities to shrug off debuffs dip and dive through the fight to punish your opponent."
   },
   {
+    "slug": "dark_phoenix",
+    "title": "Dark Phoenix",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Villain",
+        "Flying",
+        "Psychic Shielding"
+      ]
+    },
+    "abilities": [
+      "Ember Charge",
+      "Safeguard",
+      "Immortality",
+      "Nova Flame",
+      "Unstoppable",
+      "Power Gain"
+    ],
+    "immunities": [],
+    "signature_ability": "Ease into Darkness",
+    "release_date": "May 7, 2025",
+    "portrait": "/images/champions/dark_phoenix.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (exclusive)",
+      "tier4": "Yes (exclusive)",
+      "tier5": "Yes (exclusive)",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "Dark Phoenix has a lot of effects that help with both her Damage and Survivability. There are things like her Ember Charges, which increase the potency of her Nova Flame. Also her Fury, increasing her Attacks, and in some cases, improving her Nova Flame (as an Attacker). These help ramp up her damage numbers over time, as they require build up. Effects like Safeguard, Unstoppable, and Immortality help bolster her defensive abilities, allowing her to draw out the fight if not dealt with properly. Safeguard and Unstoppable can be more of a constant threat, where Immortality only triggers once, upon dealing her what would be a Knock Out blow."
+  },
+  {
     "slug": "darkhawk",
     "title": "Darkhawk",
     "class": "Tech",
@@ -2245,6 +2446,45 @@
       "tier7": "Yes"
     },
     "mechanics": "The King of potions has returned to The Contest with a fresh face! Using his Special 2 and Special 1, combined with Medium 2 and Heavy Attack, stack as many Poisons as you can on the opponent for some massive damage over time! His brand new Pre-fights give Diablo pin-point precision on what kind of utility he needs at the drop of a hat!"
+  },
+  {
+    "slug": "doctor_bong",
+    "title": "Doctor Bong",
+    "class": "Skill",
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Villain",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Nullify Immunity",
+      "Purify",
+      "Guaranteed Critical Hits",
+      "Reverb",
+      "Panic"
+    ],
+    "immunities": [
+      "Nullify"
+    ],
+    "signature_ability": "Ask Not For Whom the Bong Tolls",
+    "release_date": "April 30, 2026",
+    "portrait": "/images/champions/doctor_bong.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "Big, bold, bong; the powers of Doctor Bong are as potent as they are prolific. Making use of his proprietary bong-based technologic wizardry and his own innate physical perfection, Doctor Bong excels at bashing his head into his foes. Building ambient reverberations with repeated Special Attacks increases the devastating power of his Heavy Attacks, but beware! Much like Ikaris flying too close to (or directly into) the sun, the more Reverbs Doctor Bong builds, the harder it will be for even his genius to maintain such overwhelming brilliance."
   },
   {
     "slug": "doctor_doom",
@@ -3712,6 +3952,59 @@
       "tier4": "Yes",
       "tier5": "Yes",
       "tier6": "Yes",
+      "tier7": "No"
+    },
+    "mechanics": ""
+  },
+  {
+    "slug": "henchpool",
+    "title": "Henchpool",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Utility",
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Control: Counter",
+        "Rising Power",
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Armor Break Immunity",
+      "Fury",
+      "Armor",
+      "Power Burn",
+      "Regeneration",
+      "Prowess",
+      "Purify",
+      "Bleed",
+      "Poison Immunity",
+      "Resist Physical",
+      "Physical Vulnerability",
+      "Power Gain",
+      "Nullify"
+    ],
+    "immunities": [
+      "Armor Break",
+      "Poison"
+    ],
+    "signature_ability": "{{C}} Sunder Strikes<br>{{Te}} Hypersonic Aura<br>{{Mu}} Overrun<br>{{Sk}} Final Push<br>{{Sc}} Toxic Aura<br>{{My}} Life Leech",
+    "release_date": "November 13th, 2024",
+    "portrait": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
       "tier7": "No"
     },
     "mechanics": ""
@@ -5626,6 +5919,44 @@
     "mechanics": "Lumatrix is an evasive Skill Attacker that manipulates light itself to bamboozle their Opponent and swiftly devastate them while they are vulnerable. As the second Eidol to enter The Contest, they inherit the unique Fractured Power Bar previously seen on Isophyne making them more focused on throwing rapid Special Attacks than a typical Skill Champion. Their unique use of both Evade and Invisibility allows them to slip through the Opponent\u2019s offense, especially once they have built up a few Cunning Passives to deliver big Critical Hits."
   },
   {
+    "slug": "m_baku",
+    "title": "M'Baku",
+    "class": "Skill",
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Hero",
+        "Wakandan"
+      ]
+    },
+    "abilities": [
+      "Fury",
+      "Bleed",
+      "Unstoppable",
+      "Combo Shield",
+      "True Accuracy",
+      "Purify"
+    ],
+    "immunities": [],
+    "signature_ability": "The Fearless One",
+    "release_date": "February 12, 2026",
+    "portrait": "/images/champions/m_baku.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "M\u2019Baku\u2019s gameplay loop involves a set up and cash out moment, where he wants to accumulate as much damage as he can while Unstoppable, before firing off a devastating Special Attack 2. Proper board placement becomes crucial when trying to kick start his gameplay loop, as M\u2019Baku needs distance between him and the Opponent to comfortably gain his main personal Fury. Upon activation, his kit loop opens up, allowing for new gameplay effects to be triggered and Quality of Life features to be unlocked, which ease his gameplay ramp."
+  },
+  {
     "slug": "m_o_d_o_k",
     "title": "M.O.D.O.K.",
     "class": "Science",
@@ -5661,6 +5992,46 @@
       "tier7": "Yes"
     },
     "mechanics": "M.O.D.O.K excels in playing safe on defense with his all powerful Auto-Block. On Attack he\u2019ll be chasing, placing tons of Damaging Debuffs on the opponent via his Special 2, and Heavy attacks. With his new Signature Ability, he\u2019s even more aggressive with Damage Over Time application, and more threatening with the new ability to Parry attached to his Auto-Block."
+  },
+  {
+    "slug": "madelyne_pryor",
+    "title": "Madelyne Pryor",
+    "class": "Mystic",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Villain",
+        "Flying",
+        "Metal",
+        "Dimensional Being"
+      ]
+    },
+    "abilities": [
+      "Misery",
+      "Degeneration",
+      "Hinder",
+      "Inexorable"
+    ],
+    "immunities": [],
+    "signature_ability": "The Goblin Queen",
+    "release_date": "March 26, 2026",
+    "portrait": "/images/champions/madelyne_pryor.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "The Goblin Queen of Limbo is ready to rule The Contest!\n\nMadelyne Pryor uses her Scythe of Sorrows to punish the Opponent\u2019s moves and imbue them with Misery Buffs, which have no effect, but do have a potency which multiplies for each other copy of themselves. After all, misery loves company.\n\nIt turns out that the denizens of Limbo also love misery, and Madelyne can summon them by opening a pit in the earth using her Special Attack 2. The resulting chasm of clawing arms Hinders the Opponent, reducing the potency of their Buffs, and aids Madelyne by preventing her from being pushed out of the pit.\n\nMadelyn\u2019s Force Field absorbs all damage taken from blocking attacks, which gives her the option of holding her block to lure the Opponent into using Heavy Attacks and interrupting them to rapidly build Misery.\n\nFor Madelyne\u2019s Opponent, gaining a Buff while Hindered can be deadly, as any missing potency from a Buff they gain is inflicted on them as a Degeneration Passive. Not all Buffs have a potency, for those that do, Madelyne will want to hunt the biggest, baddest among them to inflict some truly outrageous Degenerations."
   },
   {
     "slug": "maestro_cosmic",
@@ -7384,6 +7755,44 @@
     "mechanics": "Photon is all about Debuffing her Opponent, building her connection to the Electromagnetic Spectrum, and finally unleashing her Pure Light Form to utterly overwhelm their defenses. She has multiple potent tools for chasing down dangerous mystic defenders, including the ability to Parry Non-Contact attacks and strong counters to Miss mechanics."
   },
   {
+    "slug": "pixie",
+    "title": "Pixie",
+    "class": "Mutant",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Flying",
+        "X-Men"
+      ]
+    },
+    "abilities": [
+      "Sleep",
+      "Oshtur's Refusal",
+      "Neuroshock",
+      "Prowess",
+      "Power Efficiency"
+    ],
+    "immunities": [],
+    "signature_ability": "Heart and Soul",
+    "release_date": "March 12, 2026",
+    "portrait": "/images/champions/pixie.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Pixie loves her wide assortment of spells that she\u2019s been building up in the contest. Players will want to utilize her Counter-Evade followed by a Heavy Attack to cast Mists of Morpheus and Oshtur\u2019s Refusal. These Spells will build up Soul Wisps in addition to power as you make your way to 2 Bars of Power. You\u2019ll then want to use Special 2 to convert Soul Wisps into Prowess, paired with numerous Special 1s that inflict Neuroshocks based on the Special Damage from the Prowess that can lead to incredible damage. If Pixie ever finds herself in a matchup where she can\u2019t use her Prowess or Neuroshocks, she can also utilize her Special 3 to convert Soul Wisps into Attack Rating to deal massive damage that way."
+  },
+  {
     "slug": "platinumpool",
     "title": "Platinumpool",
     "class": "Mutant",
@@ -8177,6 +8586,41 @@
     "mechanics": "Ronin is an offensive damage dealer who specializes in Bleeds and Critical Hits. He also has access to three unique Stances that allow him to quickly switch combat abilities in the heat of battle. Each Stance provides Ronin with either improved Blocking, Offensive Utility, or bonus Bleed Damage. Ronin gains bonus Critical Damage when moving through each of the Stances and will be able to strategically Evade enemy attacks when he is at his deadliest.\n\nApply Bleed Debuffs by striking into your opponents. Prepare Ronin\u2019s stances, and build up his Cruelty effects for a massive Attack and Critical Rating boost! Expertly Evade your opponent\u2019s strikes to gain even more Attack Rating and strike when the time is right."
   },
   {
+    "slug": "ruby_thursday",
+    "title": "Ruby Thursday",
+    "class": "Tech",
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Rupture",
+      "Disintegrate",
+      "Auto-Block",
+      "Special Lock"
+    ],
+    "immunities": [],
+    "signature_ability": "Enhanced Organic Circuitry",
+    "release_date": "April 16, 2026",
+    "portrait": "/images/champions/ruby_thursday.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Ruby\u2019s main damage source is her Special Attack 2, but this Special can only be activated while Organic Circuitry is active, which is accessed through her Special 1. Once Organic Circuitry is up, you need to rush to 2 Bars of Power, but only activate the Special 2 when Organic Circuitry is about to expire, in order to maximize Ruby\u2019s damage potential."
+  },
+  {
     "slug": "sabretooth",
     "title": "Sabretooth",
     "class": "Mutant",
@@ -8521,6 +8965,65 @@
       "tier7": "Yes (exclusive)"
     },
     "mechanics": "Analysis Charges are the key to Sentinel\u2019s kit, as it gains a considerable amount of power and damage mitigation at full ramp. An attacking Sentinel will want to make use of the Intimidate Debuff from its Heavy Attack to ramp Analysis Charges. Anyone fighting a Defending Sentinel will want to prevent Sentinel from reaching 100 Analysis charges, and will most certainly want to keep an eye out for the Armor Up Buffs from its Signature Ability!"
+  },
+  {
+    "slug": "sentinelbot",
+    "title": "Sentinelbot",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Control: Counter",
+        "Villain",
+        "Metal",
+        "Robot"
+      ]
+    },
+    "abilities": [
+      "Robotics",
+      "Reverb",
+      "Pierce",
+      "Armor Break",
+      "Corrosion",
+      "Armor Up",
+      "Rupture",
+      "Invalidate",
+      "Power Burn",
+      "Regeneration",
+      "Daunted",
+      "Bleed",
+      "Neuroshock",
+      "Precision",
+      "Purify",
+      "Fragility",
+      "Incinerate",
+      "Wither",
+      "Trauma",
+      "Fury",
+      "Nullify",
+      "Degeneration"
+    ],
+    "immunities": [],
+    "signature_ability": "Adaptive Matrix",
+    "release_date": "October 8, 2025",
+    "portrait": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "mechanics": ""
   },
   {
     "slug": "sentry",
@@ -9256,6 +9759,45 @@
     "mechanics": "Miles, and anyone hoping to master his playstyle will learn the ins and outs of being a hero. Master using basic combos, dodge attacks, and blocking the opponent to gain bonuses through the fight! Use Miles\u2019 full arsenal to apply as many Debuffs on the opponent as possible and deal some massive damage with his Special 2!"
   },
   {
+    "slug": "spider_man_pavitr_prabhakar",
+    "title": "Spider-Man (Pavitr Prabhakar)",
+    "class": "Mystic",
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Spider-Verse Heroes"
+      ]
+    },
+    "abilities": [
+      "Evade",
+      "Power Steal",
+      "Neutralize",
+      "Spider-Seal",
+      "Marked"
+    ],
+    "immunities": [],
+    "signature_ability": "Seshnag",
+    "release_date": "November 27, 2025",
+    "portrait": "/images/champions/spider_man_pavitr_prabhakar.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Pavitr is a master of controlling the battlefield, able to web up his Opponent with Spider-Seals regardless of where he engages them. He regularly steals power and uses it to replace the Opponent\u2019s Buffs with his own, stripping away defenses and then going for the KO with a massive burst of damage."
+  },
+  {
     "slug": "spider_man_stark_enhanced",
     "title": "Spider-Man (Stark Enhanced)",
     "class": "Tech",
@@ -9481,6 +10023,53 @@
     "mechanics": "Spider-Punk\u2019s gameplay is centered around two core mechanics: Intercepts and his Special 2 Timing minigame. By performing his counter-evade on a well-timed block, Punk gains a new Counter-Attack Evade whenever struck when mistiming intercepts, allowing you to go bananas with your intercepts. You\u2019ll want to intercept the opponent to inflict Physical Vulnerabilities which then power up your Ruptures inflicted with Special 2."
   },
   {
+    "slug": "spider_slayer_j_jonah_jameson",
+    "title": "Spider-Slayer (J. Jonah Jameson)",
+    "class": "Tech",
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Metal",
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Bleed Immunity",
+      "Poison Immunity",
+      "Shock",
+      "Fury",
+      "Obfuscate",
+      "Austere Armor Up",
+      "Slow",
+      "Falter",
+      "Power Burn",
+      "Cowardice"
+    ],
+    "immunities": [
+      "Bleed",
+      "Poison"
+    ],
+    "signature_ability": "Cowards Hide Behind Masks",
+    "release_date": "January 15, 2026",
+    "portrait": "/images/champions/spider_slayer_j_jonah_jameson.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Spider-Slayer (J. Jonah Jameson) has brought his skills from the newsroom into the Contest! Just like at the Daily Bugle, he shouts out Headlines to benefit himself such as gaining Armor Ups and inflicting Slow. He\u2019s also equipped his Spider-Slayer with a camera to get pictures of menaces and blinding them with a flash to take advantage as they miss their attacks."
+  },
+  {
     "slug": "spider_woman_jessica_drew",
     "title": "Spider-Woman (Jessica Drew)",
     "class": "Science",
@@ -9674,6 +10263,43 @@
     "mechanics": "Star-Lord requires keeping his combo for maximum damage. Build Star-Lord\u2019s combo and launch his Special 2 for maximum damage! Star-Lord can even out damage the Regeneration Rate of the Kang Boss in the Back Issues \u2013 specifically Variant 3!"
   },
   {
+    "slug": "star_lord_stellar_forged",
+    "title": "Star-Lord (Stellar-Forged)",
+    "class": "Skill",
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Stellar-Forged",
+        "Guardians of the Galaxy"
+      ]
+    },
+    "abilities": [
+      "Combo Shield",
+      "Persistent Cruelty",
+      "Vulnerability",
+      "Critical Incinerate"
+    ],
+    "immunities": [],
+    "signature_ability": "The Founder\u2019s Skillful Awakening",
+    "release_date": "January 29, 2026",
+    "portrait": "/images/champions/star_lord_stellar_forged.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "Star-Lord has been enhanced by the ancient power of the Founders, unlocking his hidden potential as a Skill Champion. Just like the classic Star-Lord, his Stellar-Forged cousin is powered up by his Combo Meter, this time increasing his Critical Damage Rating.\n\nOver the course of the fight, Star-Lord will fire his trusty Element Gun in each of the four elements: Earth, Fire, Water and Air, conjuring up a lethal combination of effects."
+  },
+  {
     "slug": "storm",
     "title": "Storm",
     "class": "Mutant",
@@ -9781,6 +10407,71 @@
       "tier7": "Yes"
     },
     "mechanics": "Stryfe uses Heavy Attacks and his Invisibility Cloak to build Telepathic Charges, using these as a resource in his kit! With these charges, he is able to Concuss the opponent, block Unblockable attacks, stun Unstoppable opponents, glance incoming attacks, or ramp his damage potential! Telepathic Charges can also be stored as a persistent charge to carry throughout the quest by using Special Attack 3 or by winning a fight! All of this makes him a great option for really long and extreme fights like those found in the Abyss!"
+  },
+  {
+    "slug": "summoned_symbioid",
+    "title": "Summoned Symbioid",
+    "class": "Combined",
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Bleed",
+      "Precision"
+    ],
+    "immunities": [],
+    "signature_ability": "Doesn't Play Well With Others",
+    "release_date": "October 2nd, 2018",
+    "portrait": "/images/champions/summoned_symbioid.png",
+    "tiers": {
+      "tier1": "Yes (exclusive)",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "mechanics": ""
+  },
+  {
+    "slug": "summoned_symbiote",
+    "title": "Summoned Symbiote",
+    "class": "Combined",
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "L",
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Bleed",
+      "Weakness",
+      "Armor Break"
+    ],
+    "immunities": [],
+    "signature_ability": null,
+    "release_date": "October 6th, 2021",
+    "portrait": "/images/champions/summoned_symbiote.png",
+    "tiers": {
+      "tier1": "Yes (exclusive)",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "mechanics": ""
   },
   {
     "slug": "sunspot",
@@ -9893,6 +10584,42 @@
       "tier7": "Yes"
     },
     "mechanics": "Superior Iron Man\u2019s new kit is Attacker first! Stack as many Buffs as you can and deal massive damage while doing so. Play aggressive and see the HUD glow with 8 different Unique Buffs. Intercept with ease with Auto-Block, and shut down pesky projectile attacks with the all new Instinct Buff!"
+  },
+  {
+    "slug": "symbioid",
+    "title": "Symbioid",
+    "class": "Cosmic",
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "XL",
+      "other": [
+        "Size M",
+        "Villain",
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Physical Resistance",
+      "Armor",
+      "Cruelty",
+      "Precision",
+      "Fury"
+    ],
+    "immunities": [],
+    "signature_ability": "Symbiosis",
+    "release_date": "October 8, 2025",
+    "portrait": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "mechanics": ""
   },
   {
     "slug": "symbiote_supreme",
@@ -10993,6 +11720,48 @@
     "mechanics": "Vision is all about controlling his opponent\u2019s power. Use his powerful Special Attacks to burn or steal some of the defender\u2019s power meter!"
   },
   {
+    "slug": "vision_deathless",
+    "title": "Vision (Deathless)",
+    "class": "Tech",
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Metal",
+        "Robot",
+        "Deathless"
+      ]
+    },
+    "abilities": [
+      "Phasing",
+      "Poison Immunity",
+      "Bleed Immunity",
+      "Cold Immunity",
+      "Heal Block"
+    ],
+    "immunities": [
+      "Bleed",
+      "Cold",
+      "Poison"
+    ],
+    "signature_ability": "Phase Shift",
+    "release_date": "July 20, 2024",
+    "portrait": "/images/champions/vision_deathless.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "mechanics": "With Vision (Deathless), we are granting him new utility in the form of Miss at the cost of some of his old utility, also breathing more life into his Heal Block, playing around more with both of these. Phasing / Miss was something that wasn\u2019t executed with Vision or Vision (Age of Ultron), allowing for this to be a unique new mechanic to a character that very much does this all the time in the MCU. Keep his strong utility but add some additional utility."
+  },
+  {
     "slug": "viv_vision",
     "title": "Viv Vision",
     "class": "Tech",
@@ -11259,6 +12028,44 @@
       "tier7": "No"
     },
     "mechanics": ""
+  },
+  {
+    "slug": "wave",
+    "title": "Wave",
+    "class": "Science",
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Hero"
+      ]
+    },
+    "abilities": [
+      "Poison Duration Resist",
+      "Incinerate Duration Resist",
+      "Fury",
+      "Debilitate",
+      "Physical Vulnerability",
+      "Tracking",
+      "Battered"
+    ],
+    "immunities": [],
+    "signature_ability": "Hydrotherapy",
+    "release_date": "May TBA, 2026",
+    "portrait": "/images/champions/wave.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "mechanics": "Wave is a Champion primarily focused on offense, leaning heavily into her Heavy Attack and the new Battered Debuff. A lot of playing Wave best is getting into the flow, interrupting her combos to get Heavy Attacks in, learning the timing to get openings during the Opponent\u2019s Special Attacks with Untouchable Wave, and utilizing the Battered Debuff to enhance her Physical Damage to find a victory swimmingly."
   },
   {
     "slug": "werewolf_by_night",

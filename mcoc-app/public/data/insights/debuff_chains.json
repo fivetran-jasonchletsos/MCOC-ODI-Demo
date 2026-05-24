@@ -7,6 +7,7 @@
       "air_walker",
       "angela",
       "annihilus",
+      "anti_venomoid",
       "black_bolt",
       "captain_marvel",
       "corvus_glaive",
@@ -39,8 +40,10 @@
       "ronan",
       "scream",
       "sentinel",
+      "sentinelbot",
       "spider_man_classic",
       "spider_man_symbiote",
+      "summoned_symbiote",
       "superior_iron_man",
       "taskmaster",
       "the_champion",
@@ -85,6 +88,7 @@
       "purgatory",
       "red_hulk",
       "sentinel",
+      "sentinelbot",
       "sersi",
       "sunspot",
       "super_skrull",
@@ -92,7 +96,7 @@
       "vulture",
       "wiccan"
     ],
-    "team_pair_count": 1804
+    "team_pair_count": 1974
   },
   {
     "applier_ability": "Armor Break",
@@ -102,6 +106,7 @@
       "air_walker",
       "angela",
       "annihilus",
+      "anti_venomoid",
       "black_bolt",
       "captain_marvel",
       "corvus_glaive",
@@ -134,8 +139,10 @@
       "ronan",
       "scream",
       "sentinel",
+      "sentinelbot",
       "spider_man_classic",
       "spider_man_symbiote",
+      "summoned_symbiote",
       "superior_iron_man",
       "taskmaster",
       "the_champion",
@@ -160,6 +167,7 @@
       "shuri",
       "silver_sable",
       "spider_man_miles_morales",
+      "spider_slayer_j_jonah_jameson",
       "spider_woman_jessica_drew",
       "storm",
       "stryfe",
@@ -167,7 +175,7 @@
       "thor_jane_foster",
       "thor_ragnarok"
     ],
-    "team_pair_count": 924
+    "team_pair_count": 1034
   },
   {
     "applier_ability": "Coldsnap",
@@ -216,6 +224,7 @@
       "purgatory",
       "red_hulk",
       "sentinel",
+      "sentinelbot",
       "sersi",
       "sunspot",
       "super_skrull",
@@ -223,7 +232,7 @@
       "vulture",
       "wiccan"
     ],
-    "team_pair_count": 205
+    "team_pair_count": 210
   },
   {
     "applier_ability": "Concussion",
@@ -242,22 +251,25 @@
     ],
     "exploiters": [
       "black_widow_claire_voyant",
+      "blade_stellar_forged",
       "doctor_doom",
       "doctor_strange",
       "dormammu",
       "dracula",
       "ebony_maw",
       "enchantress",
+      "henchpool",
       "magik",
       "man_thing",
       "mojo",
       "morningstar",
       "scarlet_witch",
       "scarlet_witch_classic",
+      "sentinelbot",
       "shathra",
       "sorcerer_supreme"
     ],
-    "team_pair_count": 135
+    "team_pair_count": 162
   },
   {
     "applier_ability": "Stagger",
@@ -274,22 +286,25 @@
     ],
     "exploiters": [
       "black_widow_claire_voyant",
+      "blade_stellar_forged",
       "doctor_doom",
       "doctor_strange",
       "dormammu",
       "dracula",
       "ebony_maw",
       "enchantress",
+      "henchpool",
       "magik",
       "man_thing",
       "mojo",
       "morningstar",
       "scarlet_witch",
       "scarlet_witch_classic",
+      "sentinelbot",
       "shathra",
       "sorcerer_supreme"
     ],
-    "team_pair_count": 105
+    "team_pair_count": 126
   },
   {
     "applier_ability": "Bleed",
@@ -322,10 +337,12 @@
       "guillotine",
       "gwenpool",
       "hawkeye",
+      "henchpool",
       "jabari_panther",
       "killmonger",
       "knull",
       "kraven",
+      "m_baku",
       "m_o_d_o_k",
       "magneto",
       "magneto_house_of_x",
@@ -345,7 +362,10 @@
       "sabretooth",
       "sauron",
       "scream",
+      "sentinelbot",
       "squirrel_girl",
+      "summoned_symbioid",
+      "summoned_symbiote",
       "taskmaster",
       "the_hood",
       "ultron",
@@ -366,7 +386,7 @@
     "exploiters": [
       "adam_warlock"
     ],
-    "team_pair_count": 66
+    "team_pair_count": 71
   },
   {
     "applier_ability": "Stagger",

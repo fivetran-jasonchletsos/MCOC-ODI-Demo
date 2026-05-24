@@ -6,6 +6,15 @@ import { champions } from "@/lib/data";
 import { CLASS_LIST } from "@/lib/types";
 import type { ChampionClass } from "@/lib/types";
 
+const CLASS_HEX: Record<ChampionClass, string> = {
+  Cosmic: "#f6c83a",
+  Tech: "#3aaaf6",
+  Mutant: "#f6a23a",
+  Skill: "#f6453a",
+  Science: "#3af67a",
+  Mystic: "#b53af6",
+};
+
 export function ChampionGrid() {
   const [q, setQ] = useState("");
   const [cls, setCls] = useState<ChampionClass | "all">("all");
@@ -38,22 +47,24 @@ export function ChampionGrid() {
           >
             All
           </button>
-          {CLASS_LIST.map((k) => (
-            <button
-              key={k}
-              onClick={() => setCls(k)}
-              className={`class-${k.toLowerCase()} px-3 py-1.5 rounded-md text-xs font-medium border transition-colors ${
-                cls === k ? "" : "opacity-60 hover:opacity-100"
-              }`}
-              style={
-                cls === k
-                  ? { background: "var(--c)", color: "#0a0a12", borderColor: "var(--c)" }
-                  : { borderColor: "var(--c)", color: "var(--c-glow)" }
-              }
-            >
-              {k}
-            </button>
-          ))}
+          {CLASS_LIST.map((k) => {
+            const hex = CLASS_HEX[k];
+            const selected = cls === k;
+            return (
+              <button
+                key={k}
+                onClick={() => setCls(k)}
+                className="px-3 py-1.5 rounded-md text-xs font-semibold border transition-colors"
+                style={
+                  selected
+                    ? { background: hex, color: "#0a0a12", borderColor: hex }
+                    : { background: "transparent", borderColor: hex, color: hex, opacity: 0.7 }
+                }
+              >
+                {k}
+              </button>
+            );
+          })}
         </div>
         <div className="text-sm text-chrome-soft">{filtered.length} of {champions.length}</div>
       </div>

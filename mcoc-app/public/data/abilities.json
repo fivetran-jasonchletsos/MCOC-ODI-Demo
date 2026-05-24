@@ -73,6 +73,15 @@
     "counters": []
   },
   {
+    "name": "Amplify",
+    "champions": [
+      "anti_venomoid"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
     "name": "Anti-Life Field",
     "champions": [
       "mojo"
@@ -115,6 +124,7 @@
       "angela",
       "ant_man_future",
       "bastion",
+      "captain_america_sam_wilson",
       "civil_warrior",
       "colossus",
       "darkhawk",
@@ -122,6 +132,7 @@
       "guardian",
       "guillotine_2099",
       "heimdall",
+      "henchpool",
       "howard_the_duck",
       "iron_man",
       "iron_patriot",
@@ -138,6 +149,7 @@
       "solvarch",
       "super_skrull",
       "superior_iron_man",
+      "symbioid",
       "symbiote_supreme",
       "thanos",
       "ultron",
@@ -147,7 +159,7 @@
       "war_machine",
       "warlock"
     ],
-    "champion_count": 34,
+    "champion_count": 37,
     "archetypes": [
       "armored"
     ],
@@ -159,6 +171,7 @@
       "air_walker",
       "angela",
       "annihilus",
+      "anti_venomoid",
       "black_bolt",
       "captain_marvel",
       "corvus_glaive",
@@ -191,8 +204,10 @@
       "ronan",
       "scream",
       "sentinel",
+      "sentinelbot",
       "spider_man_classic",
       "spider_man_symbiote",
+      "summoned_symbiote",
       "superior_iron_man",
       "taskmaster",
       "the_champion",
@@ -201,7 +216,7 @@
       "war_machine",
       "yondu"
     ],
-    "champion_count": 44,
+    "champion_count": 47,
     "archetypes": [],
     "counters": [
       {
@@ -210,6 +225,15 @@
         "notes": "Strips armor stacks; canonical counter to armored defenders."
       }
     ]
+  },
+  {
+    "name": "Armor Break Immunity",
+    "champions": [
+      "henchpool"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
   },
   {
     "name": "Armor Shattered",
@@ -228,6 +252,17 @@
     ]
   },
   {
+    "name": "Armor Up",
+    "champions": [
+      "sentinelbot"
+    ],
+    "champion_count": 1,
+    "archetypes": [
+      "buff_stacker"
+    ],
+    "counters": []
+  },
+  {
     "name": "Assassin's Cunning",
     "champions": [
       "hit_monkey"
@@ -239,11 +274,21 @@
   {
     "name": "Atrophy",
     "champions": [
+      "blade_stellar_forged",
       "enchantress",
       "kindred",
       "shathra"
     ],
-    "champion_count": 3,
+    "champion_count": 4,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Austere Armor Up",
+    "champions": [
+      "spider_slayer_j_jonah_jameson"
+    ],
+    "champion_count": 1,
     "archetypes": [],
     "counters": []
   },
@@ -251,14 +296,16 @@
     "name": "Auto-Block",
     "champions": [
       "arcade",
+      "captain_america_sam_wilson",
       "heimdall",
       "high_evolutionary",
       "nova",
       "omega_sentinel",
       "peni_parker",
+      "ruby_thursday",
       "scream"
     ],
-    "champion_count": 7,
+    "champion_count": 9,
     "archetypes": [
       "unblockable_reliant"
     ],
@@ -274,6 +321,15 @@
     "name": "Bamf",
     "champions": [
       "nightcrawler"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Battered",
+    "champions": [
+      "wave"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -353,10 +409,12 @@
       "guillotine",
       "gwenpool",
       "hawkeye",
+      "henchpool",
       "jabari_panther",
       "killmonger",
       "knull",
       "kraven",
+      "m_baku",
       "m_o_d_o_k",
       "magneto",
       "magneto_house_of_x",
@@ -376,7 +434,10 @@
       "sabretooth",
       "sauron",
       "scream",
+      "sentinelbot",
       "squirrel_girl",
+      "summoned_symbioid",
+      "summoned_symbiote",
       "taskmaster",
       "the_hood",
       "ultron",
@@ -394,7 +455,7 @@
       "yelena_belova",
       "gon"
     ],
-    "champion_count": 66,
+    "champion_count": 71,
     "archetypes": [
       "bleed_applier"
     ],
@@ -427,10 +488,12 @@
       "luke_cage",
       "morningstar",
       "prowler",
+      "spider_slayer_j_jonah_jameson",
       "terrax",
-      "unstoppable_colossus"
+      "unstoppable_colossus",
+      "vision_deathless"
     ],
-    "champion_count": 11,
+    "champion_count": 13,
     "archetypes": [],
     "counters": [
       {
@@ -626,9 +689,10 @@
     "name": "Cold Immunity",
     "champions": [
       "ironheart",
-      "sabretooth"
+      "sabretooth",
+      "vision_deathless"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
     "archetypes": [],
     "counters": []
   },
@@ -709,12 +773,14 @@
     "name": "Combo Shield",
     "champions": [
       "daredevil_hell_s_kitchen",
+      "m_baku",
       "okoye",
       "squirrel_girl",
+      "star_lord_stellar_forged",
       "yelena_belova",
       "gon"
     ],
-    "champion_count": 5,
+    "champion_count": 7,
     "archetypes": [],
     "counters": []
   },
@@ -764,10 +830,12 @@
   {
     "name": "Corrosion",
     "champions": [
+      "anti_venomoid",
       "imperiosa",
+      "sentinelbot",
       "thanos_deathless"
     ],
-    "champion_count": 2,
+    "champion_count": 4,
     "archetypes": [],
     "counters": []
   },
@@ -804,9 +872,10 @@
       "arnim_zola",
       "iron_man_infamous",
       "nimrod",
-      "omega_sentinel"
+      "omega_sentinel",
+      "spider_slayer_j_jonah_jameson"
     ],
-    "champion_count": 4,
+    "champion_count": 5,
     "archetypes": [],
     "counters": []
   },
@@ -843,9 +912,10 @@
   {
     "name": "Critical Incinerate",
     "champions": [
-      "moondragon"
+      "moondragon",
+      "star_lord_stellar_forged"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -883,9 +953,10 @@
       "hercules",
       "night_thrasher",
       "ronin",
+      "symbioid",
       "wolverine_x_23"
     ],
-    "champion_count": 14,
+    "champion_count": 15,
     "archetypes": [
       "buff_stacker"
     ],
@@ -984,11 +1055,14 @@
   {
     "name": "Daunted",
     "champions": [
+      "anti_venomoid",
+      "cassandra_nova",
       "gentle",
       "onslaught",
+      "sentinelbot",
       "silver_samurai"
     ],
-    "champion_count": 3,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -1022,9 +1096,10 @@
   {
     "name": "Debilitate",
     "champions": [
-      "falcon_joaqu_n_torres"
+      "falcon_joaqu_n_torres",
+      "wave"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -1054,6 +1129,7 @@
     "name": "Degeneration",
     "champions": [
       "apocalypse",
+      "blade_stellar_forged",
       "dracula",
       "ebony_maw",
       "guillotine",
@@ -1063,18 +1139,20 @@
       "kingpin",
       "knull",
       "kushala",
+      "madelyne_pryor",
       "mister_negative",
       "mojo",
       "mordo",
       "omega_red",
       "purgatory",
       "sauron",
+      "sentinelbot",
       "the_destroyer",
       "the_leader",
       "venom_the_duck",
       "vox"
     ],
-    "champion_count": 20,
+    "champion_count": 23,
     "archetypes": [],
     "counters": [
       {
@@ -1159,9 +1237,10 @@
   {
     "name": "Disintegrate",
     "champions": [
-      "ant_man_future"
+      "ant_man_future",
+      "ruby_thursday"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -1234,6 +1313,15 @@
     "name": "Element Gun",
     "champions": [
       "star_lord"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Ember Charge",
+    "champions": [
+      "dark_phoenix"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -1374,6 +1462,7 @@
       "scorpion",
       "silk",
       "spider_man_classic",
+      "spider_man_pavitr_prabhakar",
       "spider_man_stark_enhanced",
       "spider_man_stealth_suit",
       "spider_punk",
@@ -1382,7 +1471,7 @@
       "ultron_classic",
       "valkyrie"
     ],
-    "champion_count": 20,
+    "champion_count": 21,
     "archetypes": [
       "evade_reliant"
     ],
@@ -1432,9 +1521,10 @@
       "dazzler",
       "ebony_maw",
       "professor_x",
-      "prowler"
+      "prowler",
+      "spider_slayer_j_jonah_jameson"
     ],
-    "champion_count": 5,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -1472,13 +1562,14 @@
   {
     "name": "Fear",
     "champions": [
+      "cassandra_nova",
       "dracula",
       "gentle",
       "she_hulk_deathless",
       "the_serpent",
       "white_tiger"
     ],
-    "champion_count": 5,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -1582,9 +1673,10 @@
       "hawkeye",
       "invisible_woman",
       "red_guardian",
+      "sentinelbot",
       "spider_man_stealth_suit"
     ],
-    "champion_count": 4,
+    "champion_count": 5,
     "archetypes": [],
     "counters": []
   },
@@ -1614,6 +1706,7 @@
       "angela",
       "annihilus",
       "anti_venom",
+      "anti_venomoid",
       "bastion",
       "beta_ray_bill",
       "bullseye",
@@ -1630,6 +1723,7 @@
       "gorr",
       "heimdall",
       "hela",
+      "henchpool",
       "howard_the_duck",
       "hulk",
       "hyperion",
@@ -1640,6 +1734,7 @@
       "king_groot",
       "king_groot_deathless",
       "lumatrix",
+      "m_baku",
       "maestro_cosmic",
       "medusa",
       "moon_knight",
@@ -1655,14 +1750,17 @@
       "ronan",
       "sabretooth",
       "sauron",
+      "sentinelbot",
       "sentry",
       "sersi",
       "she_hulk",
       "silk",
       "silver_surfer",
+      "spider_slayer_j_jonah_jameson",
       "spider_woman_jessica_drew",
       "star_lord",
       "super_skrull",
+      "symbioid",
       "symbiote_supreme",
       "thanos",
       "the_destroyer",
@@ -1676,10 +1774,11 @@
       "venompool",
       "vision_aarkus",
       "vox",
+      "wave",
       "winter_soldier",
       "gon"
     ],
-    "champion_count": 69,
+    "champion_count": 76,
     "archetypes": [
       "buff_stacker"
     ],
@@ -1760,6 +1859,24 @@
     "counters": []
   },
   {
+    "name": "Guaranteed Critical",
+    "champions": [
+      "anti_venomoid"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Guaranteed Critical Hits",
+    "champions": [
+      "doctor_bong"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
     "name": "Halt",
     "champions": [
       "nico_minoru"
@@ -1791,10 +1908,11 @@
       "ultron_classic",
       "vision",
       "vision_age_of_ultron",
+      "vision_deathless",
       "viv_vision",
       "yondu"
     ],
-    "champion_count": 22,
+    "champion_count": 23,
     "archetypes": [],
     "counters": [
       {
@@ -1808,6 +1926,15 @@
     "name": "Hellfire Rounds",
     "champions": [
       "elsa_bloodstone"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Hinder",
+    "champions": [
+      "madelyne_pryor"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -1871,9 +1998,10 @@
   {
     "name": "Immortality",
     "champions": [
+      "dark_phoenix",
       "hulk_immortal"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -1925,6 +2053,7 @@
       "purgatory",
       "red_hulk",
       "sentinel",
+      "sentinelbot",
       "sersi",
       "sunspot",
       "super_skrull",
@@ -1932,7 +2061,7 @@
       "vulture",
       "wiccan"
     ],
-    "champion_count": 41,
+    "champion_count": 42,
     "archetypes": [
       "incinerate_applier"
     ],
@@ -1948,6 +2077,15 @@
         "notes": "Damage-over-time often outpaces incoming heal."
       }
     ]
+  },
+  {
+    "name": "Incinerate Duration Resist",
+    "champions": [
+      "wave"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
   },
   {
     "name": "Incinerate Immunity",
@@ -2010,9 +2148,10 @@
   {
     "name": "Inexorable",
     "champions": [
+      "madelyne_pryor",
       "the_serpent"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -2099,6 +2238,15 @@
     "name": "Intimidating Presence",
     "champions": [
       "void"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Invalidate",
+    "champions": [
+      "sentinelbot"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -2256,6 +2404,15 @@
     "counters": []
   },
   {
+    "name": "Marked",
+    "champions": [
+      "spider_man_pavitr_prabhakar"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
     "name": "Midnight Angel",
     "champions": [
       "okoye"
@@ -2277,6 +2434,15 @@
     "name": "Mind Control",
     "champions": [
       "professor_x"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Misery",
+    "champions": [
+      "madelyne_pryor"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -2351,11 +2517,14 @@
     "name": "Neuroshock",
     "champions": [
       "captain_britain",
+      "cassandra_nova",
       "dani_moonstar",
       "jean_grey",
-      "onslaught"
+      "onslaught",
+      "pixie",
+      "sentinelbot"
     ],
-    "champion_count": 4,
+    "champion_count": 7,
     "archetypes": [],
     "counters": []
   },
@@ -2380,12 +2549,14 @@
   {
     "name": "Neutralize",
     "champions": [
+      "anti_venomoid",
       "enchantress",
       "rintrah",
+      "spider_man_pavitr_prabhakar",
       "tigra",
       "wiccan"
     ],
-    "champion_count": 4,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -2401,9 +2572,10 @@
   {
     "name": "Nova Flame",
     "champions": [
+      "dark_phoenix",
       "human_torch"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -2420,22 +2592,25 @@
     "name": "Nullify",
     "champions": [
       "black_widow_claire_voyant",
+      "blade_stellar_forged",
       "doctor_doom",
       "doctor_strange",
       "dormammu",
       "dracula",
       "ebony_maw",
       "enchantress",
+      "henchpool",
       "magik",
       "man_thing",
       "mojo",
       "morningstar",
       "scarlet_witch",
       "scarlet_witch_classic",
+      "sentinelbot",
       "shathra",
       "sorcerer_supreme"
     ],
-    "champion_count": 15,
+    "champion_count": 18,
     "archetypes": [],
     "counters": [
       {
@@ -2449,9 +2624,19 @@
     "name": "Nullify Immunity",
     "champions": [
       "dazzler",
+      "doctor_bong",
       "white_tiger"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Obfuscate",
+    "champions": [
+      "spider_slayer_j_jonah_jameson"
+    ],
+    "champion_count": 1,
     "archetypes": [],
     "counters": []
   },
@@ -2477,6 +2662,15 @@
     "name": "Organic Magnetism",
     "champions": [
       "onslaught"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
+    "name": "Oshtur's Refusal",
+    "champions": [
+      "pixie"
     ],
     "champion_count": 1,
     "archetypes": [],
@@ -2534,9 +2728,10 @@
   {
     "name": "Panic",
     "champions": [
+      "doctor_bong",
       "mr_knight"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -2587,9 +2782,10 @@
   {
     "name": "Persistent Cruelty",
     "champions": [
-      "corvus_glaive"
+      "corvus_glaive",
+      "star_lord_stellar_forged"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -2635,9 +2831,10 @@
     "champions": [
       "ghost",
       "kitty_pryde",
+      "vision_deathless",
       "viv_vision"
     ],
-    "champion_count": 3,
+    "champion_count": 4,
     "archetypes": [],
     "counters": []
   },
@@ -2645,9 +2842,10 @@
     "name": "Physical Resistance",
     "champions": [
       "captain_america_infinity_war",
-      "punisher"
+      "punisher",
+      "symbioid"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
     "archetypes": [],
     "counters": []
   },
@@ -2655,12 +2853,14 @@
     "name": "Physical Vulnerability",
     "champions": [
       "falcon_joaqu_n_torres",
+      "henchpool",
       "hulk",
       "sandman",
       "silk",
-      "spider_punk"
+      "spider_punk",
+      "wave"
     ],
-    "champion_count": 5,
+    "champion_count": 7,
     "archetypes": [],
     "counters": []
   },
@@ -2670,10 +2870,11 @@
       "hulkling",
       "imperiosa",
       "maestro_cosmic",
+      "sentinelbot",
       "the_serpent",
       "valkyrie"
     ],
-    "champion_count": 5,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -2774,6 +2975,15 @@
     ]
   },
   {
+    "name": "Poison Duration Resist",
+    "champions": [
+      "wave"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
     "name": "Poison Immunity",
     "champions": [
       "abomination",
@@ -2781,6 +2991,7 @@
       "black_bolt",
       "captain_marvel",
       "captain_marvel_classic",
+      "henchpool",
       "hulk",
       "hulk_ragnarok",
       "medusa",
@@ -2790,12 +3001,14 @@
       "ronan",
       "she_hulk",
       "she_hulk_deathless",
+      "spider_slayer_j_jonah_jameson",
       "the_leader",
       "toad",
+      "vision_deathless",
       "vox",
       "yelena_belova"
     ],
-    "champion_count": 18,
+    "champion_count": 21,
     "archetypes": [],
     "counters": [
       {
@@ -2846,15 +3059,18 @@
     "champions": [
       "doctor_voodoo",
       "dormammu",
+      "henchpool",
       "hulkbuster",
       "iron_man_infamous",
       "peni_parker",
       "psylocke",
+      "sentinelbot",
+      "spider_slayer_j_jonah_jameson",
       "vision",
       "vision_age_of_ultron",
       "warlock"
     ],
-    "champion_count": 9,
+    "champion_count": 12,
     "archetypes": [],
     "counters": [
       {
@@ -2906,6 +3122,7 @@
   {
     "name": "Power Drain",
     "champions": [
+      "captain_america_sam_wilson",
       "dormammu",
       "green_goblin",
       "kang_the_conqueror",
@@ -2920,7 +3137,7 @@
       "viv_vision",
       "warlock"
     ],
-    "champion_count": 13,
+    "champion_count": 14,
     "archetypes": [],
     "counters": [
       {
@@ -2944,10 +3161,11 @@
     "champions": [
       "captain_britain",
       "cyclops_blue_team",
+      "pixie",
       "silver_samurai",
       "wiccan"
     ],
-    "champion_count": 4,
+    "champion_count": 5,
     "archetypes": [],
     "counters": []
   },
@@ -2955,9 +3173,12 @@
     "name": "Power Gain",
     "champions": [
       "blade",
+      "blade_stellar_forged",
       "count_nefaria",
+      "dark_phoenix",
       "gladiator",
       "heimdall",
+      "henchpool",
       "imperiosa",
       "isophyne",
       "karolina_dean",
@@ -2973,7 +3194,7 @@
       "werewolf_by_night",
       "wong"
     ],
-    "champion_count": 18,
+    "champion_count": 21,
     "archetypes": [
       "power_gain_reliant"
     ],
@@ -3014,6 +3235,7 @@
     "name": "Power Steal",
     "champions": [
       "black_widow_claire_voyant",
+      "blade_stellar_forged",
       "doctor_voodoo",
       "ebony_maw",
       "enchantress",
@@ -3022,10 +3244,11 @@
       "mister_sinister",
       "rogue",
       "shathra",
+      "spider_man_pavitr_prabhakar",
       "spiral",
       "white_tiger"
     ],
-    "champion_count": 11,
+    "champion_count": 13,
     "archetypes": [],
     "counters": [
       {
@@ -3071,6 +3294,7 @@
     "champions": [
       "adam_warlock",
       "angela",
+      "anti_venomoid",
       "black_panther",
       "black_widow",
       "black_widow_deadly_origin",
@@ -3093,14 +3317,17 @@
       "rocket_raccoon",
       "ronin",
       "scarlet_witch_classic",
+      "sentinelbot",
       "shang_chi",
       "shuri",
       "spider_man_classic",
       "spider_man_stealth_suit",
       "spider_man_symbiote",
+      "summoned_symbioid",
+      "symbioid",
       "yondu"
     ],
-    "champion_count": 30,
+    "champion_count": 34,
     "archetypes": [
       "buff_stacker"
     ],
@@ -3142,10 +3369,11 @@
   {
     "name": "Protection",
     "champions": [
+      "anti_venomoid",
       "thanos_deathless",
       "the_destroyer"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
     "archetypes": [],
     "counters": []
   },
@@ -3170,11 +3398,13 @@
       "gambit",
       "goldpool",
       "havok",
+      "henchpool",
       "kitty_pryde",
       "magneto",
       "magneto_house_of_x",
       "nightcrawler",
       "northstar",
+      "pixie",
       "platinumpool",
       "professor_x",
       "proxima_midnight",
@@ -3183,7 +3413,7 @@
       "storm_pyramid_x",
       "toad"
     ],
-    "champion_count": 21,
+    "champion_count": 23,
     "archetypes": [
       "buff_stacker"
     ],
@@ -3226,10 +3456,14 @@
     "name": "Purify",
     "champions": [
       "attuma",
+      "doctor_bong",
+      "henchpool",
+      "m_baku",
       "moondragon",
+      "sentinelbot",
       "silver_sable"
     ],
-    "champion_count": 3,
+    "champion_count": 7,
     "archetypes": [],
     "counters": []
   },
@@ -3308,6 +3542,7 @@
       "black_widow_claire_voyant",
       "blue_marvel",
       "cable",
+      "cassandra_nova",
       "chee_ilth",
       "deadpool",
       "diablo",
@@ -3315,6 +3550,7 @@
       "goldpool",
       "gorr",
       "groot",
+      "henchpool",
       "hulkling",
       "king_groot",
       "king_groot_deathless",
@@ -3330,6 +3566,7 @@
       "sabretooth",
       "sasquatch",
       "sauron",
+      "sentinelbot",
       "shathra",
       "superior_iron_man",
       "toad",
@@ -3340,7 +3577,7 @@
       "wolverine_x_23",
       "wong"
     ],
-    "champion_count": 37,
+    "champion_count": 40,
     "archetypes": [
       "regen_reliant"
     ],
@@ -3355,9 +3592,10 @@
   {
     "name": "Reinforce",
     "champions": [
+      "anti_venomoid",
       "silver_samurai"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -3377,9 +3615,10 @@
       "emma_frost",
       "galan",
       "hela",
+      "henchpool",
       "rhino"
     ],
-    "champion_count": 5,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -3426,10 +3665,12 @@
   {
     "name": "Reverb",
     "champions": [
+      "doctor_bong",
       "gentle",
-      "northstar"
+      "northstar",
+      "sentinelbot"
     ],
-    "champion_count": 2,
+    "champion_count": 4,
     "archetypes": [],
     "counters": []
   },
@@ -3445,9 +3686,10 @@
   {
     "name": "Reverse Controls",
     "champions": [
+      "cassandra_nova",
       "high_evolutionary"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -3470,12 +3712,13 @@
       "guillotine_2099",
       "nimrod",
       "sentinel",
+      "sentinelbot",
       "ultron",
       "ultron_classic",
       "vision",
       "vision_age_of_ultron"
     ],
-    "champion_count": 8,
+    "champion_count": 9,
     "archetypes": [],
     "counters": []
   },
@@ -3519,12 +3762,13 @@
     "name": "Root",
     "champions": [
       "baron_zemo",
+      "cassandra_nova",
       "imperiosa",
       "kraven",
       "rintrah",
       "sandman"
     ],
-    "champion_count": 5,
+    "champion_count": 6,
     "archetypes": [],
     "counters": []
   },
@@ -3549,6 +3793,8 @@
   {
     "name": "Rupture",
     "champions": [
+      "anti_venomoid",
+      "captain_america_sam_wilson",
       "ironheart",
       "lady_deathstrike",
       "lizard",
@@ -3556,7 +3802,9 @@
       "prowler",
       "rintrah",
       "rocket_raccoon",
+      "ruby_thursday",
       "sasquatch",
+      "sentinelbot",
       "spider_man_miles_morales",
       "spider_man_2099",
       "spider_punk",
@@ -3566,7 +3814,7 @@
       "werewolf_by_night",
       "wolverine_x_23"
     ],
-    "champion_count": 16,
+    "champion_count": 20,
     "archetypes": [],
     "counters": []
   },
@@ -3592,9 +3840,10 @@
     "name": "Safeguard",
     "champions": [
       "captain_britain",
+      "dark_phoenix",
       "proxima_midnight"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
     "archetypes": [],
     "counters": []
   },
@@ -3655,6 +3904,7 @@
       "shuri",
       "silver_sable",
       "spider_man_miles_morales",
+      "spider_slayer_j_jonah_jameson",
       "spider_woman_jessica_drew",
       "storm",
       "stryfe",
@@ -3662,7 +3912,7 @@
       "thor_jane_foster",
       "thor_ragnarok"
     ],
-    "champion_count": 21,
+    "champion_count": 22,
     "archetypes": [
       "shock_applier"
     ],
@@ -3716,9 +3966,10 @@
     "champions": [
       "arnim_zola",
       "mantis",
-      "mr_knight"
+      "mr_knight",
+      "pixie"
     ],
-    "champion_count": 3,
+    "champion_count": 4,
     "archetypes": [],
     "counters": []
   },
@@ -3737,9 +3988,10 @@
       "sorcerer_supreme",
       "spider_gwen",
       "spider_man_stealth_suit",
+      "spider_slayer_j_jonah_jameson",
       "toad"
     ],
-    "champion_count": 13,
+    "champion_count": 14,
     "archetypes": [],
     "counters": []
   },
@@ -3793,9 +4045,10 @@
     "name": "Special Lock",
     "champions": [
       "arnim_zola",
-      "iron_man_infamous"
+      "iron_man_infamous",
+      "ruby_thursday"
     ],
-    "champion_count": 2,
+    "champion_count": 3,
     "archetypes": [],
     "counters": []
   },
@@ -3851,9 +4104,10 @@
   {
     "name": "Spider-Seal",
     "champions": [
+      "spider_man_pavitr_prabhakar",
       "spider_man_supreme"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -3939,13 +4193,16 @@
     "champions": [
       "adam_warlock",
       "ant_man_future",
+      "anti_venomoid",
       "archangel",
       "beast",
       "black_bolt",
       "black_widow",
+      "blade_stellar_forged",
       "captain_america",
       "captain_america_infinity_war",
       "captain_america_wwii",
+      "cassandra_nova",
       "colossus",
       "cull_obsidian",
       "daredevil_classic",
@@ -3990,7 +4247,7 @@
       "wasp",
       "gon"
     ],
-    "champion_count": 52,
+    "champion_count": 55,
     "archetypes": [
       "parry_reliant"
     ],
@@ -4148,6 +4405,15 @@
     "counters": []
   },
   {
+    "name": "Torment",
+    "champions": [
+      "blade_stellar_forged"
+    ],
+    "champion_count": 1,
+    "archetypes": [],
+    "counters": []
+  },
+  {
     "name": "Toxic Armor",
     "champions": [
       "venom_the_duck"
@@ -4162,21 +4428,23 @@
       "ironheart",
       "kate_bishop",
       "lumatrix",
-      "omega_sentinel"
+      "omega_sentinel",
+      "wave"
     ],
-    "champion_count": 4,
+    "champion_count": 5,
     "archetypes": [],
     "counters": []
   },
   {
     "name": "Tranquilize",
     "champions": [
+      "anti_venomoid",
       "chee_ilth",
       "kate_bishop",
       "mantis",
       "mr_knight"
     ],
-    "champion_count": 4,
+    "champion_count": 5,
     "archetypes": [],
     "counters": []
   },
@@ -4201,13 +4469,15 @@
   {
     "name": "Trauma",
     "champions": [
+      "anti_venomoid",
       "falcon_joaqu_n_torres",
       "hulk",
       "red_guardian",
       "rhino",
+      "sentinelbot",
       "she_hulk_deathless"
     ],
-    "champion_count": 5,
+    "champion_count": 7,
     "archetypes": [],
     "counters": []
   },
@@ -4218,11 +4488,12 @@
       "bullseye",
       "kate_bishop",
       "knull",
+      "m_baku",
       "mole_man",
       "proxima_midnight",
       "the_champion"
     ],
-    "champion_count": 7,
+    "champion_count": 8,
     "archetypes": [],
     "counters": [
       {
@@ -4371,6 +4642,7 @@
     "name": "Unstoppable",
     "champions": [
       "annihilus",
+      "dark_phoenix",
       "enchantress",
       "franken_castle",
       "gentle",
@@ -4381,6 +4653,7 @@
       "killmonger",
       "kingpin",
       "korg",
+      "m_baku",
       "mangog",
       "mole_man",
       "northstar",
@@ -4391,7 +4664,7 @@
       "wolverine_weapon_x",
       "wong"
     ],
-    "champion_count": 20,
+    "champion_count": 22,
     "archetypes": [],
     "counters": [
       {
@@ -4491,9 +4764,10 @@
   {
     "name": "Vulnerability",
     "champions": [
-      "absorbing_man"
+      "absorbing_man",
+      "star_lord_stellar_forged"
     ],
-    "champion_count": 1,
+    "champion_count": 2,
     "archetypes": [],
     "counters": []
   },
@@ -4509,11 +4783,12 @@
       "spider_man_classic",
       "spider_man_miles_morales",
       "spider_man_symbiote",
+      "summoned_symbiote",
       "thing",
       "titania",
       "wasp"
     ],
-    "champion_count": 12,
+    "champion_count": 13,
     "archetypes": [],
     "counters": []
   },
@@ -4542,12 +4817,13 @@
       "doctor_strange",
       "isophyne",
       "quicksilver",
+      "sentinelbot",
       "sentry",
       "she_hulk_deathless",
       "spider_man_2099",
       "the_leader"
     ],
-    "champion_count": 8,
+    "champion_count": 9,
     "archetypes": [],
     "counters": []
   },

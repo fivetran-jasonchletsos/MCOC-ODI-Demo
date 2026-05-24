@@ -17,6 +17,7 @@
       "emma_frost",
       "galan",
       "goldpool",
+      "henchpool",
       "hercules",
       "hulk",
       "hyperion",
@@ -36,11 +37,13 @@
       "proxima_midnight",
       "quake",
       "rhino",
+      "sentinelbot",
       "sersi",
       "shuri",
       "silk",
       "spider_man_classic",
       "spider_man_symbiote",
+      "spider_slayer_j_jonah_jameson",
       "thanos",
       "the_destroyer",
       "the_leader",
@@ -53,7 +56,7 @@
       "vision_aarkus",
       "yondu"
     ],
-    "countered_count": 46,
+    "countered_count": 49,
     "offerers": [
       "abomination_immortal",
       "ant_man",
@@ -66,7 +69,7 @@
       "yellowjacket"
     ],
     "offerer_count": 9,
-    "leverage": 5.111111111111111
+    "leverage": 5.444444444444445
   },
   {
     "ability": "Nullify",
@@ -84,6 +87,7 @@
       "emma_frost",
       "galan",
       "goldpool",
+      "henchpool",
       "hercules",
       "hulk",
       "hyperion",
@@ -100,11 +104,13 @@
       "platinumpool",
       "proxima_midnight",
       "rhino",
+      "sentinelbot",
       "sersi",
       "shuri",
       "silk",
       "spider_man_classic",
       "spider_man_symbiote",
+      "spider_slayer_j_jonah_jameson",
       "thanos",
       "the_destroyer",
       "the_leader",
@@ -117,26 +123,29 @@
       "vision_aarkus",
       "yondu"
     ],
-    "countered_count": 42,
+    "countered_count": 45,
     "offerers": [
       "black_widow_claire_voyant",
+      "blade_stellar_forged",
       "doctor_doom",
       "doctor_strange",
       "dormammu",
       "dracula",
       "ebony_maw",
       "enchantress",
+      "henchpool",
       "magik",
       "man_thing",
       "mojo",
       "morningstar",
       "scarlet_witch",
       "scarlet_witch_classic",
+      "sentinelbot",
       "shathra",
       "sorcerer_supreme"
     ],
-    "offerer_count": 15,
-    "leverage": 2.8
+    "offerer_count": 18,
+    "leverage": 2.5
   },
   {
     "ability": "Stagger",
@@ -154,6 +163,7 @@
       "emma_frost",
       "galan",
       "goldpool",
+      "henchpool",
       "hercules",
       "hulk",
       "hyperion",
@@ -170,11 +180,13 @@
       "platinumpool",
       "proxima_midnight",
       "rhino",
+      "sentinelbot",
       "sersi",
       "shuri",
       "silk",
       "spider_man_classic",
       "spider_man_symbiote",
+      "spider_slayer_j_jonah_jameson",
       "thanos",
       "the_destroyer",
       "the_leader",
@@ -187,7 +199,7 @@
       "vision_aarkus",
       "yondu"
     ],
-    "countered_count": 42,
+    "countered_count": 45,
     "offerers": [
       "doctor_doom",
       "mangog",
@@ -198,7 +210,7 @@
       "titania"
     ],
     "offerer_count": 7,
-    "leverage": 6.0
+    "leverage": 6.428571428571429
   },
   {
     "ability": "Buff Duration Reduction",
@@ -216,6 +228,7 @@
       "emma_frost",
       "galan",
       "goldpool",
+      "henchpool",
       "hercules",
       "hulk",
       "hyperion",
@@ -232,11 +245,13 @@
       "platinumpool",
       "proxima_midnight",
       "rhino",
+      "sentinelbot",
       "sersi",
       "shuri",
       "silk",
       "spider_man_classic",
       "spider_man_symbiote",
+      "spider_slayer_j_jonah_jameson",
       "thanos",
       "the_destroyer",
       "the_leader",
@@ -249,12 +264,12 @@
       "vision_aarkus",
       "yondu"
     ],
-    "countered_count": 42,
+    "countered_count": 45,
     "offerers": [
       "absorbing_man"
     ],
     "offerer_count": 1,
-    "leverage": 42.0
+    "leverage": 45.0
   },
   {
     "ability": "Incinerate",
@@ -275,6 +290,7 @@
       "falcon_joaqu_n_torres",
       "goldpool",
       "groot",
+      "henchpool",
       "hulkling",
       "iron_man",
       "iron_patriot",
@@ -284,6 +300,7 @@
       "platinumpool",
       "rintrah",
       "sasquatch",
+      "sentinelbot",
       "shuri",
       "solvarch",
       "superior_iron_man",
@@ -295,7 +312,7 @@
       "wolverine",
       "wong"
     ],
-    "countered_count": 31,
+    "countered_count": 33,
     "offerers": [
       "agent_venom",
       "arcade",
@@ -332,6 +349,7 @@
       "purgatory",
       "red_hulk",
       "sentinel",
+      "sentinelbot",
       "sersi",
       "sunspot",
       "super_skrull",
@@ -339,8 +357,8 @@
       "vulture",
       "wiccan"
     ],
-    "offerer_count": 41,
-    "leverage": 0.7560975609756098
+    "offerer_count": 42,
+    "leverage": 0.7857142857142857
   },
   {
     "ability": "Unblockable",
@@ -351,6 +369,7 @@
     "countered_defenders": [
       "adam_warlock",
       "ant_man_future",
+      "blade_stellar_forged",
       "captain_america",
       "captain_america_infinity_war",
       "captain_america_wwii",
@@ -376,7 +395,7 @@
       "toad",
       "ultron_classic"
     ],
-    "countered_count": 26,
+    "countered_count": 27,
     "offerers": [
       "adam_warlock",
       "bishop",
@@ -407,7 +426,7 @@
       "werewolf_by_night"
     ],
     "offerer_count": 27,
-    "leverage": 0.9629629629629629
+    "leverage": 1.0
   },
   {
     "ability": "Stun Immunity",
@@ -417,6 +436,7 @@
     "countered_defenders": [
       "adam_warlock",
       "ant_man_future",
+      "blade_stellar_forged",
       "captain_america",
       "captain_america_infinity_war",
       "captain_america_wwii",
@@ -442,10 +462,10 @@
       "toad",
       "ultron_classic"
     ],
-    "countered_count": 26,
+    "countered_count": 27,
     "offerers": [],
     "offerer_count": 0,
-    "leverage": 26.0
+    "leverage": 27.0
   },
   {
     "ability": "Bleed Immunity",
@@ -463,6 +483,7 @@
       "deadpool",
       "goldpool",
       "groot",
+      "henchpool",
       "killmonger",
       "knull",
       "m_o_d_o_k",
@@ -472,12 +493,14 @@
       "nightcrawler",
       "platinumpool",
       "scream",
+      "sentinelbot",
+      "summoned_symbiote",
       "ultron",
       "venom",
       "wolverine",
       "yelena_belova"
     ],
-    "countered_count": 23,
+    "countered_count": 26,
     "offerers": [
       "arnim_zola",
       "colossus",
@@ -488,11 +511,248 @@
       "luke_cage",
       "morningstar",
       "prowler",
+      "spider_slayer_j_jonah_jameson",
       "terrax",
-      "unstoppable_colossus"
+      "unstoppable_colossus",
+      "vision_deathless"
     ],
-    "offerer_count": 11,
-    "leverage": 2.090909090909091
+    "offerer_count": 13,
+    "leverage": 2.0
+  },
+  {
+    "ability": "Heal Block",
+    "archetypes_countered": [
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [
+      "civil_warrior",
+      "doctor_octopus",
+      "howard_the_duck",
+      "hulk_ragnarok",
+      "kang_the_conqueror",
+      "lady_deathstrike",
+      "mysterio",
+      "omega_sentinel",
+      "proxima_midnight",
+      "psycho_man",
+      "punisher_2099",
+      "red_skull",
+      "sentinel",
+      "silver_centurion",
+      "solvarch",
+      "thanos",
+      "the_maker",
+      "ultron_classic",
+      "vision",
+      "vision_age_of_ultron",
+      "vision_deathless",
+      "viv_vision",
+      "yondu"
+    ],
+    "offerer_count": 23,
+    "leverage": 0.782608695652174
+  },
+  {
+    "ability": "Heal Reversal",
+    "archetypes_countered": [
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [],
+    "offerer_count": 0,
+    "leverage": 18.0
+  },
+  {
+    "ability": "Healing Reduction",
+    "archetypes_countered": [
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [],
+    "offerer_count": 0,
+    "leverage": 18.0
+  },
+  {
+    "ability": "Cold Snap",
+    "archetypes_countered": [
+      "incinerate_reliant",
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [],
+    "offerer_count": 0,
+    "leverage": 18.0
+  },
+  {
+    "ability": "Coldsnap",
+    "archetypes_countered": [
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [
+      "iceman",
+      "kate_bishop",
+      "misty_knight",
+      "solvarch",
+      "vision_aarkus"
+    ],
+    "offerer_count": 5,
+    "leverage": 3.6
+  },
+  {
+    "ability": "Degeneration",
+    "archetypes_countered": [
+      "regen_reliant"
+    ],
+    "countered_defenders": [
+      "adam_warlock",
+      "bastion",
+      "chee_ilth",
+      "deadpool",
+      "diablo",
+      "falcon_joaqu_n_torres",
+      "goldpool",
+      "groot",
+      "henchpool",
+      "hulkling",
+      "platinumpool",
+      "rintrah",
+      "sasquatch",
+      "sentinelbot",
+      "superior_iron_man",
+      "toad",
+      "wolverine",
+      "wong"
+    ],
+    "countered_count": 18,
+    "offerers": [
+      "apocalypse",
+      "blade_stellar_forged",
+      "dracula",
+      "ebony_maw",
+      "guillotine",
+      "guillotine_deathless",
+      "isophyne",
+      "kindred",
+      "kingpin",
+      "knull",
+      "kushala",
+      "madelyne_pryor",
+      "mister_negative",
+      "mojo",
+      "mordo",
+      "omega_red",
+      "purgatory",
+      "sauron",
+      "sentinelbot",
+      "the_destroyer",
+      "the_leader",
+      "venom_the_duck",
+      "vox"
+    ],
+    "offerer_count": 23,
+    "leverage": 0.782608695652174
   },
   {
     "ability": "Armor Break",
@@ -505,6 +765,7 @@
       "civil_warrior",
       "colossus",
       "darkhawk",
+      "henchpool",
       "iron_man",
       "iron_patriot",
       "killmonger",
@@ -518,11 +779,12 @@
       "ultron_classic",
       "unstoppable_colossus"
     ],
-    "countered_count": 17,
+    "countered_count": 18,
     "offerers": [
       "air_walker",
       "angela",
       "annihilus",
+      "anti_venomoid",
       "black_bolt",
       "captain_marvel",
       "corvus_glaive",
@@ -555,8 +817,10 @@
       "ronan",
       "scream",
       "sentinel",
+      "sentinelbot",
       "spider_man_classic",
       "spider_man_symbiote",
+      "summoned_symbiote",
       "superior_iron_man",
       "taskmaster",
       "the_champion",
@@ -565,8 +829,8 @@
       "war_machine",
       "yondu"
     ],
-    "offerer_count": 44,
-    "leverage": 0.38636363636363635
+    "offerer_count": 47,
+    "leverage": 0.3829787234042553
   },
   {
     "ability": "Armor Shattered",
@@ -579,6 +843,7 @@
       "civil_warrior",
       "colossus",
       "darkhawk",
+      "henchpool",
       "iron_man",
       "iron_patriot",
       "killmonger",
@@ -592,232 +857,13 @@
       "ultron_classic",
       "unstoppable_colossus"
     ],
-    "countered_count": 17,
+    "countered_count": 18,
     "offerers": [
       "medusa",
       "thanos_deathless"
     ],
     "offerer_count": 2,
-    "leverage": 8.5
-  },
-  {
-    "ability": "Heal Block",
-    "archetypes_countered": [
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [
-      "civil_warrior",
-      "doctor_octopus",
-      "howard_the_duck",
-      "hulk_ragnarok",
-      "kang_the_conqueror",
-      "lady_deathstrike",
-      "mysterio",
-      "omega_sentinel",
-      "proxima_midnight",
-      "psycho_man",
-      "punisher_2099",
-      "red_skull",
-      "sentinel",
-      "silver_centurion",
-      "solvarch",
-      "thanos",
-      "the_maker",
-      "ultron_classic",
-      "vision",
-      "vision_age_of_ultron",
-      "viv_vision",
-      "yondu"
-    ],
-    "offerer_count": 22,
-    "leverage": 0.7272727272727273
-  },
-  {
-    "ability": "Heal Reversal",
-    "archetypes_countered": [
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [],
-    "offerer_count": 0,
-    "leverage": 16.0
-  },
-  {
-    "ability": "Healing Reduction",
-    "archetypes_countered": [
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [],
-    "offerer_count": 0,
-    "leverage": 16.0
-  },
-  {
-    "ability": "Cold Snap",
-    "archetypes_countered": [
-      "incinerate_reliant",
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [],
-    "offerer_count": 0,
-    "leverage": 16.0
-  },
-  {
-    "ability": "Coldsnap",
-    "archetypes_countered": [
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [
-      "iceman",
-      "kate_bishop",
-      "misty_knight",
-      "solvarch",
-      "vision_aarkus"
-    ],
-    "offerer_count": 5,
-    "leverage": 3.2
-  },
-  {
-    "ability": "Degeneration",
-    "archetypes_countered": [
-      "regen_reliant"
-    ],
-    "countered_defenders": [
-      "adam_warlock",
-      "bastion",
-      "chee_ilth",
-      "deadpool",
-      "diablo",
-      "falcon_joaqu_n_torres",
-      "goldpool",
-      "groot",
-      "hulkling",
-      "platinumpool",
-      "rintrah",
-      "sasquatch",
-      "superior_iron_man",
-      "toad",
-      "wolverine",
-      "wong"
-    ],
-    "countered_count": 16,
-    "offerers": [
-      "apocalypse",
-      "dracula",
-      "ebony_maw",
-      "guillotine",
-      "guillotine_deathless",
-      "isophyne",
-      "kindred",
-      "kingpin",
-      "knull",
-      "kushala",
-      "mister_negative",
-      "mojo",
-      "mordo",
-      "omega_red",
-      "purgatory",
-      "sauron",
-      "the_destroyer",
-      "the_leader",
-      "venom_the_duck",
-      "vox"
-    ],
-    "offerer_count": 20,
-    "leverage": 0.8
+    "leverage": 9.0
   },
   {
     "ability": "Ability Accuracy Reduction",
@@ -836,14 +882,161 @@
       "quake",
       "silk",
       "spider_man_classic",
+      "spider_man_pavitr_prabhakar",
       "spider_man_stark_enhanced",
       "spider_punk",
       "ultron_classic"
     ],
-    "countered_count": 13,
+    "countered_count": 14,
     "offerers": [],
     "offerer_count": 0,
-    "leverage": 13.0
+    "leverage": 14.0
+  },
+  {
+    "ability": "Power Lock",
+    "archetypes_countered": [
+      "power_gain_reliant"
+    ],
+    "countered_defenders": [
+      "blade",
+      "blade_stellar_forged",
+      "gladiator",
+      "henchpool",
+      "karolina_dean",
+      "peni_parker",
+      "scarlet_witch",
+      "superior_iron_man",
+      "the_destroyer",
+      "the_serpent",
+      "vision_aarkus",
+      "wong"
+    ],
+    "countered_count": 12,
+    "offerers": [
+      "doctor_octopus",
+      "dormammu",
+      "hulkbuster",
+      "magik",
+      "nebula",
+      "peni_parker",
+      "psylocke"
+    ],
+    "offerer_count": 7,
+    "leverage": 1.7142857142857142
+  },
+  {
+    "ability": "Power Drain",
+    "archetypes_countered": [
+      "power_gain_reliant"
+    ],
+    "countered_defenders": [
+      "blade",
+      "blade_stellar_forged",
+      "gladiator",
+      "henchpool",
+      "karolina_dean",
+      "peni_parker",
+      "scarlet_witch",
+      "superior_iron_man",
+      "the_destroyer",
+      "the_serpent",
+      "vision_aarkus",
+      "wong"
+    ],
+    "countered_count": 12,
+    "offerers": [
+      "captain_america_sam_wilson",
+      "dormammu",
+      "green_goblin",
+      "kang_the_conqueror",
+      "mysterio",
+      "nimrod",
+      "prowler",
+      "psycho_man",
+      "psylocke",
+      "red_skull",
+      "solvarch",
+      "symbiote_supreme",
+      "viv_vision",
+      "warlock"
+    ],
+    "offerer_count": 14,
+    "leverage": 0.8571428571428571
+  },
+  {
+    "ability": "Power Burn",
+    "archetypes_countered": [
+      "power_gain_reliant"
+    ],
+    "countered_defenders": [
+      "blade",
+      "blade_stellar_forged",
+      "gladiator",
+      "henchpool",
+      "karolina_dean",
+      "peni_parker",
+      "scarlet_witch",
+      "superior_iron_man",
+      "the_destroyer",
+      "the_serpent",
+      "vision_aarkus",
+      "wong"
+    ],
+    "countered_count": 12,
+    "offerers": [
+      "doctor_voodoo",
+      "dormammu",
+      "henchpool",
+      "hulkbuster",
+      "iron_man_infamous",
+      "peni_parker",
+      "psylocke",
+      "sentinelbot",
+      "spider_slayer_j_jonah_jameson",
+      "vision",
+      "vision_age_of_ultron",
+      "warlock"
+    ],
+    "offerer_count": 12,
+    "leverage": 1.0
+  },
+  {
+    "ability": "Power Steal",
+    "archetypes_countered": [
+      "power_gain_reliant"
+    ],
+    "countered_defenders": [
+      "blade",
+      "blade_stellar_forged",
+      "gladiator",
+      "henchpool",
+      "karolina_dean",
+      "peni_parker",
+      "scarlet_witch",
+      "superior_iron_man",
+      "the_destroyer",
+      "the_serpent",
+      "vision_aarkus",
+      "wong"
+    ],
+    "countered_count": 12,
+    "offerers": [
+      "black_widow_claire_voyant",
+      "blade_stellar_forged",
+      "doctor_voodoo",
+      "ebony_maw",
+      "enchantress",
+      "kindred",
+      "magik",
+      "mister_sinister",
+      "rogue",
+      "shathra",
+      "spider_man_pavitr_prabhakar",
+      "spiral",
+      "white_tiger"
+    ],
+    "offerer_count": 13,
+    "leverage": 0.9230769230769231
   },
   {
     "ability": "Incinerate Immunity",
@@ -861,9 +1054,10 @@
       "omega_sentinel",
       "peni_parker",
       "sentinel",
+      "sentinelbot",
       "sersi"
     ],
-    "countered_count": 11,
+    "countered_count": 12,
     "offerers": [
       "cosmic_ghost_rider",
       "ghost_rider",
@@ -874,139 +1068,66 @@
       "void"
     ],
     "offerer_count": 7,
-    "leverage": 1.5714285714285714
+    "leverage": 1.7142857142857142
   },
   {
-    "ability": "Power Lock",
+    "ability": "True Strike",
     "archetypes_countered": [
-      "power_gain_reliant"
+      "evade_reliant"
     ],
     "countered_defenders": [
-      "blade",
-      "gladiator",
-      "karolina_dean",
-      "peni_parker",
-      "scarlet_witch",
-      "superior_iron_man",
-      "the_destroyer",
-      "the_serpent",
-      "vision_aarkus",
-      "wong"
+      "enchantress",
+      "mister_fantastic",
+      "nightcrawler",
+      "silk",
+      "spider_man_classic",
+      "spider_man_pavitr_prabhakar",
+      "spider_man_stark_enhanced",
+      "spider_punk",
+      "ultron_classic"
     ],
-    "countered_count": 10,
+    "countered_count": 9,
     "offerers": [
-      "doctor_octopus",
-      "dormammu",
-      "hulkbuster",
-      "magik",
-      "nebula",
-      "peni_parker",
-      "psylocke"
+      "cable",
+      "gamora",
+      "heimdall",
+      "karnak",
+      "killmonger",
+      "odin",
+      "venom"
     ],
     "offerer_count": 7,
-    "leverage": 1.4285714285714286
+    "leverage": 1.2857142857142858
   },
   {
-    "ability": "Power Drain",
+    "ability": "True Accuracy",
     "archetypes_countered": [
-      "power_gain_reliant"
+      "evade_reliant"
     ],
     "countered_defenders": [
-      "blade",
-      "gladiator",
-      "karolina_dean",
-      "peni_parker",
-      "scarlet_witch",
-      "superior_iron_man",
-      "the_destroyer",
-      "the_serpent",
-      "vision_aarkus",
-      "wong"
-    ],
-    "countered_count": 10,
-    "offerers": [
-      "dormammu",
-      "green_goblin",
-      "kang_the_conqueror",
-      "mysterio",
-      "nimrod",
-      "prowler",
-      "psycho_man",
-      "psylocke",
-      "red_skull",
-      "solvarch",
-      "symbiote_supreme",
-      "viv_vision",
-      "warlock"
-    ],
-    "offerer_count": 13,
-    "leverage": 0.7692307692307693
-  },
-  {
-    "ability": "Power Burn",
-    "archetypes_countered": [
-      "power_gain_reliant"
-    ],
-    "countered_defenders": [
-      "blade",
-      "gladiator",
-      "karolina_dean",
-      "peni_parker",
-      "scarlet_witch",
-      "superior_iron_man",
-      "the_destroyer",
-      "the_serpent",
-      "vision_aarkus",
-      "wong"
-    ],
-    "countered_count": 10,
-    "offerers": [
-      "doctor_voodoo",
-      "dormammu",
-      "hulkbuster",
-      "iron_man_infamous",
-      "peni_parker",
-      "psylocke",
-      "vision",
-      "vision_age_of_ultron",
-      "warlock"
-    ],
-    "offerer_count": 9,
-    "leverage": 1.1111111111111112
-  },
-  {
-    "ability": "Power Steal",
-    "archetypes_countered": [
-      "power_gain_reliant"
-    ],
-    "countered_defenders": [
-      "blade",
-      "gladiator",
-      "karolina_dean",
-      "peni_parker",
-      "scarlet_witch",
-      "superior_iron_man",
-      "the_destroyer",
-      "the_serpent",
-      "vision_aarkus",
-      "wong"
-    ],
-    "countered_count": 10,
-    "offerers": [
-      "black_widow_claire_voyant",
-      "doctor_voodoo",
-      "ebony_maw",
       "enchantress",
-      "kindred",
-      "magik",
-      "mister_sinister",
-      "rogue",
-      "shathra",
-      "spiral",
-      "white_tiger"
+      "mister_fantastic",
+      "nightcrawler",
+      "silk",
+      "spider_man_classic",
+      "spider_man_pavitr_prabhakar",
+      "spider_man_stark_enhanced",
+      "spider_punk",
+      "ultron_classic"
     ],
-    "offerer_count": 11,
-    "leverage": 0.9090909090909091
+    "countered_count": 9,
+    "offerers": [
+      "attuma",
+      "bullseye",
+      "kate_bishop",
+      "knull",
+      "m_baku",
+      "mole_man",
+      "proxima_midnight",
+      "the_champion"
+    ],
+    "offerer_count": 8,
+    "leverage": 1.125
   },
   {
     "ability": "Poison Immunity",
@@ -1031,6 +1152,7 @@
       "black_bolt",
       "captain_marvel",
       "captain_marvel_classic",
+      "henchpool",
       "hulk",
       "hulk_ragnarok",
       "medusa",
@@ -1040,69 +1162,15 @@
       "ronan",
       "she_hulk",
       "she_hulk_deathless",
+      "spider_slayer_j_jonah_jameson",
       "the_leader",
       "toad",
+      "vision_deathless",
       "vox",
       "yelena_belova"
     ],
-    "offerer_count": 18,
-    "leverage": 0.5
-  },
-  {
-    "ability": "True Strike",
-    "archetypes_countered": [
-      "evade_reliant"
-    ],
-    "countered_defenders": [
-      "enchantress",
-      "mister_fantastic",
-      "nightcrawler",
-      "silk",
-      "spider_man_classic",
-      "spider_man_stark_enhanced",
-      "spider_punk",
-      "ultron_classic"
-    ],
-    "countered_count": 8,
-    "offerers": [
-      "cable",
-      "gamora",
-      "heimdall",
-      "karnak",
-      "killmonger",
-      "odin",
-      "venom"
-    ],
-    "offerer_count": 7,
-    "leverage": 1.1428571428571428
-  },
-  {
-    "ability": "True Accuracy",
-    "archetypes_countered": [
-      "evade_reliant"
-    ],
-    "countered_defenders": [
-      "enchantress",
-      "mister_fantastic",
-      "nightcrawler",
-      "silk",
-      "spider_man_classic",
-      "spider_man_stark_enhanced",
-      "spider_punk",
-      "ultron_classic"
-    ],
-    "countered_count": 8,
-    "offerers": [
-      "attuma",
-      "bullseye",
-      "kate_bishop",
-      "knull",
-      "mole_man",
-      "proxima_midnight",
-      "the_champion"
-    ],
-    "offerer_count": 7,
-    "leverage": 1.1428571428571428
+    "offerer_count": 21,
+    "leverage": 0.42857142857142855
   },
   {
     "ability": "Shock Immunity",
@@ -1116,9 +1184,10 @@
       "iron_man_infamous",
       "jubilee",
       "shuri",
+      "spider_slayer_j_jonah_jameson",
       "thor_ragnarok"
     ],
-    "countered_count": 7,
+    "countered_count": 8,
     "offerers": [
       "iron_man_infamous",
       "mole_man",
@@ -1127,7 +1196,7 @@
       "terrax"
     ],
     "offerer_count": 5,
-    "leverage": 1.4
+    "leverage": 1.6
   },
   {
     "ability": "Auto-Block",
@@ -1140,20 +1209,23 @@
       "nova",
       "omega_sentinel",
       "peni_parker",
+      "ruby_thursday",
       "scream"
     ],
-    "countered_count": 6,
+    "countered_count": 7,
     "offerers": [
       "arcade",
+      "captain_america_sam_wilson",
       "heimdall",
       "high_evolutionary",
       "nova",
       "omega_sentinel",
       "peni_parker",
+      "ruby_thursday",
       "scream"
     ],
-    "offerer_count": 7,
-    "leverage": 0.8571428571428571
+    "offerer_count": 9,
+    "leverage": 0.7777777777777778
   },
   {
     "ability": "Concussion",

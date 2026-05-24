@@ -572,6 +572,61 @@
     "mechanics": "Anti-Venom inflicts a selection of three Debuffs on the Opponent when reaching a Combo threshold. Once the Opponent has been Debuffed he can choose to consume the Debuffs and turn them into stacks of Fury with his Special 2, which increases his damage output substantially. It is possible to increase the amount of Debuffs Anti-Venom can inflict on the Opponent, which consequently increases the amount of stacks of Fury Anti-Venom can acquire."
   },
   {
+    "title": "Anti-Venomoid",
+    "slug": "anti_venomoid",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Offensive: Damage Over Time",
+      "Offensive: Burst",
+      "Symbiote"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time",
+        "Burst"
+      ],
+      "defensive": [],
+      "size": null,
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Armor Break",
+      "Corrosion",
+      "Rupture",
+      "Precision",
+      "Daunted",
+      "Reinforce",
+      "Guaranteed Critical",
+      "Tranquilize",
+      "Stun",
+      "Trauma",
+      "Fury",
+      "Protection",
+      "Amplify",
+      "Neutralize"
+    ],
+    "immunities": [],
+    "signature_ability": "Anti-Symbiosis",
+    "release_date": "October 8, 2025",
+    "portrait_file": null,
+    "featured_file": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "Eddie Brock with his Anti-Venom symbiote have been battling many Champions in the Battlerealm for a long time. In some of these fights, here and there, bits of his symbiote have been cut off and split from the main symbiote. Slowly, over time, these small symbiote pieces found new hosts and bonded with them, absorbing their powers and skills to form a new brand of Anti-Venomoids.",
+    "mechanics": ""
+  },
+  {
     "title": "Apocalypse",
     "slug": "apocalypse",
     "class": "Mutant",
@@ -1441,6 +1496,57 @@
     "mechanics": ""
   },
   {
+    "title": "Blade (Stellar-Forged)",
+    "slug": "blade_stellar_forged",
+    "class": "Mystic",
+    "tags_raw": [
+      "Defensive: Utility",
+      "Hero",
+      "Size: M",
+      "Silver",
+      "Stellar-Forged",
+      "Mighty Avengers"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Silver",
+        "Stellar-Forged",
+        "Mighty Avengers"
+      ]
+    },
+    "abilities": [
+      "Stun",
+      "Atrophy",
+      "Nullify",
+      "Power Gain",
+      "Degeneration",
+      "Torment",
+      "Power Steal"
+    ],
+    "immunities": [],
+    "signature_ability": "Enhanced Vampiric Immortality",
+    "release_date": "May 4, 2026",
+    "portrait_file": "Blade (Stellar-Forged) portrait.png",
+    "featured_file": "Blade (Stellar-Forged) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "As Isophyne scoured the Battlerealm for a hero to bestow the Founders\u2019 ascendant strength, she discovered Eric Brooks: a revered hunter of magical beings in the Contest. When Blade\u2019s dhampiric physiology was imbued with the Founders\u2019 ancient power, his superhuman senses that allowed him to hunt supernatural foes, now allowed him to peer into the cosmos itself. With this newfound power, Blade became the perfect weapon in Isophyne\u2019s plan to strike back against the godlike Eidols.",
+    "mechanics": "As Blade makes his return, he\u2019s sporting some new and familiar mechanics. Danger Sense is back, this time lowering buff duration and nullifying pesky True Buffs. While Blade has been known for his deadly Bleed Debuffs in The Contest thus far, our Stellar-Forged friend prefers melting health bars with Degeneration! And in true Mystic fashion, his Power gaining abilities are through the roof, now feeding off nearby Degenerating foes.\n\nOn top of everything, Blade\u2019s Fractured Power Bar makes excellent use of the flood of power that is sure to come his way."
+  },
+  {
     "title": "Blue Marvel",
     "slug": "blue_marvel",
     "class": "Science",
@@ -1681,6 +1787,51 @@
     "mechanics": ""
   },
   {
+    "title": "Captain America (Sam Wilson)",
+    "slug": "captain_america_sam_wilson",
+    "class": "Tech",
+    "tags_raw": [
+      "Control: Denial",
+      "Hero",
+      "Avengers",
+      "Mighty Avengers",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Hero",
+        "Avengers",
+        "Mighty Avengers"
+      ]
+    },
+    "abilities": [
+      "Armor",
+      "Auto-Block",
+      "Power Drain",
+      "Rupture"
+    ],
+    "immunities": [],
+    "signature_ability": "Vibranium Enhanced Exo-8 Falcon",
+    "release_date": "February 18th, 2022",
+    "portrait_file": "Captain America (Sam Wilson) portrait.png",
+    "featured_file": "Captain America (Sam Wilson) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Sam Wilson, formerly known as the Falcon, took the mantle of Captain America when his friend and mentor Steve Rogers went into retirement. At first Sam gave the Shield away, believing that the legacy belonged to Steve alone, but when world peace and stability was threatened by Super Soldiers, he decided to accept the title of Captain America and make a stand for what he believed was right.",
+    "mechanics": "Captain America (Sam Wilson) wants to remain Locked-On the Opponent for as long and as often as possible. Locked-On pauses the Debuffs from his Special 1 which helps keep the Debuffs up all the way to Special 2. Armor Ups also increase the damage of his Special 2, so he also wants to make sure to build up as many of those as possible to maximize the potential damage of a Special 2 attack."
+  },
+  {
     "title": "Captain America (WWII)",
     "slug": "captain_america_wwii",
     "class": "Science",
@@ -1914,6 +2065,52 @@
     },
     "bio": "Cletus Kasady was a serial killer from Brooklyn, psychotic and depraved from an early age. As a cellmate of Eddie Brock's, he bonded with a spawn of the Venom Symbiote during a prison break, and merged into a single twisted being. Kasady and the Symbiote would go on a killing spree, earning them their name: Carnage. With the Symbiote amplifying Kasady's psychotic tendencies, there\u2019s no telling how deep their acts of depravity will plunge.",
     "mechanics": ""
+  },
+  {
+    "title": "Cassandra Nova",
+    "slug": "cassandra_nova",
+    "class": "Mutant",
+    "tags_raw": [
+      "Ofefnsive: Damage Over Time",
+      "Villain",
+      "Psychic Shielding",
+      "Size: S"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Ofefnsive: Damage Over Time",
+        "Villain",
+        "Psychic Shielding"
+      ]
+    },
+    "abilities": [
+      "Fear",
+      "Stun",
+      "Daunted",
+      "Neuroshock",
+      "Root",
+      "Regeneration",
+      "Reverse Controls"
+    ],
+    "immunities": [],
+    "signature_ability": "Mummudrai",
+    "release_date": "August 28, 2025",
+    "portrait_file": "Cassandra Nova portrait.png",
+    "featured_file": "Cassandra Nova featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "A Mummudrai is a spiritual manifestation of a person\u2019s negative potential that exists in the astral plane and cannot usually take physical form, but Charles Xavier\u2019s immense psionic power caused his Mummudrai to manifest as a twin sister alongside him in the womb. Sadly, this sister did not survive long, and the Xaviers had no idea that she ever existed. But somehow she survived, and rebuilt herself on the microscopic level over the decades. Now wielding psionic power that mirrors the mighty Professor X, this Mummudrai takes the name \u201cCassandra Nova\u201d and seeks to follow in her brother\u2019s footsteps\u2026 and destroy everything he has built.",
+    "mechanics": "Cassandra Nova is a potent Mutant Attacker with strong Defensive potential that uses her psionic might to bring her Opponent to their knees. Cassandra mirrors a number of Professor X\u2019s abilities, but warps them to suit her own sinister needs. For example, she also Channels during her Heavy charge and while recovering from Special Attacks, but inflicts Daunted Passives while doing so. Carefully weave Heavy Attacks between Special Attacks to also pile on Neuroshock and Root, to watch your helpless Opponent\u2019s Health melt away."
   },
   {
     "title": "Cassie Lang",
@@ -2564,6 +2761,54 @@
     "mechanics": "The Daredevil (Hell\u2019s Kitchen) can deal massive Bleed and Critical damage, through managing your combo and using his abilities to shrug off debuffs dip and dive through the fight to punish your opponent."
   },
   {
+    "title": "Dark Phoenix",
+    "slug": "dark_phoenix",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Villain",
+      "Size: S",
+      "Flying",
+      "Psychic Shielding"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Villain",
+        "Flying",
+        "Psychic Shielding"
+      ]
+    },
+    "abilities": [
+      "Ember Charge",
+      "Safeguard",
+      "Immortality",
+      "Nova Flame",
+      "Unstoppable",
+      "Power Gain"
+    ],
+    "immunities": [],
+    "signature_ability": "Ease into Darkness",
+    "release_date": "May 7, 2025",
+    "portrait_file": "Dark Phoenix portrait.png",
+    "featured_file": "Dark Phoenix featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "Yes (exclusive)",
+      "tier4": "Yes (exclusive)",
+      "tier5": "Yes (exclusive)",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "After the \"death\" of her beloved Scott Summers, Jean Grey's will had been utterly broken, leaving her psyche little chance to control the ever growing Phoenix inside her. Upon allowing human emotions to cloud its judgment, the Phoenix became the Dark Phoenix, allowing evil intent to influence decisions. It's in this state that Phoenix is at her strongest, but unable to control the unquenchable thirst for power and destruction.",
+    "mechanics": "Dark Phoenix has a lot of effects that help with both her Damage and Survivability. There are things like her Ember Charges, which increase the potency of her Nova Flame. Also her Fury, increasing her Attacks, and in some cases, improving her Nova Flame (as an Attacker). These help ramp up her damage numbers over time, as they require build up. Effects like Safeguard, Unstoppable, and Immortality help bolster her defensive abilities, allowing her to draw out the fight if not dealt with properly. Safeguard and Unstoppable can be more of a constant threat, where Immortality only triggers once, upon dealing her what would be a Knock Out blow."
+  },
+  {
     "title": "Darkhawk",
     "slug": "darkhawk",
     "class": "Tech",
@@ -2793,6 +3038,53 @@
     },
     "bio": "An unrivaled alchemist and a member of Spanish nobility, Esteban Corazon de Ablo uses his arcane concoctions to lengthen his life, incinerate his foes and more. Driven by an unending desire to become as powerful as a god, Diablo now finds himself in the Contest hoping to secure the ISO-Sphere for his continued experimentation. Ambition pushes the Spanish nobleman to acquire power at all costs, and very few heroes can, or will, stand in his way.",
     "mechanics": "The King of potions has returned to The Contest with a fresh face! Using his Special 2 and Special 1, combined with Medium 2 and Heavy Attack, stack as many Poisons as you can on the opponent for some massive damage over time! His brand new Pre-fights give Diablo pin-point precision on what kind of utility he needs at the drop of a hat!"
+  },
+  {
+    "title": "Doctor Bong",
+    "slug": "doctor_bong",
+    "class": "Skill",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Villain",
+      "Metal",
+      "Size: L"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Villain",
+        "Metal"
+      ]
+    },
+    "abilities": [
+      "Nullify Immunity",
+      "Purify",
+      "Guaranteed Critical Hits",
+      "Reverb",
+      "Panic"
+    ],
+    "immunities": [
+      "Nullify"
+    ],
+    "signature_ability": "Ask Not For Whom the Bong Tolls",
+    "release_date": "April 30, 2026",
+    "portrait_file": "Doctor Bong portrait.png",
+    "featured_file": "Doctor Bong featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "Once a mere mortal man, Lester Verde overcame trials both large and inconvenient to become the mere mortal man, Doctor Bong! A supervillain without parallel, Doctor Bong is also a supergenius with advanced knowledge of genetic engineering. Whether protecting his Bong Quintuplets (five miniature clones of himself), or striving to obtain untold powers via his Cosmic Bong, Doctor Bong\u2019s adventures always end with him on top (or they would, if not for those meddling do-gooders like Howard the Duck)!",
+    "mechanics": "Big, bold, bong; the powers of Doctor Bong are as potent as they are prolific. Making use of his proprietary bong-based technologic wizardry and his own innate physical perfection, Doctor Bong excels at bashing his head into his foes. Building ambient reverberations with repeated Special Attacks increases the devastating power of his Heavy Attacks, but beware! Much like Ikaris flying too close to (or directly into) the sun, the more Reverbs Doctor Bong builds, the harder it will be for even his genius to maintain such overwhelming brilliance."
   },
   {
     "title": "Doctor Doom",
@@ -4625,6 +4917,74 @@
       "tier7": "No"
     },
     "bio": "A creature from a primordial and sinister era of the universe, Hela's power is unlike anything else in the Nine Realms. Armed with the ability to unleash unlimited weapons in astounding and deadly ways, Hela seeks vengeance against those who imprisoned her eons ago, ushering in a new era of cold brutality for Asgard and the universe at large.",
+    "mechanics": ""
+  },
+  {
+    "title": "Henchpool",
+    "slug": "henchpool",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Defensive: Utility",
+      "Size: M",
+      "Defensive: Tank",
+      "Offensive: Raw Damage",
+      "Size: S",
+      "Offensive: Damage Over Time",
+      "Size: L",
+      "Size: XL",
+      "Control: Counter",
+      "Rising Power",
+      "Villain"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Utility",
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Control: Counter",
+        "Rising Power",
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Armor Break Immunity",
+      "Fury",
+      "Armor",
+      "Power Burn",
+      "Regeneration",
+      "Prowess",
+      "Purify",
+      "Bleed",
+      "Poison Immunity",
+      "Resist Physical",
+      "Physical Vulnerability",
+      "Power Gain",
+      "Nullify"
+    ],
+    "immunities": [
+      "Armor Break",
+      "Poison"
+    ],
+    "signature_ability": "{{C}} Sunder Strikes<br>{{Te}} Hypersonic Aura<br>{{Mu}} Overrun<br>{{Sk}} Final Push<br>{{Sc}} Toxic Aura<br>{{My}} Life Leech",
+    "release_date": "November 13th, 2024",
+    "portrait_file": null,
+    "featured_file": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes (exclusive)",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "Henchpools are a wholly original creation from the fine minds at Deadpool Labs LLC. Any Similarity between them and any other cosmic or cloned creatures is entirely coincidental and possibly breaks canon. Original Character. Please do not steal.",
     "mechanics": ""
   },
   {
@@ -7002,6 +7362,52 @@
     "mechanics": "Lumatrix is an evasive Skill Attacker that manipulates light itself to bamboozle their Opponent and swiftly devastate them while they are vulnerable. As the second Eidol to enter The Contest, they inherit the unique Fractured Power Bar previously seen on Isophyne making them more focused on throwing rapid Special Attacks than a typical Skill Champion. Their unique use of both Evade and Invisibility allows them to slip through the Opponent\u2019s offense, especially once they have built up a few Cunning Passives to deliver big Critical Hits."
   },
   {
+    "title": "M'Baku",
+    "slug": "m_baku",
+    "class": "Skill",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Hero",
+      "Wakandan",
+      "Size: L"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "L",
+      "other": [
+        "Hero",
+        "Wakandan"
+      ]
+    },
+    "abilities": [
+      "Fury",
+      "Bleed",
+      "Unstoppable",
+      "Combo Shield",
+      "True Accuracy",
+      "Purify"
+    ],
+    "immunities": [],
+    "signature_ability": "The Fearless One",
+    "release_date": "February 12, 2026",
+    "portrait_file": "M'Baku portrait.png",
+    "featured_file": "M'Baku featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "M\u2019Baku, the charismatic and formidable leader of the Jabari Tribe, is one of Wakanda\u2019s most powerful warriors and a frequent rival of T'Challa. He is a traditionalist, a worshipper of the White Gorilla, Ghekre, living with his tribe in the isolated mountains away from the rest of Wakanda due to ideological differences. He and his tribe reject the technological progress embraced by T\u2019Challa\u2019s leadership. Though often seen challenging T\u2019Challa\u2019s rule, ultimately his motivations stem from a deep belief in maintaining Wakanda\u2019s ancient traditions.",
+    "mechanics": "M\u2019Baku\u2019s gameplay loop involves a set up and cash out moment, where he wants to accumulate as much damage as he can while Unstoppable, before firing off a devastating Special Attack 2. Proper board placement becomes crucial when trying to kick start his gameplay loop, as M\u2019Baku needs distance between him and the Opponent to comfortably gain his main personal Fury. Upon activation, his kit loop opens up, allowing for new gameplay effects to be triggered and Quality of Life features to be unlocked, which ease his gameplay ramp."
+  },
+  {
     "title": "M.O.D.O.K.",
     "slug": "m_o_d_o_k",
     "class": "Science",
@@ -7046,6 +7452,57 @@
     },
     "bio": "The terrifying result of an unspeakable experiment, M.O.D.O.K. is a grotesque mastermind bent on the destruction of the world. As the sometimes-leader of A.I.M., the Mechanized Organism Designed Only for Killing has tangled many times with his foes, Captain America and the Avengers.",
     "mechanics": "M.O.D.O.K excels in playing safe on defense with his all powerful Auto-Block. On Attack he\u2019ll be chasing, placing tons of Damaging Debuffs on the opponent via his Special 2, and Heavy attacks. With his new Signature Ability, he\u2019s even more aggressive with Damage Over Time application, and more threatening with the new ability to Parry attached to his Auto-Block."
+  },
+  {
+    "title": "Madelyne Pryor",
+    "slug": "madelyne_pryor",
+    "class": "Mystic",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Defensive: Guard",
+      "Villain",
+      "Flying",
+      "Metal",
+      "Size: S",
+      "Dimensional Being"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Villain",
+        "Flying",
+        "Metal",
+        "Dimensional Being"
+      ]
+    },
+    "abilities": [
+      "Misery",
+      "Degeneration",
+      "Hinder",
+      "Inexorable"
+    ],
+    "immunities": [],
+    "signature_ability": "The Goblin Queen",
+    "release_date": "March 26, 2026",
+    "portrait_file": "Madelyne Pryor portrait.png",
+    "featured_file": "Madelyne Pryor featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Madelyne Pryor is the current ruler of the hellish dimension known as Limbo. Now a powerful mutant and sorcerer, she was originally set on this dark path by the realization that she is actually a clone of Jean Grey created by the loathsome Mister Sinister. Furthering this tragic fall was her whirlwind relationship with Scott Summers ending with him leaving her and their child to pursue the very same Jean Grey, once thought dead. On her best days, Madelyne is plagued by a fractured sense of identity. On her worst, she fights against Scott and the X-Men as the Goblin Queen!",
+    "mechanics": "The Goblin Queen of Limbo is ready to rule The Contest!\n\nMadelyne Pryor uses her Scythe of Sorrows to punish the Opponent\u2019s moves and imbue them with Misery Buffs, which have no effect, but do have a potency which multiplies for each other copy of themselves. After all, misery loves company.\n\nIt turns out that the denizens of Limbo also love misery, and Madelyne can summon them by opening a pit in the earth using her Special Attack 2. The resulting chasm of clawing arms Hinders the Opponent, reducing the potency of their Buffs, and aids Madelyne by preventing her from being pushed out of the pit.\n\nMadelyn\u2019s Force Field absorbs all damage taken from blocking attacks, which gives her the option of holding her block to lure the Opponent into using Heavy Attacks and interrupting them to rapidly build Misery.\n\nFor Madelyne\u2019s Opponent, gaining a Buff while Hindered can be deadly, as any missing potency from a Buff they gain is inflicted on them as a Degeneration Passive. Not all Buffs have a potency, for those that do, Madelyne will want to hunt the biggest, baddest among them to inflict some truly outrageous Degenerations."
   },
   {
     "title": "Maestro (Cosmic)",
@@ -9186,6 +9643,53 @@
     "mechanics": "Photon is all about Debuffing her Opponent, building her connection to the Electromagnetic Spectrum, and finally unleashing her Pure Light Form to utterly overwhelm their defenses. She has multiple potent tools for chasing down dangerous mystic defenders, including the ability to Parry Non-Contact attacks and strong counters to Miss mechanics."
   },
   {
+    "title": "Pixie",
+    "slug": "pixie",
+    "class": "Mutant",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Hero",
+      "Flying",
+      "Size: S",
+      "X-Men"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Flying",
+        "X-Men"
+      ]
+    },
+    "abilities": [
+      "Sleep",
+      "Oshtur's Refusal",
+      "Neuroshock",
+      "Prowess",
+      "Power Efficiency"
+    ],
+    "immunities": [],
+    "signature_ability": "Heart and Soul",
+    "release_date": "March 12, 2026",
+    "portrait_file": "Pixie portrait.png",
+    "featured_file": "Pixie featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Megan Gwynn\u2019s powers allow her to share charming Pixie-Dust hallucinations such as pink unicorns and rainbows. However her iridescent wings are no illusion. Not everything is sunshine and glitter for this mutant spellcaster, her story is one of literal soul-splitting loss. Having had her soul converted into a dagger by Illyana Rasputin, she lost a piece of herself and gained access to powerful dark magic. Her favorite spell being the teleportation incantation \u201cSihal Novarum Chinoth\u201d. This darkness has not dimmed Megan\u2019s smile, sparkling personality, or fierce protection of her friends. She continues to learn more magic, more skills, and more ways to make the best out of bad situations.",
+    "mechanics": "Pixie loves her wide assortment of spells that she\u2019s been building up in the contest. Players will want to utilize her Counter-Evade followed by a Heavy Attack to cast Mists of Morpheus and Oshtur\u2019s Refusal. These Spells will build up Soul Wisps in addition to power as you make your way to 2 Bars of Power. You\u2019ll then want to use Special 2 to convert Soul Wisps into Prowess, paired with numerous Special 1s that inflict Neuroshocks based on the Special Damage from the Prowess that can lead to incredible damage. If Pixie ever finds herself in a matchup where she can\u2019t use her Prowess or Neuroshocks, she can also utilize her Special 3 to convert Soul Wisps into Attack Rating to deal massive damage that way."
+  },
+  {
     "title": "Platinumpool",
     "slug": "platinumpool",
     "class": "Mutant",
@@ -10168,6 +10672,48 @@
     "mechanics": "Ronin is an offensive damage dealer who specializes in Bleeds and Critical Hits. He also has access to three unique Stances that allow him to quickly switch combat abilities in the heat of battle. Each Stance provides Ronin with either improved Blocking, Offensive Utility, or bonus Bleed Damage. Ronin gains bonus Critical Damage when moving through each of the Stances and will be able to strategically Evade enemy attacks when he is at his deadliest.\n\nApply Bleed Debuffs by striking into your opponents. Prepare Ronin\u2019s stances, and build up his Cruelty effects for a massive Attack and Critical Rating boost! Expertly Evade your opponent\u2019s strikes to gain even more Attack Rating and strike when the time is right."
   },
   {
+    "title": "Ruby Thursday",
+    "slug": "ruby_thursday",
+    "class": "Tech",
+    "tags_raw": [
+      "Defensive: Guard",
+      "Villain",
+      "Size: S"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Guard"
+      ],
+      "size": "S",
+      "other": [
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Rupture",
+      "Disintegrate",
+      "Auto-Block",
+      "Special Lock"
+    ],
+    "immunities": [],
+    "signature_ability": "Enhanced Organic Circuitry",
+    "release_date": "April 16, 2026",
+    "portrait_file": "Ruby Thursday portrait.png",
+    "featured_file": "Ruby Thursday featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "The origin of Thursday Rubinstein\u2019s powers is unknown, but what is known is that once she augmented her head with a mass of organic circuitry, she joined the Headmen, a group of megalomaniac villains with crazy heads. Together, Ruby and the Headmen seek world domination, though sometimes they do so through non-violent methods.",
+    "mechanics": "Ruby\u2019s main damage source is her Special Attack 2, but this Special can only be activated while Organic Circuitry is active, which is accessed through her Special 1. Once Organic Circuitry is up, you need to rush to 2 Bars of Power, but only activate the Special 2 when Organic Circuitry is about to expire, in order to maximize Ruby\u2019s damage potential."
+  },
+  {
     "title": "Sabretooth",
     "slug": "sabretooth",
     "class": "Mutant",
@@ -10597,6 +11143,77 @@
     },
     "bio": "Although the Sentinels were created by a Mutant elite, who had the goal of controlling the Champions of The Contest, 100 years in the future, they rebelled; killed their creator and subsequently engineered a way into the present day. The Mark-ISO evolved from these rogue Sentinels, adapting to the ISO-8 rich environment of the current Contest. Powered by an ISO fusion engine, the Mark-ISO Sentinel can quell any uprising within The Contest with extreme prejudice.",
     "mechanics": "Analysis Charges are the key to Sentinel\u2019s kit, as it gains a considerable amount of power and damage mitigation at full ramp. An attacking Sentinel will want to make use of the Intimidate Debuff from its Heavy Attack to ramp Analysis Charges. Anyone fighting a Defending Sentinel will want to prevent Sentinel from reaching 100 Analysis charges, and will most certainly want to keep an eye out for the Armor Up Buffs from its Signature Ability!"
+  },
+  {
+    "title": "Sentinelbot",
+    "slug": "sentinelbot",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Defensive: Tank",
+      "Offensive: Damage Over Time",
+      "Control: Counter",
+      "Villain",
+      "Metal",
+      "Robot",
+      "Size: XL"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage",
+        "Damage Over Time"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Control: Counter",
+        "Villain",
+        "Metal",
+        "Robot"
+      ]
+    },
+    "abilities": [
+      "Robotics",
+      "Reverb",
+      "Pierce",
+      "Armor Break",
+      "Corrosion",
+      "Armor Up",
+      "Rupture",
+      "Invalidate",
+      "Power Burn",
+      "Regeneration",
+      "Daunted",
+      "Bleed",
+      "Neuroshock",
+      "Precision",
+      "Purify",
+      "Fragility",
+      "Incinerate",
+      "Wither",
+      "Trauma",
+      "Fury",
+      "Nullify",
+      "Degeneration"
+    ],
+    "immunities": [],
+    "signature_ability": "Adaptive Matrix",
+    "release_date": "October 8, 2025",
+    "portrait_file": null,
+    "featured_file": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "Originally built to protect humans by eliminating Mutantkind, time spent in the Battlerealm had unforseen effects on the Sentinels. Constantly being pitted against the wide variety of Champions in the Contest caused the Sentinels' base programming to evolve, as they started to see threats to homo sapiens beyond just homo superior. Now the Sentinels have self-modified themselves into an army of unique Sentinelbots with a new prime directive: \"Apprehend and destroy all Champions.\"",
+    "mechanics": ""
   },
   {
     "title": "Sentry",
@@ -11504,6 +12121,54 @@
     "mechanics": "Miles, and anyone hoping to master his playstyle will learn the ins and outs of being a hero. Master using basic combos, dodge attacks, and blocking the opponent to gain bonuses through the fight! Use Miles\u2019 full arsenal to apply as many Debuffs on the opponent as possible and deal some massive damage with his Special 2!"
   },
   {
+    "title": "Spider-Man (Pavitr Prabhakar)",
+    "slug": "spider_man_pavitr_prabhakar",
+    "class": "Mystic",
+    "tags_raw": [
+      "Offensive: Burst",
+      "Defensive: Utility",
+      "Hero",
+      "Spider-Verse Heroes",
+      "Size: S"
+    ],
+    "tags": {
+      "offensive": [
+        "Burst"
+      ],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "S",
+      "other": [
+        "Hero",
+        "Spider-Verse Heroes"
+      ]
+    },
+    "abilities": [
+      "Evade",
+      "Power Steal",
+      "Neutralize",
+      "Spider-Seal",
+      "Marked"
+    ],
+    "immunities": [],
+    "signature_ability": "Seshnag",
+    "release_date": "November 27, 2025",
+    "portrait_file": "Spider-Man (Pavitr Prabhakar) portrait.png",
+    "featured_file": "Spider-Man (Pavitr Prabhakar) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Pavitr Prabhakar was born and raised in the vibrant but gridlocked city of Mumbattan. Granted magical spider powers by a shaman and guided by the moral lessons of his Aunt Maya and late uncle Bhim, he has assumed the heroic mantle of Spider-Man. Though succeeding at school, saving small animals, and fighting crime while dating the daughter of a police chief would prove a heavy burden to most, Pavitr strikes the balance almost effortlessly. These model heroics led to his early induction into Miguel O\u2019Hara\u2019s Spider-Society. When the Spot invades his city and causes a disaster, Pavitr gets a painful look at the darker sides of his new life, ultimately leading him to join the Spider-Gang and search for a better way forward for the multiverse.",
+    "mechanics": "Pavitr is a master of controlling the battlefield, able to web up his Opponent with Spider-Seals regardless of where he engages them. He regularly steals power and uses it to replace the Opponent\u2019s Buffs with his own, stripping away defenses and then going for the KO with a massive burst of damage."
+  },
+  {
     "title": "Spider-Man (Stark Enhanced)",
     "slug": "spider_man_stark_enhanced",
     "class": "Tech",
@@ -11783,6 +12448,62 @@
     "mechanics": "Spider-Punk\u2019s gameplay is centered around two core mechanics: Intercepts and his Special 2 Timing minigame. By performing his counter-evade on a well-timed block, Punk gains a new Counter-Attack Evade whenever struck when mistiming intercepts, allowing you to go bananas with your intercepts. You\u2019ll want to intercept the opponent to inflict Physical Vulnerabilities which then power up your Ruptures inflicted with Special 2."
   },
   {
+    "title": "Spider-Slayer (J. Jonah Jameson)",
+    "slug": "spider_slayer_j_jonah_jameson",
+    "class": "Tech",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Defensive: Tank",
+      "Metal",
+      "Villain",
+      "Size: XL"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [
+        "Tank"
+      ],
+      "size": "XL",
+      "other": [
+        "Metal",
+        "Villain"
+      ]
+    },
+    "abilities": [
+      "Bleed Immunity",
+      "Poison Immunity",
+      "Shock",
+      "Fury",
+      "Obfuscate",
+      "Austere Armor Up",
+      "Slow",
+      "Falter",
+      "Power Burn",
+      "Cowardice"
+    ],
+    "immunities": [
+      "Bleed",
+      "Poison"
+    ],
+    "signature_ability": "Cowards Hide Behind Masks",
+    "release_date": "January 15, 2026",
+    "portrait_file": "Spider-Slayer (J. Jonah Jameson) portrait.png",
+    "featured_file": "Spider-Slayer (J. Jonah Jameson) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "J. Jonah Jameson, editor-in-chief at the world renowned Daily Bugle. This no-nonsense journalist fights to bring the truth to readers and strike fear into foes! He ensures that those who seek to rip or corrupt the fabric of society are held responsible for their actions. Sometimes he must handle that duty personally by commissioning a Spider-Slayer mech suit to even the playing field. With tech and tenacity on Jonah\u2019s side, that weirdo web-slinging masked-menace Spider-Man can be brought to justice!",
+    "mechanics": "Spider-Slayer (J. Jonah Jameson) has brought his skills from the newsroom into the Contest! Just like at the Daily Bugle, he shouts out Headlines to benefit himself such as gaining Armor Ups and inflicting Slow. He\u2019s also equipped his Spider-Slayer with a camera to get pictures of menaces and blinding them with a flash to take advantage as they miss their attacks."
+  },
+  {
     "title": "Spider-Woman (Jessica Drew)",
     "slug": "spider_woman_jessica_drew",
     "class": "Science",
@@ -12020,6 +12741,52 @@
     "mechanics": "Star-Lord requires keeping his combo for maximum damage. Build Star-Lord\u2019s combo and launch his Special 2 for maximum damage! Star-Lord can even out damage the Regeneration Rate of the Kang Boss in the Back Issues \u2013 specifically Variant 3!"
   },
   {
+    "title": "Star-Lord (Stellar-Forged)",
+    "slug": "star_lord_stellar_forged",
+    "class": "Skill",
+    "tags_raw": [
+      "Offensive: Damage Over Time",
+      "Hero",
+      "Size: M",
+      "Stellar-Forged",
+      "Guardians of the Galaxy"
+    ],
+    "tags": {
+      "offensive": [
+        "Damage Over Time"
+      ],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Hero",
+        "Stellar-Forged",
+        "Guardians of the Galaxy"
+      ]
+    },
+    "abilities": [
+      "Combo Shield",
+      "Persistent Cruelty",
+      "Vulnerability",
+      "Critical Incinerate"
+    ],
+    "immunities": [],
+    "signature_ability": "The Founder\u2019s Skillful Awakening",
+    "release_date": "January 29, 2026",
+    "portrait_file": "Star-Lord (Stellar-Forged) portrait.png",
+    "featured_file": "Star-Lord (Stellar-Forged) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "When Peter Quill made the decision to take on the power offered to him by the ancient Founders of The Contest, he expected his Spartax heritage to grow in strength. Instead, his human half was enhanced, granting Star-Lord lightning reflexes and extremely minute control over his Element Gun\u2019s functionality. But the question remains: will that be enough to survive the battle on the horizon?",
+    "mechanics": "Star-Lord has been enhanced by the ancient power of the Founders, unlocking his hidden potential as a Skill Champion. Just like the classic Star-Lord, his Stellar-Forged cousin is powered up by his Combo Meter, this time increasing his Critical Damage Rating.\n\nOver the course of the fight, Star-Lord will fire his trusty Element Gun in each of the four elements: Earth, Fire, Water and Air, conjuring up a lethal combination of effects."
+  },
+  {
     "title": "Storm",
     "slug": "storm",
     "class": "Mutant",
@@ -12155,6 +12922,84 @@
     },
     "bio": "A child was created as a clone of infant \u201cNathan Summers\u201d in the hopes of salvaging his techno-organic virus ravished body. Thinking this child to be Nathan, Apocalypse kidnapped him and raised him as his own, giving him the name \u201cStryfe\u201d and encouraging the boy's arrogance and cruelty in preparation to one day transfer his own consciousness into Stryfe\u2019s body. Years later, during the ritual of transferring Apocalypse's mind into Stryfe, it was discovered that he was actually a clone and thus unfit to house the essence of Apocalypse. Feeling betrayed by both what he thought were his real parents and his adoptive father Apocalypse, Stryfe grew up as an embittered madman seeking vengeance on those who wronged him.",
     "mechanics": "Stryfe uses Heavy Attacks and his Invisibility Cloak to build Telepathic Charges, using these as a resource in his kit! With these charges, he is able to Concuss the opponent, block Unblockable attacks, stun Unstoppable opponents, glance incoming attacks, or ramp his damage potential! Telepathic Charges can also be stored as a persistent charge to carry throughout the quest by using Special Attack 3 or by winning a fight! All of this makes him a great option for really long and extreme fights like those found in the Abyss!"
+  },
+  {
+    "title": "Summoned Symbioid",
+    "slug": "summoned_symbioid",
+    "class": "Combined",
+    "tags_raw": [
+      "Symbiote",
+      "Size: M"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Bleed",
+      "Precision"
+    ],
+    "immunities": [],
+    "signature_ability": "Doesn't Play Well With Others",
+    "release_date": "October 2nd, 2018",
+    "portrait_file": "Summoned Symbioid portrait.png",
+    "featured_file": "Summoned Symbioid featured.png",
+    "tiers": {
+      "tier1": "Yes (exclusive)",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "Symbioids have existed in the Contest for quite some time! Half sinister Symbiote and half Adaptoid, they're usually seen serving as grunts for anyone twisted enough to take them under their wing. This one seems... different, however. While usually quite vicious and threatening, this Symbioid seems to have taken quite a liking to you! But make no mistake, it's still just as dangerous. Maybe it just wants a friend?\n\nThis Symbioid works differently than other Champions. The Summoned Symbioid can only be ranked up with KLYNTAR KATALYSTS and does not have any additional levels. Ranking up will significantly increase the Health of your Symbioid. The Symbioid has a few baseline abilities, but to upgrade it's powers you'll need to acquire KLYNTAR STRANDS which can be used to buy SYMBIOTIC ENHANCEMENTS to give your Summoned Symbioid new and powerfull abilities. These abilities will ONLY work in the \"Blood and Venom: Symbiomancer\" quest.",
+    "mechanics": ""
+  },
+  {
+    "title": "Summoned Symbiote",
+    "slug": "summoned_symbiote",
+    "class": "Combined",
+    "tags_raw": [
+      "Defensive: Utility",
+      "Size: L",
+      "Symbiote"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [
+        "Utility"
+      ],
+      "size": "L",
+      "other": [
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Bleed",
+      "Weakness",
+      "Armor Break"
+    ],
+    "immunities": [],
+    "signature_ability": null,
+    "release_date": "October 6th, 2021",
+    "portrait_file": "Summoned Symbiote portrait.png",
+    "featured_file": "Summoned Symbiote featured.png",
+    "tiers": {
+      "tier1": "Yes (exclusive)",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "Though the alien combination of Symbiote and Adaptoid is well known in the Battlerealm, never before has it been witnessed in a form that was anything other than antagonistic towards Summoners. Unlike other Symbioids, this one displays the curious ability to mutate its cells freely, allowing it to adapt to its environment with ease. Knull's entry into The Battlerealm caused most Symbioids to return to their master's side, but through uncertain means this specimen retained a will entirely its own. While its motives are not fully clear, the Summoned Symbioid appears drawn to Summoners, and enjoys a friendly, collaborative relationship with them.",
+    "mechanics": ""
   },
   {
     "title": "Sunspot",
@@ -12294,6 +13139,52 @@
     },
     "bio": "Tony Stark has always had an impressive ego, but following an inversion spell during the \"\" event which brought out the worst aspects of his personality, he moved to San Francisco with a new brand of self-worth. To reflect his latest \"superior\" outlook, he built the Model 50, a liquid suit of adaptive Armor based off the Cosmic entities known as symbiotes.",
     "mechanics": "Superior Iron Man\u2019s new kit is Attacker first! Stack as many Buffs as you can and deal massive damage while doing so. Play aggressive and see the HUD glow with 8 different Unique Buffs. Intercept with ease with Auto-Block, and shut down pesky projectile attacks with the all new Instinct Buff!"
+  },
+  {
+    "title": "Symbioid",
+    "slug": "symbioid",
+    "class": "Cosmic",
+    "tags_raw": [
+      "Size: L",
+      "Size M",
+      "Size: S",
+      "Size: XL",
+      "Villain",
+      "Symbiote"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "XL",
+      "other": [
+        "Size M",
+        "Villain",
+        "Symbiote"
+      ]
+    },
+    "abilities": [
+      "Physical Resistance",
+      "Armor",
+      "Cruelty",
+      "Precision",
+      "Fury"
+    ],
+    "immunities": [],
+    "signature_ability": "Symbiosis",
+    "release_date": "October 8, 2025",
+    "portrait_file": null,
+    "featured_file": null,
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "No",
+      "tier7": "No"
+    },
+    "bio": "The Symbioids are the result of having The Collector's own Adaptoids infused with the Venom Symbiote. Originally, these Symbiote-infused underlings were used as an obstacle for the Summoner to defeat, but now, the Summoner leads their charge.",
+    "mechanics": ""
   },
   {
     "title": "Symbiote Supreme",
@@ -13661,6 +14552,58 @@
     "mechanics": "Vision is all about controlling his opponent\u2019s power. Use his powerful Special Attacks to burn or steal some of the defender\u2019s power meter!"
   },
   {
+    "title": "Vision (Deathless)",
+    "slug": "vision_deathless",
+    "class": "Tech",
+    "tags_raw": [
+      "Control: Denial",
+      "Villain",
+      "Metal",
+      "Robot",
+      "Size: M",
+      "Deathless"
+    ],
+    "tags": {
+      "offensive": [],
+      "defensive": [],
+      "size": "M",
+      "other": [
+        "Control: Denial",
+        "Villain",
+        "Metal",
+        "Robot",
+        "Deathless"
+      ]
+    },
+    "abilities": [
+      "Phasing",
+      "Poison Immunity",
+      "Bleed Immunity",
+      "Cold Immunity",
+      "Heal Block"
+    ],
+    "immunities": [
+      "Bleed",
+      "Cold",
+      "Poison"
+    ],
+    "signature_ability": "Phase Shift",
+    "release_date": "July 20, 2024",
+    "portrait_file": "Vision (Deathless) portrait.png",
+    "featured_file": "Vision (Deathless) featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "No",
+      "tier3": "No",
+      "tier4": "No",
+      "tier5": "No",
+      "tier6": "Yes (exclusive)",
+      "tier7": "Yes (exclusive)"
+    },
+    "bio": "In years past, Champions from the Death Realm staged an assault on the Battlerealm. Empowered by the Death Stone, Thanos created nameless, empty versions of the heroes of the Battlerealm. Of these nameless Champions, a select few were granted malicious will and elevated to become the Deathless, to lead his armies and sow chaos and destruction. Vision was the third Deathless he created. Deathless Vision no longer sees the line between good or evil, he draws his own lines.",
+    "mechanics": "With Vision (Deathless), we are granting him new utility in the form of Miss at the cost of some of his old utility, also breathing more life into his Heal Block, playing around more with both of these. Phasing / Miss was something that wasn\u2019t executed with Vision or Vision (Age of Ultron), allowing for this to be a unique new mechanic to a character that very much does this all the time in the MCU. Keep his strong utility but add some additional utility."
+  },
+  {
     "title": "Viv Vision",
     "slug": "viv_vision",
     "class": "Tech",
@@ -13994,6 +14937,51 @@
     },
     "bio": "Empowered with a new cutting-edge Wasp suit, Hope van Dyne is ready to make up for lost time as a Super Hero. Like Ant-Man, she can reduce herself to the size of an insect while disproportionately increasing her strength and durability. Couple this with the ability to fly at impressive speeds and evade enemy attacks and you have one deadly Wasp.",
     "mechanics": ""
+  },
+  {
+    "title": "Wave",
+    "slug": "wave",
+    "class": "Science",
+    "tags_raw": [
+      "Offensive: Raw Damage",
+      "Hero",
+      "Size: S"
+    ],
+    "tags": {
+      "offensive": [
+        "Raw Damage"
+      ],
+      "defensive": [],
+      "size": "S",
+      "other": [
+        "Hero"
+      ]
+    },
+    "abilities": [
+      "Poison Duration Resist",
+      "Incinerate Duration Resist",
+      "Fury",
+      "Debilitate",
+      "Physical Vulnerability",
+      "Tracking",
+      "Battered"
+    ],
+    "immunities": [],
+    "signature_ability": "Hydrotherapy",
+    "release_date": "May TBA, 2026",
+    "portrait_file": "Wave portrait.png",
+    "featured_file": "Wave featured.png",
+    "tiers": {
+      "tier1": "No",
+      "tier2": "Yes",
+      "tier3": "Yes",
+      "tier4": "Yes",
+      "tier5": "Yes",
+      "tier6": "Yes",
+      "tier7": "Yes"
+    },
+    "bio": "Pearl Pangan is a swift swimmer hailing from Cebu, Philippines. During an opportunity to use her talents in a study of swimmers, a raid on the facility led to discovering her power of hydrokinesis: the ability to manipulate water. With her newfound powers, she took up the mantle of hero as \u2018Wave\u2019, fighting alongside Triumph Division and Agents of Atlas.",
+    "mechanics": "Wave is a Champion primarily focused on offense, leaning heavily into her Heavy Attack and the new Battered Debuff. A lot of playing Wave best is getting into the flow, interrupting her combos to get Heavy Attacks in, learning the timing to get openings during the Opponent\u2019s Special Attacks with Untouchable Wave, and utilizing the Battered Debuff to enhance her Physical Damage to find a victory swimmingly."
   },
   {
     "title": "Werewolf By Night",
