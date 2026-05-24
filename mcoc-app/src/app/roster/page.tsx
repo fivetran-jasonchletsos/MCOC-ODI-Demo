@@ -27,6 +27,8 @@ export default function RosterPage() {
   const [failed, setFailed] = useState<string[]>([]);
   const [filterCls, setFilterCls] = useState<ChampionClass | "all">("all");
   const [editing, setEditing] = useState<string | null>(null);
+  const [view, setView] = useState<"grid" | "strength">("strength");
+  const [strengthStars, setStrengthStars] = useState<"all" | 7 | 6>("all");
 
   useEffect(() => {
     setRoster(loadRoster());
@@ -108,6 +110,28 @@ export default function RosterPage() {
     setRoster(entries);
     saveRoster(entries);
   }
+
+  // Strength ranking — 7-star first, then rank desc, then sig desc, awakened, ascended.
+  function strengthScore(r: RosterEntry): number {
+    let s = 0;
+    s += (r.stars ?? 0) * 1000;
+    s += (r.rank ?? 0) * 100;
+    s += Math.min(r.sig ?? 0, 200) * 0.4;
+    if (r.awakened) s += 5;
+    if (r.ascended) s += 8;
+    return s;
+  }
+  const sortedRoster = useMemo(() => {
+    const filtered = roster.filter((r) => {
+      if (strengthStars !== "all" && r.stars !== strengthStars) return false;
+      if (filterCls !== "all") {
+        const c = championBySlug[r.slug];
+        if (!c || c.class !== filterCls) return false;
+      }
+      return true;
+    });
+    return filtered.sort((a, b) => strengthScore(b) - strengthScore(a));
+  }, [roster, strengthStars, filterCls]);
 
   // Insight: ability supercounters scoped to roster
   const rosterSlugs = useMemo(() => new Set(roster.map((r) => r.slug)), [roster]);
@@ -220,6 +244,92 @@ export default function RosterPage() {
           </div>
         </div>
       </section>
+
+      {roster.length > 0 && (
+        <section>
+          <div className="flex items-baseline justify-between flex-wrap gap-3 mb-3">
+            <h2 className="font-display text-xl uppercase tracking-wide text-chrome-soft">
+              My champions by strength
+            </h2>
+            <div className="flex gap-2 text-xs">
+              <button
+                onClick={() => setView(view === "grid" ? "strength" : "grid")}
+                className="px-3 py-1 rounded border border-chrome-soft text-chrome-soft"
+              >
+                {view === "strength" ? "Hide list" : "Show list"}
+              </button>
+            </div>
+          </div>
+          {view === "strength" && (
+            <>
+              <div className="flex flex-wrap gap-1.5 mb-3 items-center">
+                <span className="text-xs uppercase text-chrome-dim mr-1">Stars:</span>
+                {(["all", 7, 6] as const).map((s) => (
+                  <button
+                    key={s}
+                    onClick={() => setStrengthStars(s)}
+                    className="px-2.5 py-1 rounded text-xs font-semibold border"
+                    style={
+                      strengthStars === s
+                        ? { background: "#b53af6", borderColor: "#b53af6", color: "#0a0a12" }
+                        : { background: "transparent", borderColor: "#b53af6", color: "#b53af6", opacity: 0.7 }
+                    }
+                  >
+                    {s === "all" ? "All" : `${s}-star`}
+                  </button>
+                ))}
+                <span className="text-xs text-chrome-dim ml-3">
+                  Sorted: stars → rank → sig → awakened → ascended. {sortedRoster.length} shown.
+                </span>
+              </div>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-2">
+                {sortedRoster.map((r, i) => {
+                  const c = championBySlug[r.slug];
+                  if (!c) return null;
+                  const ck = c.class ? CLASS_KEY[c.class] : "";
+                  const hex = c.class ? { Cosmic: "#f6c83a", Tech: "#3aaaf6", Mutant: "#f6a23a", Skill: "#f6453a", Science: "#3af67a", Mystic: "#b53af6" }[c.class] : "#5a5a68";
+                  return (
+                    <div
+                      key={r.slug}
+                      onClick={() => setEditing(r.slug)}
+                      className={`class-${ck} class-card flex items-center gap-2 p-2 cursor-pointer hover:opacity-90`}
+                    >
+                      <div className="text-xs font-mono text-chrome-dim w-6 text-right">#{i + 1}</div>
+                      {c.portrait ? (
+                        // eslint-disable-next-line @next/next/no-img-element
+                        <img src={asset(c.portrait)} alt={c.title} className="w-10 h-10 object-cover rounded border border-ink-mid flex-shrink-0" />
+                      ) : (
+                        <div className="w-10 h-10 bg-ink-mid rounded grid place-items-center text-[10px] flex-shrink-0">{c.title.slice(0, 2)}</div>
+                      )}
+                      <div className="flex-1 min-w-0">
+                        <div className="font-display font-semibold text-sm truncate" style={{ color: hex }}>{c.title}</div>
+                        <div className="text-[10px] text-chrome-soft flex gap-1.5 items-center">
+                          <span>{c.class}</span>
+                          <span className="font-mono">{r.stars}* R{r.rank ?? "?"}</span>
+                          {r.sig ? <span className="font-mono">sig{r.sig}</span> : null}
+                          {r.awakened ? <span className="text-cosmic">AWK</span> : null}
+                          {r.ascended ? <span className="text-mystic">ASC</span> : null}
+                        </div>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+              {editing && roster.find((r) => r.slug === editing) && (
+                <div className="fixed inset-0 bg-black/60 z-50 grid place-items-center p-4" onClick={() => setEditing(null)}>
+                  <div onClick={(e) => e.stopPropagation()}>
+                    <RosterCellEditor
+                      initial={roster.find((r) => r.slug === editing)!}
+                      onSave={saveEntry}
+                      onClose={() => setEditing(null)}
+                    />
+                  </div>
+                </div>
+              )}
+            </>
+          )}
+        </section>
+      )}
 
       <section>
         <h2 className="font-display text-xl uppercase tracking-wide text-chrome-soft mb-3">
