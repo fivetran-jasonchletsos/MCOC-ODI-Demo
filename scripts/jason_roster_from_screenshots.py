@@ -218,7 +218,7 @@ ENTRIES = [
     ("Star-Lord (Stellan)", 20150, 6),
     ("Karnak", 20120, 6),
     ("Angela", 20103, 6),
-    ("Massacre", 19958, 6),
+    ("Masacre", 19958, 6),
     ("Super-Skrull", 19850, 6),
     ("Hulkbuster", 19720, 6),
     ("Agent Venom", 19710, 6),
